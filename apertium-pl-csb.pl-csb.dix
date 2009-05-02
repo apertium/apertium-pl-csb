@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+  <alphabet/>
+  <sdefs>
+    <sdef n="adv"/>
+    <sdef n="itg"/>
+    <sdef n="cnjcoo"/>
+    <sdef n="pr"/>
+    <sdef n="n"/>
+    <sdef n="mi"/>
+    <sdef n="f"/>
+    <sdef n="adj"/>
+    <sdef n="vbser"/>
+    <sdef n="vblex"/>
+    <sdef n="imperf"/>
+    <sdef n="perf"/>
+  </sdefs>
+  <pardefs/>
+
+  <section id="main" type="standard">
+    <e><p><l>i<s n="cnjcoo"/></l><r>ë<s n="cnjcoo"/></r></p></e>
+  
+    <e><p><l>kiedy<s n="adv"/><s n="itg"/></l><r>czej<s n="adv"/><s n="itg"/></r></p></e>
+    <e><p><l>w<b/>domu<s n="adv"/></l><r>doma<s n="adv"/></r></p></e>
+
+    <e><p><l>w<s n="pr"/></l><r>w<s n="pr"/></r></p></e>
+    <e><p><l>do<s n="pr"/></l><r>do<s n="pr"/></r></p></e>
+    <e><p><l>na<s n="pr"/></l><r>na<s n="pr"/></r></p></e>
+    <e><p><l>od<s n="pr"/></l><r>òd<s n="pr"/></r></p></e>
+    
+    <e><p><l>być<s n="vbser"/></l><r>bëc<s n="vbser"/></r></p></e>
+    
+    <e><p><l>tydzień<s n="n"/><s n="mi"/></l><r>tidzéń<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>styczeń<s n="n"/><s n="mi"/></l><r>stëcznik<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>luty<s n="n"/><s n="mi"/></l><r>gromicznik<s n="n"/><s n="mi"/></r></p></e> 
+    <e><p><l>marzec<s n="n"/><s n="mi"/></l><r>strumiannik<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>kwiecień<s n="n"/><s n="mi"/></l><r>łżëkwiôt<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>maj<s n="n"/><s n="mi"/></l><r>môj<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>czerwiec<s n="n"/><s n="mi"/></l><r>czerwińc<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>lipiec<s n="n"/><s n="mi"/></l><r>lëpinc<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>sierpień<s n="n"/><s n="mi"/></l><r>zélnik<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>wrzesień<s n="n"/><s n="mi"/></l><r>séwnik<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>październik<s n="n"/><s n="mi"/></l><r>rujan<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>listopad<s n="n"/><s n="mi"/></l><r>lëstopadnik<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>grudzień<s n="n"/><s n="mi"/></l><r>gòdnik<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>poniedziałek<s n="n"/><s n="mi"/></l><r>pòniedzôłk<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>wtorek<s n="n"/><s n="mi"/></l><r>wtórk<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>środa<s n="n"/><s n="f"/></l><r>strzod<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>czwartek<s n="n"/><s n="mi"/></l><r>czwôrtk<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>piątek<s n="n"/><s n="mi"/></l><r>piątk<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>sobota<s n="n"/><s n="f"/></l><r>sobòta<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>niedziela<s n="n"/><s n="f"/></l><r>niedzela<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>budynek<s n="n"/><s n="mi"/></l><r>bùdink<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>mianownik<s n="n"/><s n="mi"/></l><r>nazéwôcz<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>dopełniacz<s n="n"/><s n="mi"/></l><r>rodzôcz<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>celownik<s n="n"/><s n="mi"/></l><r>dôwôcz<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>biernik<s n="n"/><s n="mi"/></l><r>winowôcz<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>narzędnik<s n="n"/><s n="mi"/></l><r>narzãdzôcz<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>miejscownik<s n="n"/><s n="mi"/></l><r>môlnik<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>wołacz<s n="n"/><s n="mi"/></l><r>wòłiwôcz<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>nominatyw<s n="n"/><s n="mi"/></l><r>nominatiw<s n="n"/><s n="mi"/></r></p></e>
+    <e r="LR"><p><l>nominatiwus<s n="n"/><s n="mi"/></l><r>nominatiw<s n="n"/><s n="mi"/></r></p></e>
+    <e r="LR"><p><l>nominativus<s n="n"/><s n="mi"/></l><r>nominatiw<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>genitiwus<s n="n"/><s n="mi"/></l><r>genytiw<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>datiwus<s n="n"/><s n="mi"/></l><r>datiw<s n="n"/><s n="mi"/></r></p></e>
+    <e r="LR"><p><l>dativus<s n="n"/><s n="mi"/></l><r>datiw<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>akuzatyw<s n="n"/><s n="mi"/></l><r>akùzatiw<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>instrumentalis<s n="n"/><s n="mi"/></l><r>jinstrumental<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>lokatiwus<s n="n"/><s n="mi"/></l><r>lokatiw<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>wokatiwus<s n="n"/><s n="mi"/></l><r>wòkatiw<s n="n"/><s n="mi"/></r></p></e>
+    <e r="LR"><p><l>vocativus<s n="n"/><s n="mi"/></l><r>wòkatiw<s n="n"/><s n="mi"/></r></p></e>
+    
+    <e><p><l>kaszubski<s n="adj"/></l><r>kaszëbsczi<s n="adj"/></r></p></e>
+    <e><p><l>rzymski<s n="adj"/></l><r>rzimsczi<s n="adj"/></r></p></e>
+    <e><p><l>abchaski<s n="adj"/></l><r>abchasczi<s n="adj"/></r></p></e>
+    <e><p><l>afrykanerski<s n="adj"/></l><r>afrikanersczi<s n="adj"/></r></p></e>
+    <e><p><l>albański<s n="adj"/></l><r>albańsczi<s n="adj"/></r></p></e>
+    <e><p><l>alemański<s n="adj"/></l><r>alemańsczi<s n="adj"/></r></p></e>
+    <e><p><l>akadyjski<s n="adj"/></l><r>akadëjsczi<s n="adj"/></r></p></e>
+    <e><p><l>amharski<s n="adj"/></l><r>amcharsczi<s n="adj"/></r></p></e>
+    <e><p><l>angielski<s n="adj"/></l><r>anielsczi<s n="adj"/></r></p></e>
+    <e><p><l>arabski<s n="adj"/></l><r>arabsczi<s n="adj"/></r></p></e>
+    <e><p><l>aragoński<s n="adj"/></l><r>aragòńsczi<s n="adj"/></r></p></e>
+    <e><p><l>aramejski<s n="adj"/></l><r>aramejsczi<s n="adj"/></r></p></e>
+    <e><p><l>baskijski<s n="adj"/></l><r>baskijsczi<s n="adj"/></r></p></e>
+    <e><p><l>białoruski<s n="adj"/></l><r>białorusczi<s n="adj"/></r></p></e>
+    <e><p><l>bretoński<s n="adj"/></l><r>bretońsczi<s n="adj"/></r></p></e>
+    <e><p><l>bułgarski<s n="adj"/></l><r>bùlgarsczi<s n="adj"/></r></p></e>
+    <e><p><l>chiński<s n="adj"/></l><r>chińsczi<s n="adj"/></r></p></e>
+    <e><p><l>czeczeński<s n="adj"/></l><r>czeczeńsczi<s n="adj"/></r></p></e>
+    <e><p><l>czeski<s n="adj"/></l><r>czesczi<s n="adj"/></r></p></e>
+    <e><p><l>czirokeski<s n="adj"/></l><r>czirokesczi<s n="adj"/></r></p></e>
+    <e><p><l>dolnosaksoński<s n="adj"/></l><r>dolnosaksóńsczi<s n="adj"/></r></p></e>
+    <e><p><l>duński<s n="adj"/></l><r>dëńsczi<s n="adj"/></r></p></e>
+    <e><p><l>egipski<s n="adj"/></l><r>egipsczi<s n="adj"/></r></p></e>
+    <e><p><l>estoński<s n="adj"/></l><r>estońsczi<s n="adj"/></r></p></e>
+    <e><p><l>etruski<s n="adj"/></l><r>etrusczi<s n="adj"/></r></p></e>
+    <e><p><l>fiński<s n="adj"/></l><r>fińsczi<s n="adj"/></r></p></e>
+    <e><p><l>francuski<s n="adj"/></l><r>francësczi<s n="adj"/></r></p></e>
+    <e><p><l>friulski<s n="adj"/></l><r>friùlsczi<s n="adj"/></r></p></e>
+    <e><p><l>fryzyjski<s n="adj"/></l><r>frizëjsczi<s n="adj"/></r></p></e>
+    <e><p><l>galicyjski<s n="adj"/></l><r>galicëjsczi<s n="adj"/></r></p></e>
+    <e><p><l>haitański<s n="adj"/></l><r>haitańsczi<s n="adj"/></r></p></e>
+    <e><p><l>hawajski<s n="adj"/></l><r>hawajsczi<s n="adj"/></r></p></e>
+    <e><p><l>hebrajski<s n="adj"/></l><r>hebrajsczi<s n="adj"/></r></p></e>
+    <e><p><l>indonezyjski<s n="adj"/></l><r>indonezëjsczi<s n="adj"/></r></p></e>
+    <e><p><l>włoski<s n="adj"/></l><r>italsczi<s n="adj"/></r></p></e>
+    <e><p><l>japoński<s n="adj"/></l><r>japòńsczi<s n="adj"/></r></p></e>
+    <e><p><l>jawajski<s n="adj"/></l><r>jawajsczi<s n="adj"/></r></p></e>
+    <e><p><l>kataloński<s n="adj"/></l><r>katalońsczi<s n="adj"/></r></p></e>
+    <e><p><l>kazachski<s n="adj"/></l><r>kazachsczi<s n="adj"/></r></p></e>
+    <e><p><l>khmerski<s n="adj"/></l><r>khmersczi<s n="adj"/></r></p></e>
+    <e><p><l>kirgiski<s n="adj"/></l><r>kirgisczi<s n="adj"/></r></p></e>
+    <e><p><l>klingoński<s n="adj"/></l><r>klingòńsczi<s n="adj"/></r></p></e>
+    <e><p><l>kornwalijski<s n="adj"/></l><r>kòrnwalijsczi<s n="adj"/></r></p></e>
+    <e><p><l>kornijski<s n="adj"/></l><r>kòrnyjsczi<s n="adj"/></r></p></e>
+    <e><p><l>korsykański<s n="adj"/></l><r>kòrsykańsczi<s n="adj"/></r></p></e>
+    <e><p><l>koreański<s n="adj"/></l><r>kòrejańsczi<s n="adj"/></r></p></e>
+    <e><p><l>krimskotatarski<s n="adj"/></l><r>krimskòtatarsczi<s n="adj"/></r></p></e>
+    <e><p><l>kurdyjski<s n="adj"/></l><r>kùrdëjsczi<s n="adj"/></r></p></e>
+    <e><p><l>laotański<s n="adj"/></l><r>laòtańsczi<s n="adj"/></r></p></e>
+    <e><p><l>lapoński<s n="adj"/></l><r>lapòńsczi<s n="adj"/></r></p></e>
+    <e><p><l>inguski<s n="adj"/></l><r>ingùsczi<s n="adj"/></r></p></e>
+    <e><p><l>litewski<s n="adj"/></l><r>lëtewsczi<s n="adj"/></r></p></e>
+    <e><p><l>limburski<s n="adj"/></l><r>limbùrgëjsczi<s n="adj"/></r></p></e>
+    <e><p><l>luksemburski<s n="adj"/></l><r>luksembùrsczi<s n="adj"/></r></p></e>
+    <e><p><l>łotewski<s n="adj"/></l><r>łotewsczi<s n="adj"/></r></p></e>
+    <e><p><l>macedoński<s n="adj"/></l><r>macedońsczi<s n="adj"/></r></p></e>
+    <e><p><l>pendżabski<s n="adj"/></l><r>pandżabsczi<s n="adj"/></r></p></e>
+    <e><p><l>malajski<s n="adj"/></l><r>malajsczi<s n="adj"/></r></p></e>
+    <e><p><l>malgaski<s n="adj"/></l><r>malgasczi<s n="adj"/></r></p></e>
+    <e><p><l>maltański<s n="adj"/></l><r>maltańsczi<s n="adj"/></r></p></e>
+    <e><p><l>mołdawski<s n="adj"/></l><r>mòłdawsczi<s n="adj"/></r></p></e>
+    <e><p><l>mongolski<s n="adj"/></l><r>mòngolsczi<s n="adj"/></r></p></e>
+    <e><p><l>naurański<s n="adj"/></l><r>naùrańsczi<s n="adj"/></r></p></e>
+    <e><p><l>neapolitański<s n="adj"/></l><r>neapòlitańsczi<s n="adj"/></r></p></e>
+    <e><p><l>norweski<s n="adj"/></l><r>norwesczi<s n="adj"/></r></p></e>
+    <e><p><l>osetyjski<s n="adj"/></l><r>òsetëjsczi<s n="adj"/></r></p></e>
+    <e><p><l>ormiański<s n="adj"/></l><r>òrmiańsczi<s n="adj"/></r></p></e>
+    <e><p><l>perski<s n="adj"/></l><r>persczi<s n="adj"/></r></p></e>
+    <e><p><l>polski<s n="adj"/></l><r>pòlsczi<s n="adj"/></r></p></e>
+    <e><p><l>portugalski<s n="adj"/></l><r>pòrtugalsczi<s n="adj"/></r></p></e>
+    <e><p><l>pruski<s n="adj"/></l><r>prësczi<s n="adj"/></r></p></e>
+    <e><p><l>prowansalski<s n="adj"/></l><r>prowansalsczi<s n="adj"/></r></p></e>
+    <e><p><l>rumuński<s n="adj"/></l><r>rumùńsczi<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>ruski<s n="adj"/></l><r>rusczi<s n="adj"/></r></p></e>
+    <e><p><l>rosyjski<s n="adj"/></l><r>rusczi<s n="adj"/></r></p></e>
+    <e><p><l>serbski<s n="adj"/></l><r>serbsczi<s n="adj"/></r></p></e>
+    <e><p><l>sardyński<s n="adj"/></l><r>sardińsczi<s n="adj"/></r></p></e>
+    <e><p><l>słoweński<s n="adj"/></l><r>sloweńsczi<s n="adj"/></r></p></e>
+    <e><p><l>staroangielski<s n="adj"/></l><r>stôroanielsczi<s n="adj"/></r></p></e>
+    <e><p><l>staro-cerkiewno-słowiański<s n="adj"/></l><r>stôrocerkwiowòsłowiańsczi<s n="adj"/></r></p></e>
+    <e><p><l>staronordyjski<s n="adj"/></l><r>stôronordëjsczi<s n="adj"/></r></p></e>
+    <e><p><l>nordyjski<s n="adj"/></l><r>nordëjsczi<s n="adj"/></r></p></e>
+    <e><p><l>starolitewski<s n="adj"/></l><r>stôrolëtewsczi<s n="adj"/></r></p></e>
+    <e><p><l>staropruski<s n="adj"/></l><r>stôroprësczi<s n="adj"/></r></p></e>
+    <e><p><l>sumeryjski<s n="adj"/></l><r>sumerëjsczi<s n="adj"/></r></p></e>
+    <e><p><l>asturyjski<s n="adj"/></l><r>asturëjsczi<s n="adj"/></r></p></e>
+    <e><p><l>węgierski<s n="adj"/></l><r>madżarsczi<s n="adj"/></r></p></e>
+    <e><p><l>sundajski<s n="adj"/></l><r>sundajsczi<s n="adj"/></r></p></e>
+    <e><p><l>sycylijski<s n="adj"/></l><r>sycylijsczi<s n="adj"/></r></p></e>
+    <e><p><l>hiszpański<s n="adj"/></l><r>szpańsczi<s n="adj"/></r></p></e>
+    <e><p><l>tagalski<s n="adj"/></l><r>tagalsczi<s n="adj"/></r></p></e>
+    <e><p><l>tajski<s n="adj"/></l><r>tajsczi<s n="adj"/></r></p></e>
+    <e><p><l>tamilski<s n="adj"/></l><r>tamilsczi<s n="adj"/></r></p></e>
+    <e><p><l>tatarski<s n="adj"/></l><r>tatarsczi<s n="adj"/></r></p></e>
+    <e><p><l>tongański<s n="adj"/></l><r>tongańsczi<s n="adj"/></r></p></e>
+    <e><p><l>turkmeński<s n="adj"/></l><r>turkmeńsczi<s n="adj"/></r></p></e>
+    <e><p><l>ukraiński<s n="adj"/></l><r>ùkrajińsczi<s n="adj"/></r></p></e>
+    <e><p><l>ujgurski<s n="adj"/></l><r>ùjgùrsczi<s n="adj"/></r></p></e>
+    <e><p><l>walijski<s n="adj"/></l><r>walijsczi<s n="adj"/></r></p></e>
+    <e><p><l>wietnamski<s n="adj"/></l><r>wietnamsczi<s n="adj"/></r></p></e>
+    <e><p><l>wilamowski<s n="adj"/></l><r>wilamòwsczi<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>wilamowicki<s n="adj"/></l><r>wilamòwsczi<s n="adj"/></r></p></e>
+    <e><p><l>górnołużycki<s n="adj"/></l><r>górnosorbsczi<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>górnosorbski<s n="adj"/></l><r>górnosorbsczi<s n="adj"/></r></p></e>
+    <e><p><l>dolnołużycki<s n="adj"/></l><r>dolnosorbsczi<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>dolnosorbski<s n="adj"/></l><r>dolnosorbsczi<s n="adj"/></r></p></e>
+    <e><p><l>awarski<s n="adj"/></l><r>awarsczi<s n="adj"/></r></p></e>
+    <e><p><l>azerski<s n="adj"/></l><r>azersczi<s n="adj"/></r></p></e>
+    <e><p><l>adygejski<s n="adj"/></l><r>adigejsczi<s n="adj"/></r></p></e>
+    <e><p><l>arumuński<s n="adj"/></l><r>arumùńsczi<s n="adj"/></r></p></e>
+    <e><p><l>armeński<s n="adj"/></l><r>armejsczi<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>ormiański<s n="adj"/></l><r>armejsczi<s n="adj"/></r></p></e>
+    <e><p><l>banjumasański<s n="adj"/></l><r>banjumańsczi<s n="adj"/></r></p></e> <!-- FIXME -->
+    <e><p><l>gruziński<s n="adj"/></l><r>grëzóńsczi<s n="adj"/></r></p></e>
+    <e><p><l>lezgiński<s n="adj"/></l><r>lezgëńsczi<s n="adj"/></r></p></e>
+    <e><p><l>romski<s n="adj"/></l><r>romsczi<s n="adj"/></r></p></e>
+    <e><p><l>chorwacki<s n="adj"/></l><r>chòrwacczi<s n="adj"/></r></p></e>
+  </section>
+</dictionary>
