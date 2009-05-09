@@ -69,6 +69,7 @@
     <e><p><l>lokatiwus<s n="n"/><s n="mi"/></l><r>lokatiw<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>wokatiwus<s n="n"/><s n="mi"/></l><r>wòkatiw<s n="n"/><s n="mi"/></r></p></e>
     <e r="LR"><p><l>vocativus<s n="n"/><s n="mi"/></l><r>wòkatiw<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>koń<s n="n"/><s n="ma"/></l><r>kóń<s n="n"/><s n="ma"/></r></p></e>
     <e i="yes"><p><l>strona<s n="n"/><s n="f"/></l><r>starna<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>historia<s n="n"/><s n="f"/></l><r>historëjô<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>wersja<s n="n"/><s n="f"/></l><r>wersëjô<s n="n"/><s n="f"/></r></p></e>
@@ -193,5 +194,8 @@
     <e><p><l>lezgiński<s n="adj"/></l><r>lezgëńsczi<s n="adj"/></r></p></e>
     <e><p><l>romski<s n="adj"/></l><r>romsczi<s n="adj"/></r></p></e>
     <e><p><l>chorwacki<s n="adj"/></l><r>chòrwacczi<s n="adj"/></r></p></e>
+    
+    <e><p><l>młody<s n="adj"/><s n="sint"/></l><r>młodi<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>tani<s n="adj"/><s n="sint"/></l><r>tóni<s n="adj"/><s n="sint"/></r></p></e>
   </section>
 </dictionary>

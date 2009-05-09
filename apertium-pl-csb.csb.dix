@@ -1443,7 +1443,93 @@
         </p>
       </e>
     </pardef>
-  
+    <pardef n="k/óń__n">
+      <e>
+        <p>
+          <l>ònia</l>
+          <r>óń<s n="n"/><s n="ma"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>òniowi</l>
+          <r>óń<s n="n"/><s n="ma"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ònia</l>
+          <r>óń<s n="n"/><s n="ma"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>òniu</l>
+          <r>óń<s n="n"/><s n="ma"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>òniu</l>
+          <r>óń<s n="n"/><s n="ma"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>òniã</l>
+          <r>óń<s n="n"/><s n="ma"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>óń</l>
+          <r>óń<s n="n"/><s n="ma"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>òni</l>
+          <r>óń<s n="n"/><s n="ma"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>òniom</l>
+          <r>óń<s n="n"/><s n="ma"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ònie</l>
+          <r>óń<s n="n"/><s n="ma"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>òniach</l>
+          <r>óń<s n="n"/><s n="ma"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ònie</l>
+          <r>óń<s n="n"/><s n="ma"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>òniama</l>
+          <r>óń<s n="n"/><s n="ma"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ònie</l>
+          <r>óń<s n="n"/><s n="ma"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
     <!-- vbser -->
     <pardef n="/bëc__vbser">
       <e>
@@ -2142,6 +2228,24 @@
         </p>
       </e>
     </pardef>
+    <pardef n="młod/i__adj">
+      <e>
+        <p>
+          <l></l>
+          <r>i<s n="adj"/><s n="sint"/><s n="pst"/></r>
+        </p>
+        <par n="młod/i__HARD_BASE"/>
+      </e>
+    </pardef>
+    <pardef n="tón/i__adj">
+      <e>
+        <p>
+          <l></l>
+          <r>i<s n="adj"/><s n="sint"/><s n="pst"/></r>
+        </p>
+        <par n="tón/i__SOFT_BASE"/>
+      </e>
+    </pardef>
 
   </pardefs>
   <section id="main" type="standard">
@@ -2192,6 +2296,7 @@
     <e lm="wòkatiw"><i>wòkatiw</i><par n="nominatiw/__n"/></e> <!-- vocative -->
     <!-- normal nouns -->
     <e lm="bùdink"><i>bùdin</i><par n="piąt/k__n"/></e> <!-- building -->
+    <e lm="kóń"><i>k</i><par n="k/óń__n"/></e> <!-- horse -->
     
     <e lm="wersëjô"><i>wersëj</i><par n="wersëj/ô__n"/></e> <!-- version -->
     <e lm="historëjô"><i>historëj</i><par n="wersëj/ô__n"/></e> <!-- history -->
@@ -2314,5 +2419,8 @@
     <e lm="walijsczi"><i>walijs</i><par n="kaszëbs/czi__adj"/></e>
     <e lm="wietnamsczi"><i>wietnams</i><par n="kaszëbs/czi__adj"/></e>
     <e lm="wilamòwsczi"><i>wilamòws</i><par n="kaszëbs/czi__adj"/></e>
+    
+    <e lm="młodi"><i>młod</i><par n="młod/i__adj"/></e>
+    <e lm="tóni"><i>tón</i><par n="tón/i__adj"/></e>
   </section>
  </dictionary>
