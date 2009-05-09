@@ -2823,12 +2823,12 @@
       </e>
     </pardef>
     <pardef n="piérw/i__det">
-      <e c="FIXME: is w hard or soft? soft, I think">
+      <e>
         <p>
           <l></l>
           <r>i<s n="det"/><s n="ord"/></r>
         </p>
-        <par n="tón/i__SOFT_BASE"/>
+        <par n="młod/i__HARD_BASE"/>
       </e>
     </pardef>
     <pardef n="jasn/y__adj">
@@ -3030,6 +3030,7 @@
     
     <e lm="młodi"><i>młod</i><par n="młod/i__adj"/></e>
     <e lm="dobri"><i>dobr</i><par n="młod/i__adj"/></e>
+    <e lm="nowi"><i>now</i><par n="młod/i__adj"/></e>
     <e lm="tóni"><i>tón</i><par n="tón/i__adj"/></e>
     <e lm="piérwi"><i>piérw</i><par n="piérw/i__det"/></e>
     <e lm="jasny"><i>jasn</i><par n="jasn/y__adj"/></e>
