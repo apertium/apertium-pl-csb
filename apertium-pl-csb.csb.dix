@@ -133,6 +133,18 @@
       </e>
       <e>
         <p>
+          <l>czich</l>
+          <r>czi<s n="adj"/><s n="m"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>czich</l>
+          <r>czi<s n="adj"/><s n="nm"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
           <l>czi</l>
           <r>czi<s n="adj"/><s n="ma"/><s n="sg"/><s n="acc"/></r>
         </p>
@@ -189,6 +201,12 @@
         <p>
           <l>kù</l>
           <r>czi<s n="adj"/><s n="altdat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kò</l>
+          <r>czi<s n="adj"/><s n="cpd"/></r>
         </p>
       </e>
     </pardef>
