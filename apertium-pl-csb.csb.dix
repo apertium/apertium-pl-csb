@@ -2595,6 +2595,14 @@
     <e lm="Lëtewskô"><i>Lëtews</i><par n="Pòls/kô__np"/></e>
     <e lm="Norweskô"><i>Norwes</i><par n="Pòls/kô__np"/></e>
     <e lm="Estóńskô"><i>Estóńs</i><par n="Pòls/kô__np"/></e>
+    <e lm="Miemieckô"><i>Miemiec</i><par n="Pòls/kô__np"/></e>
+    <e lm="Słowackô"><i>Słowac</i><par n="Pòls/kô__np"/></e>
+    <e lm="Tëreckô"><i>Tërec</i><par n="Pòls/kô__np"/></e>
+    <e lm="Czeskô"><i>Czes</i><par n="Pòls/kô__np"/></e>
+    <e lm="Aùstrëjackô"><i>Aùstrëjac</i><par n="Pòls/kô__np"/></e>
+    <e lm="Chòrwackô"><i>Chòrwac</i><par n="Pòls/kô__np"/></e>
+    <e lm="Belgijskô"><i>Belgijs</i><par n="Pòls/kô__np"/></e>
+    <e lm="Biôłorëskô"><i>Biôłorës</i><par n="Pòls/kô__np"/></e>
   
     <!-- Verbs -->
     <e lm="bëc"><i>bëc</i><par n="/bëc__vbser"/></e> <!-- be -->
