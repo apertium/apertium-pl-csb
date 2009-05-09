@@ -1701,6 +1701,110 @@
         </p>
       </e>
     </pardef>
+    <pardef n="serc/e__n">
+      <e>
+        <p>
+          <l>a</l>
+          <r>e<s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r>e<s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r>e<s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r>e<s n="n"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>e</l>
+          <r>e<s n="n"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r>e<s n="n"/><s n="nt"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ã</l>
+          <r>e<s n="n"/><s n="nt"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>em</l>
+          <r>e<s n="n"/><s n="nt"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r>e<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ów</l>
+          <r>e<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l></l>
+          <r>e<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>om</l>
+          <r>e<s n="n"/><s n="nt"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r>e<s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ach</l>
+          <r>e<s n="n"/><s n="nt"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r>e<s n="n"/><s n="nt"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ama</l>
+          <r>e<s n="n"/><s n="nt"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r>e<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
 
     <!-- vbser -->
     <pardef n="/bëc__vbser">
@@ -2479,12 +2583,18 @@
     <e lm="bùdink"><i>bùdin</i><par n="piąt/k__n"/></e> <!-- building -->
     <e lm="kóń"><i>k</i><par n="k/óń__n"/></e> <!-- horse -->
     <e lm="latawiskò"><i>latawisk</i><par n="latawisk/ò__n"/></e> <!-- airport -->
-    <e lm="latawiszcze"><i>latawiszcz</i><par n="latawiszcz/e__n"/></e> 
+    <e lm="latawiszcze"><i>latawiszcz</i><par n="latawiszcz/e__n"/></e> <!-- airport -->
+    <e lm="serce"><i>serc</i><par n="serc/e__n"/></e> <!-- heart -->
     <e lm="wersëjô"><i>wersëj</i><par n="wersëj/ô__n"/></e> <!-- version -->
     <e lm="historëjô"><i>historëj</i><par n="wersëj/ô__n"/></e> <!-- history -->
     <e lm="perkùsëjô"><i>perkùsëj</i><par n="wersëj/ô__n"/></e> <!-- percussion -->
     
     <e lm="Pòlskô"><i>Pòls</i><par n="Pòls/kô__np"/></e>
+    <e lm="Ruskô"><i>Rus</i><par n="Pòls/kô__np"/></e>
+    <e lm="Szpańskô"><i>Szpańs</i><par n="Pòls/kô__np"/></e>
+    <e lm="Lëtewskô"><i>Lëtews</i><par n="Pòls/kô__np"/></e>
+    <e lm="Norweskô"><i>Norwes</i><par n="Pòls/kô__np"/></e>
+    <e lm="Estóńskô"><i>Estóńs</i><par n="Pòls/kô__np"/></e>
   
     <!-- Verbs -->
     <e lm="bëc"><i>bëc</i><par n="/bëc__vbser"/></e> <!-- be -->
