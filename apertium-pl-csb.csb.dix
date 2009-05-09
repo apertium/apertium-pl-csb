@@ -156,6 +156,32 @@
         </p>
       </e>
     </pardef>
+    <pardef n="wersëj/ô__n">
+      <e>
+        <p>
+          <l>ô</l>
+          <r>ô<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r>ô<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ą</l>
+          <r>ô<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r>ô<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="tidzé/ń__n">
       <e>
         <p>
@@ -1540,6 +1566,10 @@
     <e lm="wòkatiw"><i>wòkatiw</i><par n="nominatiw/__n"/></e> <!-- vocative -->
     <!-- normal nouns -->
     <e lm="bùdink"><i>bùdin</i><par n="piąt/k__n"/></e> <!-- building -->
+    
+    <e lm="wersëjô"><i>wersëj</i><par n="wersëj/ô__n"/></e> <!-- version -->
+    <e lm="historëjô"><i>historëj</i><par n="wersëj/ô__n"/></e> <!-- history -->
+    <e lm="perkùsëjô"><i>perkùsëj</i><par n="wersëj/ô__n"/></e> <!-- percussion -->
   
     <!-- Verbs -->
     <e lm="bëc"><i>bëc</i><par n="/bëc__vbser"/></e> <!-- be -->
