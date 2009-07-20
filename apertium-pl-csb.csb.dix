@@ -2937,9 +2937,9 @@
     <e lm="gòdnik"><i>gòdni</i><par n="stëczni/k__n"/></e> <!-- December -->
     <!-- days -->
     <e lm="pòniedzôłk"><i>pòniedz</i><par n="pòniedz/ôłk__n"/></e> <!-- Monday -->
-    <e lm="wtórk" i="yes"><i>wtór</i><par n="wtór/k__n"/></e> <!-- Tuesday -->
+    <e lm="wtórk"><i>wtór</i><par n="piąt/k__n"/></e> <!-- Tuesday -->
     <e lm="strzod"><i>strzod</i><par n="strzod/a__n"/></e> <!-- Tuesday -->
-    <e lm="czwôrtk" i="yes"><i>czwôrt</i><par n="czwôrt/k__n"/></e> <!-- Thursday -->
+    <e lm="czwôrtk"><i>czwôrt</i><par n="piąt/k__n"/></e> <!-- Thursday -->
     <e lm="piątk"><i>piąt</i><par n="piąt/k__n"/></e> <!-- Friday -->
     <e lm="sobòta"><i>sobò</i><par n="sobò/ta__n"/></e> <!-- Saturday-->
     <e lm="niedzela"><i>niedzel</i><par n="niedzel/a__n"/></e> <!-- Sunday -->
