@@ -4,6 +4,7 @@
   <alphabet>AaĄąÃãBbCcDdEeÉéËëFfGgHhIiJjKkLlŁłMmNnŃńOoÒòÓóÔôPpRrSsTtUuÙùWwYyZzŻż</alphabet>
   <sdefs>
     <sdef n="n"/>
+    <sdef n="adv"/>
     
     <sdef n="mp"/>
     <sdef n="ma"/>
@@ -62,7 +63,15 @@
         </p>
       </e>
     </pardef>
-  
+    <pardef n="téż__adv">
+      <e>
+        <p>
+          <l/>
+          <r><s n="adv"/></r>
+        </p>
+      </e>
+    </pardef>
+
     <pardef n="kaszëbs/czi__adj">
       <e>
         <p>
@@ -1899,6 +1908,12 @@
           <r>bëc<s n="vbser"/><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r>
         </p>
       </e>
+      <e>
+        <p>
+          <l>bëło</l>
+          <r>bëc<s n="vbser"/><s n="past"/><s n="p3"/><s n="nt"/><s n="sg"/></r>
+        </p>
+      </e>
     </pardef>
     <pardef n="mieszk/ac__vblex">
       <e>
@@ -2868,6 +2883,7 @@
     <e lm="na"><i>na</i><par n="do__pr"/></e>
     <e lm="w"><i>w</i><par n="do__pr"/></e>
     <e lm="òd"><i>òd</i><par n="do__pr"/></e>
+    <e lm="z"><i>z</i><par n="do__pr"/></e>
     
     <e lm="tidzéń"><i>tidzé</i><par n="tidzé/ń__n"/></e> <!-- week -->
     <!-- months -->
@@ -2917,6 +2933,26 @@
     <e lm="perkùsëjô"><i>perkùsëj</i><par n="wersëj/ô__n"/></e> <!-- percussion -->
     <e lm="diskùsëjô"><i>diskùsëj</i><par n="wersëj/ô__n"/></e> <!-- discussion -->
     <e lm="edicëjô"><i>edicëj</i><par n="wersëj/ô__n"/></e> <!-- edition -->
+    <e lm="kategòrëjô"><i>kategòrëj</i><par n="wersëj/ô__n"/></e> <!-- category -->
+    <e lm="Wikipedijô"><i>Wikipedij</i><par n="wersëj/ô__n"/></e> 
+    <e lm="kòòrdinacëjô"><i>kòòrdinacëj</i><par n="wersëj/ô__n"/></e> 
+    <e lm="industrëjô"><i>industrëj</i><par n="wersëj/ô__n"/></e> 
+    <e lm="fòtografijô"><i>fòtografij</i><par n="wersëj/ô__n"/></e> 
+    <e lm="psychòlogijô"><i>psychòlogij</i><par n="wersëj/ô__n"/></e> 
+    <e lm="pòlitologijô"><i>pòlitologij</i><par n="wersëj/ô__n"/></e> 
+    <e lm="filozofijô"><i>filozofij</i><par n="wersëj/ô__n"/></e> 
+    <e lm="ekònomijô"><i>ekònomij</i><par n="wersëj/ô__n"/></e> 
+    <e lm="archeòlogijô"><i>archeòlogij</i><par n="wersëj/ô__n"/></e> 
+    <e lm="antropòlogijô"><i>antropòlogij</i><par n="wersëj/ô__n"/></e> 
+    <e lm="astronomijô"><i>astronomij</i><par n="wersëj/ô__n"/></e> 
+    <e lm="biologijô"><i>biologij</i><par n="wersëj/ô__n"/></e> 
+    <e lm="geògrafijô"><i>geògrafij</i><par n="wersëj/ô__n"/></e> 
+    <e lm="chemijô"><i>chemij</i><par n="wersëj/ô__n"/></e> 
+    <e lm="terminologijô"><i>terminologij</i><par n="wersëj/ô__n"/></e> 
+    <e lm="informacëjô"><i>informacëj</i><par n="wersëj/ô__n"/></e> 
+    <e lm="licencëjô"><i>licencëj</i><par n="wersëj/ô__n"/></e> 
+    <e lm="religijô"><i>religij</i><par n="wersëj/ô__n"/></e> 
+    <e lm="telewizëjô"><i>telewizëj</i><par n="wersëj/ô__n"/></e> 
     
     <e lm="Pòlskô"><i>Pòls</i><par n="Pòls/kô__np"/></e>
     <e lm="Ruskô"><i>Rus</i><par n="Pòls/kô__np"/></e>
@@ -2934,8 +2970,11 @@
     <e lm="Biôłorëskô"><i>Biôłorës</i><par n="Pòls/kô__np"/></e>
   
     <!-- Verbs -->
-    <e lm="bëc"><i>bëc</i><par n="/bëc__vbser"/></e> <!-- be -->
-    <e lm="mieszkac"><i>mieszkac</i><par n="mieszk/ac__vblex"/></e> <!-- live (inhabit) -->
+    <e lm="bëc"><par n="/bëc__vbser"/></e> <!-- be -->
+    <e lm="mieszkac"><i>mieszk</i><par n="mieszk/ac__vblex"/></e> <!-- live (inhabit) -->
+
+    <e lm="téż"><i>téż</i><par n="téż__adv"/></e>
+
     <!-- Adjectives -->
     <e lm="kaszëbsczi"><i>kaszëbss</i><par n="kaszëbs/czi__adj"/></e>
     <e lm="rzimsczi"><i>rzimss</i><par n="kaszëbs/czi__adj"/></e>
@@ -3048,6 +3087,11 @@
     <e lm="walijsczi"><i>walijs</i><par n="kaszëbs/czi__adj"/></e>
     <e lm="wietnamsczi"><i>wietnams</i><par n="kaszëbs/czi__adj"/></e>
     <e lm="wilamòwsczi"><i>wilamòws</i><par n="kaszëbs/czi__adj"/></e>
+    <e lm="walëjsczi"><i>walëjs</i><par n="kaszëbs/czi__adj"/></e>
+    <e lm="miemiecczi"><i>miemiec</i><par n="kaszëbs/czi__adj"/></e>
+    <e lm="frańcësczi"><i>frańcës</i><par n="kaszëbs/czi__adj"/></e>
+    <e lm="chòrwacczi"><i>chòrwac</i><par n="kaszëbs/czi__adj"/></e>
+    <e lm="słowacczi"><i>słowac</i><par n="kaszëbs/czi__adj"/></e>
     
     <e lm="młodi"><i>młod</i><par n="młod/i__adj"/></e>
     <e lm="dobri"><i>dobr</i><par n="młod/i__adj"/></e>
