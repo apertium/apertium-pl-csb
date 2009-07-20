@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Kashubian -->
 <dictionary>
-  <alphabet></alphabet>
+  <alphabet>AaĄąÃãBbCcDdEeÉéËëFfGgHhIiJjKkLlŁłMmNnŃńOoÒòÓóÔôPpRrSsTtUuÙùWwYyZzŻż</alphabet>
   <sdefs>
     <sdef n="n"/>
     
@@ -10,6 +10,25 @@
     <sdef n="mi"/>
     <sdef n="f"/>
     <sdef n="nt"/>
+    <sdef n="m"/>
+    <sdef n="nm"/>
+    <sdef n="mf"/>
+    <sdef n="altdat"/>
+    <sdef n="cpd"/>
+    <sdef n="np"/>
+    <sdef n="top"/>
+    <sdef n="vbser"/>
+    <sdef n="inf"/>
+    <sdef n="pri"/>
+    <sdef n="p1"/>
+    <sdef n="p2"/>
+    <sdef n="p3"/>
+    <sdef n="past"/>
+    <sdef n="vblex"/>
+    <sdef n="sint"/>
+    <sdef n="pst"/>
+    <sdef n="det"/>
+    <sdef n="ord"/>
     
     <sdef n="sg" c="Pòjedińczô lëczba"/>
     <sdef n="pl" c="Wielnô lëczba"/>
@@ -2866,9 +2885,9 @@
     <e lm="gòdnik"><i>gòdni</i><par n="stëczni/k__n"/></e> <!-- December -->
     <!-- days -->
     <e lm="pòniedzôłk"><i>pòniedz</i><par n="pòniedz/ôłk__n"/></e> <!-- Monday -->
-    <e lm="wtórk"><i>wtór</i><par n="wtór/k__n"/></e> <!-- Tuesday -->
+    <e lm="wtórk" i="yes"><i>wtór</i><par n="wtór/k__n"/></e> <!-- Tuesday -->
     <e lm="strzod"><i>strzod</i><par n="strzod/a__n"/></e> <!-- Tuesday -->
-    <e lm="czwôrtk"><i>czwôrt</i><par n="czwôrt/k__n"/></e> <!-- Thursday -->
+    <e lm="czwôrtk" i="yes"><i>czwôrt</i><par n="czwôrt/k__n"/></e> <!-- Thursday -->
     <e lm="piątk"><i>piąt</i><par n="piąt/k__n"/></e> <!-- Friday -->
     <e lm="sobòta"><i>sobò</i><par n="sobò/ta__n"/></e> <!-- Saturday-->
     <e lm="niedzela"><i>niedzel</i><par n="niedzel/a__n"/></e> <!-- Sunday -->
