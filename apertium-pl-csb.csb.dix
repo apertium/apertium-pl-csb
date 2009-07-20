@@ -2896,6 +2896,8 @@
     <e lm="wersëjô"><i>wersëj</i><par n="wersëj/ô__n"/></e> <!-- version -->
     <e lm="historëjô"><i>historëj</i><par n="wersëj/ô__n"/></e> <!-- history -->
     <e lm="perkùsëjô"><i>perkùsëj</i><par n="wersëj/ô__n"/></e> <!-- percussion -->
+    <e lm="diskùsëjô"><i>diskùsëj</i><par n="wersëj/ô__n"/></e> <!-- discussion -->
+    <e lm="edicëjô"><i>edicëj</i><par n="wersëj/ô__n"/></e> <!-- edition -->
     
     <e lm="Pòlskô"><i>Pòls</i><par n="Pòls/kô__np"/></e>
     <e lm="Ruskô"><i>Rus</i><par n="Pòls/kô__np"/></e>
