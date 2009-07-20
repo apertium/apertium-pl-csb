@@ -46,6 +46,8 @@
     <sdef n="cnjsub"/>
     <sdef n="pr"/>
     <sdef n="adj"/>
+    <sdef n="sent"/>
+    <sdef n="itg"/>
   </sdefs>
   <pardefs>
     <pardef n="ë__cnjcoo">
@@ -77,6 +79,14 @@
         <p>
           <l/>
           <r><s n="adv"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="jak__adv">
+      <e>
+        <p>
+          <l/>
+          <r><s n="adv"/><s n="itg"/></r>
         </p>
       </e>
     </pardef>
@@ -2888,6 +2898,7 @@
     <e lm="ë"><i>ë</i><par n="ë__cnjcoo"/></e>
     <e lm="że"><i>że</i><par n="że__cnjsub"/></e>
     <e lm="bò"><i>bò</i><par n="że__cnjsub"/></e>
+    <e lm="jeżle"><i>jeżle</i><par n="że__cnjsub"/></e>
     
     <!-- Prepositions -->
     <e lm="do"><i>do</i><par n="do__pr"/></e>
@@ -2907,6 +2918,7 @@
     <e lm="dlô"><i>dlô</i><par n="do__pr"/></e>
     <e lm="ò"><i>ò</i><par n="do__pr"/></e>
     <e lm="pò"><i>pò</i><par n="do__pr"/></e>
+    <e lm="przez"><i>przez</i><par n="do__pr"/></e>
 
     
     <e lm="tidzéń"><i>tidzé</i><par n="tidzé/ń__n"/></e> <!-- week -->
@@ -2999,8 +3011,13 @@
     <e lm="bëc"><par n="/bëc__vbser"/></e> <!-- be -->
     <e lm="mieszkac"><i>mieszk</i><par n="mieszk/ac__vblex"/></e> <!-- live (inhabit) -->
 
+    <e lm="jak"><i>jak</i><par n="jak__adv"/></e>
     <e lm="téż"><i>téż</i><par n="téż__adv"/></e>
     <e lm="przede wszëtczim"><i>przede<b/>wszëtczim</i><par n="téż__adv"/></e>
+    <e lm="nie"><i>nie</i><par n="téż__adv"/></e>
+    <e lm="p.n.e"><i>p.n.e</i><par n="téż__adv"/></e>
+    <e lm="jako"><i>jako</i><par n="téż__adv"/></e>
+    <e lm="dosc"><i>dosc</i><par n="téż__adv"/></e>
 
     <!-- Adjectives -->
     <e lm="kaszëbsczi"><i>kaszëbss</i><par n="kaszëbs/czi__adj"/></e>
@@ -3127,5 +3144,8 @@
     <e lm="tóni"><i>tón</i><par n="tón/i__adj"/></e>
     <e lm="piérwi"><i>piérw</i><par n="piérw/i__det"/></e>
     <e lm="jasny"><i>jasn</i><par n="jasn/y__adj"/></e>
+  </section>
+  <section id="punct" type="inconditional">
+    <e lm="."><p><l>.</l><r>.<s n="sent"/></r></p></e>
   </section>
  </dictionary>
