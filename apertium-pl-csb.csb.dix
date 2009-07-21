@@ -272,6 +272,12 @@
       </e>
       <e>
         <p>
+          <l>czi</l>
+          <r>kô<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
           <l>kã</l>
           <r>kô<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="acc"/></r>
         </p>
@@ -286,6 +292,12 @@
         <p>
           <l>ce</l>
           <r>kô<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kô</l>
+          <r>kô<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="voc"/></r>
         </p>
       </e>
     </pardef>
@@ -2919,7 +2931,7 @@
     <e lm="ò"><i>ò</i><par n="do__pr"/></e>
     <e lm="pò"><i>pò</i><par n="do__pr"/></e>
     <e lm="przez"><i>przez</i><par n="do__pr"/></e>
-
+    <e lm="kù"><i>kù</i><par n="do__pr"/></e>
     
     <e lm="tidzéń"><i>tidzé</i><par n="tidzé/ń__n"/></e> <!-- week -->
     <!-- months -->
@@ -2990,6 +3002,9 @@
     <e lm="licencëjô GNU FDL"><i>licencëj</i><par n="wersëj/ô__n"/><p><l><b/>GNU<b/>FDL</l><r><g><b/>GNU<b/>FDL</g></r></p></e> 
     <e lm="religijô"><i>religij</i><par n="wersëj/ô__n"/></e> 
     <e lm="telewizëjô"><i>telewizëj</i><par n="wersëj/ô__n"/></e> 
+    <e lm="kòlokacëjô"><i>kòlokacëj</i><par n="wersëj/ô__n"/></e> 
+    <e lm="frazeòlogijô"><i>frazeòlogij</i><par n="wersëj/ô__n"/></e> 
+    <e lm="etimòlogijô"><i>etimòlogij</i><par n="wersëj/ô__n"/></e> 
     
     <e lm="Pòlskô"><i>Pòls</i><par n="Pòls/kô__np"/></e>
     <e lm="Ruskô"><i>Rus</i><par n="Pòls/kô__np"/></e>
@@ -3144,6 +3159,14 @@
     <e lm="tóni"><i>tón</i><par n="tón/i__adj"/></e>
     <e lm="piérwi"><i>piérw</i><par n="piérw/i__det"/></e>
     <e lm="jasny"><i>jasn</i><par n="jasn/y__adj"/></e>
+
+    <e lm="Eùropejskô Ùnijô"><p><l>Eùropejskô<b/>Ùnijô</l><r>Eùropejskô<b/>Ùnijô<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+    <e lm="Eùropejskô Ùnijô"><p><l>Eùropejsczi<b/>Ùniji</l><r>Eùropejskô<b/>Ùnijô<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+    <e lm="Eùropejskô Ùnijô"><p><l>Eùropejsczi<b/>Ùniji</l><r>Eùropejskô<b/>Ùnijô<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
+    <e lm="Eùropejskô Ùnijô"><p><l>Eùropejską<b/>Ùnijã</l><r>Eùropejskô<b/>Ùnijô<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
+    <e lm="Eùropejskô Ùnijô"><p><l>Eùropejską<b/>Ùniją</l><r>Eùropejskô<b/>Ùnijô<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="ins"/></r></p></e>
+    <e lm="Eùropejskô Ùnijô"><p><l>Eùropejsczi<b/>Ùniji</l><r>Eùropejskô<b/>Ùnijô<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="loc"/></r></p></e>
+    <e lm="Eùropejskô Ùnijô"><p><l>Eùropejskô<b/>Ùnijô</l><r>Eùropejskô<b/>Ùnijô<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
   </section>
   <section id="punct" type="inconditional">
     <e lm="."><p><l>.</l><r>.<s n="sent"/></r></p></e>
