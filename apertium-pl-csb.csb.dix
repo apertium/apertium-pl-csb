@@ -3810,6 +3810,7 @@
     <e lm="chòrwacczi"><i>chòrwac</i><par n="kaszëbs/czi__adj"/></e>
     <e lm="słowacczi"><i>słowac</i><par n="kaszëbs/czi__adj"/></e>
     <e lm="néderlandzczi"><i>néderlandz</i><par n="kaszëbs/czi__adj"/></e>
+    <e lm="pòmòrsczi"><i>pòmòrs</i><par n="kaszëbs/czi__adj"/></e>
     
     <e lm="młodi"><i>młod</i><par n="młod/i__adj"/></e>
     <e lm="dobri"><i>dobr</i><par n="młod/i__adj"/></e>
@@ -3828,5 +3829,7 @@
   </section>
   <section id="punct" type="inconditional">
     <e lm="."><p><l>.</l><r>.<s n="sent"/></r></p></e>
+    <e lm=","><p><l>,</l><r>,<s n="cm"/></r></p></e>
+    <e lm="-"><p><l>-</l><r>-<s n="guio"/></r></p></e>
   </section>
  </dictionary>
