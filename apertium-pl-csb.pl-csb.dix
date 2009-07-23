@@ -5,6 +5,7 @@
     <sdef n="adv"/>
     <sdef n="itg"/>
     <sdef n="neg"/>
+    <sdef n="sint"/>
     <sdef n="cnjcoo"/>
     <sdef n="pr"/>
     <sdef n="n"/>
@@ -22,7 +23,8 @@
 
   <section id="main" type="standard">
     <e><p><l>i<s n="cnjcoo"/></l><r>ë<s n="cnjcoo"/></r></p></e>
-  
+
+    <e><p><l>naj<s n="adv"/></l><r>nô<s n="adv"/></r></p></e>
     <e><p><l>kiedy<s n="adv"/><s n="itg"/></l><r>czej<s n="adv"/><s n="itg"/></r></p></e>
     <e><p><l>gdzie<s n="adv"/><s n="itg"/></l><r>gdze<s n="adv"/><s n="itg"/></r></p></e>
     <e><p><l>nigdy<s n="adv"/><s n="neg"/></l><r>nigdë<s n="adv"/><s n="neg"/></r></p></e>
@@ -33,6 +35,7 @@
     <e><p><l>dziś<s n="adv"/></l><r>dzys<s n="adv"/></r></p></e>
     <e><p><l>dość<s n="adv"/></l><r>dosc<s n="adv"/></r></p></e>
     <e r="LR"><p><l>dosyć<s n="adv"/></l><r>dosc<s n="adv"/></r></p></e>
+    <e><p><l>szybko<s n="adv"/><s n="sint"/></l><r>chùtkò<s n="adv"/><s n="sint"/></r></p></e>
 
     <e><p><l>w<s n="pr"/></l><r>w<s n="pr"/></r></p></e>
     <e><p><l>do<s n="pr"/></l><r>do<s n="pr"/></r></p></e>
