@@ -3874,6 +3874,8 @@
     <e lm="Eùropejskô Ùnijô"><p><l>Eùropejską<b/>Ùniją</l><r>Eùropejskô<b/>Ùnijô<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="ins"/></r></p></e>
     <e lm="Eùropejskô Ùnijô"><p><l>Eùropejsczi<b/>Ùniji</l><r>Eùropejskô<b/>Ùnijô<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="loc"/></r></p></e>
     <e lm="Eùropejskô Ùnijô"><p><l>Eùropejskô<b/>Ùnijô</l><r>Eùropejskô<b/>Ùnijô<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+
+    <e lm="alt-?"><i>alt-</i><re>[A-Za-z]</re><p><l/><r><s n="adv"/></r></p></e>
   </section>
   <section id="punct" type="inconditional">
     <e lm="."><p><l>.</l><r>.<s n="sent"/></r></p></e>
