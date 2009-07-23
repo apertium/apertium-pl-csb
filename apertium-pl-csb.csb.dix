@@ -90,6 +90,14 @@
         </p>
       </e>
     </pardef>
+    <pardef n="nigdë__adv">
+      <e>
+        <p>
+          <l/>
+          <r><s n="adv"/><s n="neg"/></r>
+        </p>
+      </e>
+    </pardef>
 
     <pardef n="kaszëbs/czi__adj">
       <e>
@@ -3685,12 +3693,16 @@
     <e lm="mieszkac"><i>mieszk</i><par n="mieszk/ac__vblex"/></e> <!-- live (inhabit) -->
 
     <e lm="jak"><i>jak</i><par n="jak__adv"/></e>
+    <e lm="gdze"><i>gdze</i><par n="jak__adv"/></e>
     <e lm="téż"><i>téż</i><par n="téż__adv"/></e>
+    <e lm="dzysô"><i>dzysô</i><par n="téż__adv"/></e>
+    <e lm="dzys"><i>dzys</i><par n="téż__adv"/></e>
     <e lm="przede wszëtczim"><i>przede<b/>wszëtczim</i><par n="téż__adv"/></e>
     <e lm="nie"><i>nie</i><par n="téż__adv"/></e>
     <e lm="p.n.e"><i>p.n.e</i><par n="téż__adv"/></e>
     <e lm="jako"><i>jako</i><par n="téż__adv"/></e>
     <e lm="dosc"><i>dosc</i><par n="téż__adv"/></e>
+    <e lm="nigdë"><i>nigdë</i><par n="nigdë__adv"/></e>
 
     <!-- Adjectives -->
     <e lm="kaszëbsczi"><i>kaszëbs</i><par n="kaszëbs/czi__adj"/></e>
