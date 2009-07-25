@@ -3,6 +3,8 @@
   <alphabet/>
   <sdefs>
     <sdef n="adv"/>
+    <sdef n="det"/>
+    <sdef n="prn"/>
     <sdef n="itg"/>
     <sdef n="neg"/>
     <sdef n="sint"/>
@@ -23,6 +25,8 @@
 
   <section id="main" type="standard">
     <e><p><l>i<s n="cnjcoo"/></l><r>ë<s n="cnjcoo"/></r></p></e>
+    <e><p><l>co<s n="det"/></l><r>co<s n="det"/></r></p></e>
+    <e><p><l>chto<s n="prn"/></l><r>kto<s n="prn"/></r></p></e>
 
     <e><p><l>naj<s n="adv"/></l><r>nô<s n="adv"/></r></p></e>
     <e><p><l>kiedy<s n="adv"/><s n="itg"/></l><r>czej<s n="adv"/><s n="itg"/></r></p></e>

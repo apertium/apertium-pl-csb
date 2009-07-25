@@ -130,6 +130,82 @@
 	</p>
       </e>
     </pardef>
+    <pardef n="chto__prn">
+      <e>
+        <p>
+          <l>chto</l>
+          <r>chto<s n="prn"/><s n="itg"/><s n="m"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kògò</l>
+          <r>chto<s n="prn"/><s n="itg"/><s n="m"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kòmù</l>
+          <r>chto<s n="prn"/><s n="itg"/><s n="m"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kògò</l>
+          <r>chto<s n="prn"/><s n="itg"/><s n="m"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kògùm</l>
+          <r>chto<s n="prn"/><s n="itg"/><s n="m"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kògùm</l>
+          <r>chto<s n="prn"/><s n="itg"/><s n="m"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="co__det">
+      <e>
+        <p>
+          <l>co</l>
+          <r>co<s n="det"/><s n="itg"/><s n="nt"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>czegò</l>
+          <r>co<s n="det"/><s n="itg"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>czemù</l>
+          <r>co<s n="det"/><s n="itg"/><s n="nt"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>co</l>
+          <r>co<s n="det"/><s n="itg"/><s n="nt"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>czim</l>
+          <r>co<s n="det"/><s n="itg"/><s n="nt"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>czim</l>
+          <r>co<s n="det"/><s n="itg"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
 
     <pardef n="kaszëbs/czi__adj">
       <e>
@@ -3602,6 +3678,8 @@
     <e lm="że"><i>że</i><par n="że__cnjsub"/></e>
     <e lm="bò"><i>bò</i><par n="że__cnjsub"/></e>
     <e lm="jeżle"><i>jeżle</i><par n="że__cnjsub"/></e>
+    <e lm="chto"><i></i><par n="chto__prn"/></e>
+    <e lm="co"><i></i><par n="co__det"/></e>
     
     <!-- Prepositions -->
     <e lm="do"><i>do</i><par n="do__pr"/></e>
