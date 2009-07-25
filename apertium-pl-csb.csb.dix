@@ -3696,6 +3696,7 @@
     <e lm="kòlokacëjô"><i>kòlokacëj</i><par n="wersëj/ô__n"/></e> 
     <e lm="frazeòlogijô"><i>frazeòlogij</i><par n="wersëj/ô__n"/></e> 
     <e lm="etimòlogijô"><i>etimòlogij</i><par n="wersëj/ô__n"/></e> 
+    <e lm="dokùmentacëjô"><i>dokùmentacëj</i><par n="wersëj/ô__n"/></e> 
     <e lm="ząb"><i>z</i><par n="z/ąb__n"/></e>
     <e lm="zemia"><i>zemi</i><par n="zemi/a__n"/></e>
     <e lm="aptéka"><i>apté</i><par n="apté/ka__n"/></e>
@@ -3860,6 +3861,8 @@
     <e lm="szwedzczi"><i>szwedz</i><par n="kaszëbs/czi__adj"/></e>
     <e lm="litewsczi"><i>litews</i><par n="kaszëbs/czi__adj"/></e>
     <e lm="dólnomiemiecczi"><i>dólnomiemiec</i><par n="kaszëbs/czi__adj"/></e>
+    <e lm="aùstralëjsczi"><i>aùstralëjs</i><par n="kaszëbs/czi__adj"/></e>
+    <e lm="dólnołużëcczi"><i>dólnołużëc</i><par n="kaszëbs/czi__adj"/></e>
     
     <e lm="młodi"><i>młod</i><par n="młod/i__adj"/></e>
     <e lm="dobri"><i>dobr</i><par n="młod/i__adj"/></e>
