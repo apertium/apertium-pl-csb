@@ -14,7 +14,7 @@
     <sdef n="m"/>
     <sdef n="nm"/>
     <sdef n="mf"/>
-    <sdef n="altdat"/>
+    <sdef n="po"/>
     <sdef n="cpd"/>
     <sdef n="np"/>
     <sdef n="top"/>
@@ -28,7 +28,6 @@
     <sdef n="vblex"/>
     <sdef n="sint"/>
     <sdef n="comp"/>
-    <sdef n="pst"/>
     <sdef n="det"/>
     <sdef n="ord"/>
     
@@ -52,6 +51,7 @@
     <sdef n="guio"/>
     <sdef n="itg"/>
     <sdef n="neg"/>
+    <sdef n="prn"/>
   </sdefs>
   <pardefs>
     <pardef n="nô__adv">
@@ -331,7 +331,7 @@
       <e>
         <p>
           <l>kù</l>
-          <r>czi<s n="adj"/><s n="altdat"/></r>
+          <r>czi<s n="adj"/><s n="po"/></r>
         </p>
       </e>
       <e>
@@ -3007,7 +3007,7 @@
       <e>
         <p>
           <l></l>
-          <r>i<s n="adj"/><s n="sint"/><s n="pst"/></r>
+          <r>i<s n="adj"/><s n="sint"/></r>
         </p>
         <par n="młod/i__HARD_BASE"/>
       </e>
@@ -3016,7 +3016,7 @@
       <e>
         <p>
           <l></l>
-          <r>i<s n="adj"/><s n="sint"/><s n="pst"/></r>
+          <r>i<s n="adj"/><s n="sint"/></r>
         </p>
         <par n="tón/i__SOFT_BASE"/>
       </e>
@@ -3034,7 +3034,7 @@
       <e>
         <p>
           <l></l>
-          <r>y<s n="adj"/><s n="sint"/><s n="pst"/></r>
+          <r>y<s n="adj"/><s n="sint"/></r>
         </p>
         <par n="jasn/y__HARD_BASE"/>
       </e>
@@ -3775,6 +3775,24 @@
     <e lm="frazeòlogijô"><i>frazeòlogij</i><par n="wersëj/ô__n"/></e> 
     <e lm="etimòlogijô"><i>etimòlogij</i><par n="wersëj/ô__n"/></e> 
     <e lm="dokùmentacëjô"><i>dokùmentacëj</i><par n="wersëj/ô__n"/></e> 
+    <e lm="kòmpanijô"><i>kòmpanij</i><par n="wersëj/ô__n"/></e>
+    <e lm="kònferencëjô"><i>kònferencëj</i><par n="wersëj/ô__n"/></e>
+    <e lm="demòkracëjô"><i>demòkracëj</i><par n="wersëj/ô__n"/></e>
+    <e lm="edukacëjô"><i>edukacëj</i><par n="wersëj/ô__n"/></e>
+    <e lm="historijô" r="LR"><p><l>historij</l><r>historëj</r></p><par n="wersëj/ô__n"/></e>
+    <e lm="historëjô"><i>historëj</i><par n="wersëj/ô__n"/></e>
+    <e lm="jinstitucëjô"><i>jinstitucëj</i><par n="wersëj/ô__n"/></e>
+    <e lm="jinfòrmacëjô"><i>jinfòrmacëj</i><par n="wersëj/ô__n"/></e>
+    <e lm="jintegracëjô"><i>jintegracëj</i><par n="wersëj/ô__n"/></e>
+    <e lm="normalizacëjô"><i>normalizacëj</i><par n="wersëj/ô__n"/></e>
+    <e lm="promòcëjô"><i>promòcëj</i><par n="wersëj/ô__n"/></e>
+    <e lm="reprezentacëjô"><i>reprezentacëj</i><par n="wersëj/ô__n"/></e>
+    <e lm="seminarëjô"><i>seminarëj</i><par n="wersëj/ô__n"/></e>
+    <e lm="sytuacëjô"><i>sytuacëj</i><par n="wersëj/ô__n"/></e>
+    <e lm="tonacëjô"><i>tonacëj</i><par n="wersëj/ô__n"/></e>
+    <e lm="tradicëjô"><i>tradicëj</i><par n="wersëj/ô__n"/></e>
+    <e lm="akademijô"><i>akademij</i><par n="wersëj/ô__n"/></e>
+
     <e lm="ząb"><i>z</i><par n="z/ąb__n"/></e>
     <e lm="zemia"><i>zemi</i><par n="zemi/a__n"/></e>
     <e lm="aptéka"><i>apté</i><par n="apté/ka__n"/></e>
