@@ -1,3 +1,4 @@
 * text=auto !eol
 /apertium-pl-csb.csb.dix -text
 /apertium-pl-csb.pl-csb.dix -text
+dev/csb.list -text
