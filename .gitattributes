@@ -2,4 +2,5 @@
 /apertium-pl-csb.csb.dix -text
 /apertium-pl-csb.pl-csb.dix -text
 dev/csb.list -text
+dev/extract-lemma-and-surface.pl -text
 dev/unigrams -text
