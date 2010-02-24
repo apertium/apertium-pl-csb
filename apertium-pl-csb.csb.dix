@@ -3677,6 +3677,7 @@
     <e lm="ë"><i>ë</i><par n="ë__cnjcoo"/></e>
     <e lm="że"><i>że</i><par n="że__cnjsub"/></e>
     <e lm="bò"><i>bò</i><par n="że__cnjsub"/></e>
+    <e lm="abò"><i>abò</i><par n="że__cnjsub"/></e>
     <e lm="jeżle"><i>jeżle</i><par n="że__cnjsub"/></e>
     <e lm="chto"><i></i><par n="chto__prn"/></e>
     <e lm="co"><i></i><par n="co__det"/></e>
@@ -4040,6 +4041,7 @@
     <e lm="ząb"><i>z</i><par n="z/ąb__n"/></e>
     <e lm="zemia"><i>zemi</i><par n="zemi/a__n"/></e>
     <e lm="aptéka"><i>apté</i><par n="apté/ka__n"/></e>
+    <e lm="mùzyka" c="guess"><i>mùzy</i><par n="apté/ka__n"/></e>
     <e lm="ògón"><i>ògón</i><par n="ògón__n"/></e>
     <e lm="ceniô"><i>ceni</i><par n="ceni/ô__n"/></e>
     <e lm="wilk"><i>wil</i><par n="wil/k__n"/></e>
@@ -4113,6 +4115,7 @@
     <e lm="egipsczi"><i>egips</i><par n="kaszëbs/czi__adj"/></e>
     <e lm="estońsczi"><i>estońs</i><par n="kaszëbs/czi__adj"/></e>
     <e lm="etrusczi"><i>etrus</i><par n="kaszëbs/czi__adj"/></e>
+    <e lm="eùropejsczi"><i>eùropejs</i><par n="kaszëbs/czi__adj"/></e>
     <e lm="fińsczi"><i>fińs</i><par n="kaszëbs/czi__adj"/></e>
     <e lm="francësczi"><i>francës</i><par n="kaszëbs/czi__adj"/></e>
     <e lm="friùlsczi"><i>friùls</i><par n="kaszëbs/czi__adj"/></e>
