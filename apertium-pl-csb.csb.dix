@@ -18,6 +18,7 @@
     <sdef n="cpd"/>
     <sdef n="np"/>
     <sdef n="top"/>
+    <sdef n="ant"/>
     <sdef n="vbser"/>
     <sdef n="inf"/>
     <sdef n="pri"/>
