@@ -391,6 +391,94 @@
         </p>
       </e>
     </pardef>
+    <pardef n="Marij/ô__np">
+      <e>
+        <p>
+          <l>ô</l>
+          <r>ô<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r>ô<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r>ô<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ã</l>
+          <r>ô<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ą</l>
+          <r>ô<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r>ô<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ô</l>
+          <r>ô<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="Britanij/ô__np">
+      <e>
+        <p>
+          <l>ô</l>
+          <r>ô<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r>ô<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r>ô<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ã</l>
+          <r>ô<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ą</l>
+          <r>ô<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r>ô<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ô</l>
+          <r>ô<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="Pòls/kô__np">
       <e>
         <p>
@@ -3748,6 +3836,10 @@
     <e lm="serce"><i>serc</i><par n="serc/e__n"/></e> <!-- heart -->
     <e lm="wersëjô"><i>wersëj</i><par n="wersëj/ô__n"/></e> <!-- version -->
     <e lm="historëjô"><i>historëj</i><par n="wersëj/ô__n"/></e> <!-- history -->
+    <e lm="encyklopedijô"><i>encyklopedij</i><par n="wersëj/ô__n"/></e>
+    <e lm="filologijô"><i>filologij</i><par n="wersëj/ô__n"/></e>
+    <e lm="geòlogijô"><i>geòlogij</i><par n="wersëj/ô__n"/></e>
+    <e lm="techologijô"><i>techologij</i><par n="wersëj/ô__n"/></e>
     <e lm="perkùsëjô"><i>perkùsëj</i><par n="wersëj/ô__n"/></e> <!-- percussion -->
     <e lm="diskùsëjô"><i>diskùsëj</i><par n="wersëj/ô__n"/></e> <!-- discussion -->
     <e lm="edicëjô"><i>edicëj</i><par n="wersëj/ô__n"/></e> <!-- edition -->
@@ -4062,7 +4154,12 @@
     <e lm="Belgijskô"><i>Belgijs</i><par n="Pòls/kô__np"/></e>
     <e lm="Biôłorëskô"><i>Biôłorës</i><par n="Pòls/kô__np"/></e>
     <e lm="Pòmòrskô"><i>Pòmòrs</i><par n="Pòls/kô__np"/></e>
+    <e lm="Britanijô"><i>Britanij</i><par n="Britanij/ô__np"/></e>
+    <e lm="Pòmòranijô"><i>Pòmòranij</i><par n="Britanij/ô__np"/></e>
+    <e lm="Skandinawijô"><i>Skandinawij</i><par n="Britanij/ô__np"/></e>
   
+    <e lm="Marijô"><i>Marij</i><par n="Marij/ô__np"/></e>
+
     <!-- Verbs -->
     <e lm="bëc"><par n="/bëc__vbser"/></e> <!-- be -->
     <e lm="mieszkac"><i>mieszk</i><par n="mieszk/ac__vblex"/></e> <!-- live (inhabit) -->
@@ -4102,6 +4199,9 @@
     <e lm="azersczi"><i>azers</i><par n="kaszëbs/czi__adj"/></e>
     <e lm="banjumańsczi"><i>banjumańs</i><par n="kaszëbs/czi__adj"/></e>
     <e lm="baskijsczi"><i>baskijs</i><par n="kaszëbs/czi__adj"/></e>
+    <e lm="bôłto-słowiańsczi"><i>bôłto-słowiańs</i><par n="kaszëbs/czi__adj"/></e>
+    <e lm="kaszëbskò-pòlsczi"><i>kaszëbskò-pòls</i><par n="kaszëbs/czi__adj"/></e>
+    <e lm="pôłniowòkòrejańsczi"><i>pôłniowòkòrejańs</i><par n="kaszëbs/czi__adj"/></e>
     <e lm="białorusczi"><i>białorus</i><par n="kaszëbs/czi__adj"/></e>
     <e lm="bretońsczi"><i>bretońs</i><par n="kaszëbs/czi__adj"/></e>
     <e lm="bùlgarsczi"><i>bùlgars</i><par n="kaszëbs/czi__adj"/></e>
@@ -4213,6 +4313,7 @@
     <e lm="tóni"><i>tón</i><par n="tón/i__adj"/></e>
     <e lm="piérwi"><i>piérw</i><par n="piérw/i__det"/></e>
     <e lm="jasny"><i>jasn</i><par n="jasn/y__adj"/></e>
+    <e lm="pòpùlarny"><i>pòpùlarn</i><par n="jasn/y__adj"/></e>
 
     <e lm="Eùropejskô Ùnijô"><p><l>Eùropejskô<b/>Ùnijô</l><r>Eùropejskô<b/>Ùnijô<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
     <e lm="Eùropejskô Ùnijô"><p><l>Eùropejsczi<b/>Ùniji</l><r>Eùropejskô<b/>Ùnijô<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
