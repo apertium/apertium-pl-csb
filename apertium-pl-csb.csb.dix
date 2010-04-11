@@ -428,6 +428,98 @@
         </p>
       </e>
     </pardef>
+    <pardef n="abecad/ło__n">
+      <e>
+        <p>
+          <l>ło</l>
+          <r>ło<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ła</l>
+          <r>ło<s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>łu</l>
+          <r>ło<s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ło</l>
+          <r>ło<s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>łã</l>
+          <r>ło<s n="n"/><s n="nt"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>łem</l>
+          <r>ło<s n="n"/><s n="nt"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>le</l>
+          <r>ło<s n="n"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ło</l>
+          <r>ło<s n="n"/><s n="nt"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ła</l>
+          <r>ło<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>łów</l>
+          <r>ło<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>łóm</l>
+          <r>ło<s n="n"/><s n="nt"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ła</l>
+          <r>ło<s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>łama</l>
+          <r>ło<s n="n"/><s n="nt"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>łach</l>
+          <r>ło<s n="n"/><s n="nt"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ła</l>
+          <r>ło<s n="n"/><s n="nt"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="Marij/ô__np">
       <e>
         <p>
@@ -4449,6 +4541,7 @@
     <e lm="òjc"><i>òjc</i><par n="òjc__n"/></e>
     <e lm="pùjk"><i>pùj</i><par n="pùj/k__n"/></e>
     <e lm="kòt"><i>kò</i><par n="kò/t__n"/></e>
+    <e lm="abecadło"><i>abecad</i><par n="abecad/ło__n"/></e>
     
     <e lm="Pòlskô"><i>Pòls</i><par n="Pòls/kô__np"/></e>
     <e lm="Ruskô"><i>Rus</i><par n="Pòls/kô__np"/></e>
