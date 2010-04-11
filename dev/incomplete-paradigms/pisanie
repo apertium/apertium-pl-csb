@@ -7,13 +7,13 @@
       </e>
       <e>
         <p>
-          <l></l>
+          <l>nia</l>
           <r><s n="nt"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l></l>
+          <l>niu</l>
           <r><s n="nt"/><s n="sg"/><s n="dat"/></r>
         </p>
       </e>
@@ -25,13 +25,19 @@
       </e>
       <e>
         <p>
+          <l>niã</l>
+          <r><s n="nt"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
           <l>niém</l>
           <r><s n="nt"/><s n="sg"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l></l>
+          <l>niu</l>
           <r><s n="nt"/><s n="sg"/><s n="loc"/></r>
         </p>
       </e>
@@ -43,43 +49,49 @@
       </e>
       <e>
         <p>
-          <l></l>
+          <l>nia</l>
           <r><s n="nt"/><s n="pl"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l></l>
+          <l>niów</l>
+          <r><s n="nt"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>n</l>
           <r><s n="nt"/><s n="pl"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l></l>
+          <l>nióm</l>
           <r><s n="nt"/><s n="pl"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l></l>
+          <l>nia</l>
           <r><s n="nt"/><s n="pl"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l></l>
+          <l>niama</l>
           <r><s n="nt"/><s n="pl"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l></l>
+          <l>niach</l>
           <r><s n="nt"/><s n="pl"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l></l>
+          <l>nia</l>
           <r><s n="nt"/><s n="pl"/><s n="voc"/></r>
         </p>
       </e>
