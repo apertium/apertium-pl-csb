@@ -109,14 +109,6 @@
         </p>
       </e>
     </pardef>
-    <pardef n="nigdë__adv">
-      <e>
-        <p>
-          <l/>
-          <r><s n="adv"/><s n="neg"/></r>
-        </p>
-      </e>
-    </pardef>
     <pardef n="chùt/kò__adv">
       <e>
         <p>
@@ -4584,7 +4576,8 @@
     <e lm="p.n.e"><i>p.n.e</i><par n="téż__adv"/></e>
     <e lm="jako"><i>jako</i><par n="téż__adv"/></e>
     <e lm="dosc"><i>dosc</i><par n="téż__adv"/></e>
-    <e lm="nigdë"><i>nigdë</i><par n="nigdë__adv"/></e>
+    <e lm="nigdë"><i>nigdë</i><par n="téż__adv"/></e>
+    <e lm="doma"><i>doma</i><par n="téż__adv"/></e>
     <e lm="chùtkò"><par n="nô__adv"/><i>chùt</i><par n="chùt/kò__adv"/></e>
 
     <!-- Adjectives -->
