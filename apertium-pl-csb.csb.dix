@@ -288,7 +288,7 @@
       </e>
     </pardef>
 
-    <pardef n="kaszëbs/czi__adj">
+    <pardef n="atlantëc/czi__adj">
       <e>
         <p>
           <l>czi</l>
@@ -411,14 +411,20 @@
       </e>
       <e>
         <p>
-          <l>kù</l>
-          <r>czi<s n="adj"/><s n="po"/></r>
+          <l>kò</l>
+          <r>czi<s n="adj"/><s n="cpd"/></r>
         </p>
+      </e>
+    </pardef>
+    <pardef n="kaszëbs/czi__adj">
+      <e>
+        <i/>
+        <par n="atlantëc/czi__adj"/>
       </e>
       <e>
         <p>
-          <l>kò</l>
-          <r>czi<s n="adj"/><s n="cpd"/></r>
+          <l>kù</l>
+          <r>czi<s n="adj"/><s n="po"/></r>
         </p>
       </e>
     </pardef>
@@ -4388,6 +4394,8 @@
     <e lm="asocjacëjô"><i>asocjacëj</i><par n="wersëj/ô__n"/></e>
     <e lm="asygnacëjô"><i>asygnacëj</i><par n="wersëj/ô__n"/></e>
     <e lm="aukcëjô"><i>aukcëj</i><par n="wersëj/ô__n"/></e>
+    <e lm="atrakcëjô"><i>atrakcëj</i><par n="wersëj/ô__n"/></e>
+    <e lm="aùtonomijô"><i>aùtonomij</i><par n="wersëj/ô__n"/></e>
     <e lm="autorëzacëjô"><i>autorëzacëj</i><par n="wersëj/ô__n"/></e>
     <e lm="biurokracëjô"><i>biurokracëj</i><par n="wersëj/ô__n"/></e>
     <e lm="chiromancëjô"><i>chiromancëj</i><par n="wersëj/ô__n"/></e>
@@ -4807,6 +4815,8 @@
     <e lm="dólnomiemiecczi"><i>dólnomiemiec</i><par n="kaszëbs/czi__adj"/></e>
     <e lm="aùstralëjsczi"><i>aùstralëjs</i><par n="kaszëbs/czi__adj"/></e>
     <e lm="dólnołużëcczi"><i>dólnołużëc</i><par n="kaszëbs/czi__adj"/></e>
+    <e lm="atlantëcczi"><i>atlantëc</i><par n="atlantëc/czi__adj"/></e>
+    <e lm="akademicczi"><i>akademic</i><par n="atlantëc/czi__adj"/></e>
     
     <e lm="młodi"><i>młod</i><par n="młod/i__adj"/></e>
     <e lm="dobri"><i>dobr</i><par n="młod/i__adj"/></e>
@@ -4815,6 +4825,8 @@
     <e lm="piérwi"><i>piérw</i><par n="piérw/i__det"/></e>
     <e lm="jasny"><i>jasn</i><par n="jasn/y__adj"/></e>
     <e lm="pòpùlarny"><i>pòpùlarn</i><par n="jasn/y__adj"/></e>
+    <e lm="aktualny"><i>aktualn</i><par n="jasn/y__adj"/></e>
+    <e lm="akùrôtny"><i>akùrôtn</i><par n="jasn/y__adj"/></e>
 
     <e lm="Eùropejskô Ùnijô"><p><l>Eùropejskô<b/>Ùnijô</l><r>Eùropejskô<b/>Ùnijô<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
     <e lm="Eùropejskô Ùnijô"><p><l>Eùropejsczi<b/>Ùniji</l><r>Eùropejskô<b/>Ùnijô<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>

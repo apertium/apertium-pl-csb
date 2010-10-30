@@ -103,6 +103,8 @@
     <e><p><l>serce<s n="n"/><s n="nt"/></l><r>serce<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kompania<s n="n"/><s n="f"/></l><r>kòmpanijô<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>konferencja<s n="n"/><s n="f"/></l><r>kònferencëjô<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>atrakcja<s n="n"/><s n="f"/></l><r>atrakcëjô<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>autonomia<s n="n"/><s n="f"/></l><r>aùtonomijô<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>demokracja<s n="n"/><s n="f"/></l><r>demòkracëjô<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>edukacja<s n="n"/><s n="f"/></l><r>edukacëjô<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>historia<s n="n"/><s n="f"/></l><r>historëjô<s n="n"/><s n="f"/></r></p></e>
@@ -387,6 +389,10 @@
     <e><p><l>Brytania<s n="np"/><s n="top"/><s n="f"/></l><r>Britanijô<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Wenecja<s n="np"/><s n="top"/><s n="f"/></l><r>Wenecëjô<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     
+    <e><p><l>atlantycki<s n="adj"/></l><r>atlantëcczi<s n="adj"/></r></p></e>
+    <e><p><l>akademicki<s n="adj"/></l><r>akademicczi<s n="adj"/></r></p></e>
+    <e><p><l>aktualny<s n="adj"/></l><r>aktualny<s n="adj"/></r></p></e>
+    <e><p><l>akuratny<s n="adj"/></l><r>akùrôtny<s n="adj"/></r></p></e>
     <e><p><l>kaszubski<s n="adj"/></l><r>kaszëbsczi<s n="adj"/></r></p></e>
     <e><p><l>rzymski<s n="adj"/></l><r>rzimsczi<s n="adj"/></r></p></e>
     <e><p><l>abchaski<s n="adj"/></l><r>abchasczi<s n="adj"/></r></p></e>
