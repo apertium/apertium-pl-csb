@@ -52,6 +52,7 @@
     <sdef n="cm"/>
     <sdef n="guio"/>
     <sdef n="itg"/>
+    <sdef n="ind"/>
     <sdef n="neg"/>
     <sdef n="prn"/>
   </sdefs>
@@ -207,6 +208,82 @@
         <p>
           <l>czim</l>
           <r>co<s n="det"/><s n="itg"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="chtos__prn">
+      <e>
+        <p>
+          <l>chtos</l>
+          <r>chtos<s n="prn"/><s n="ind"/><s n="m"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kògòs</l>
+          <r>chtos<s n="prn"/><s n="ind"/><s n="m"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kòmùs</l>
+          <r>chtos<s n="prn"/><s n="ind"/><s n="m"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kògòs</l>
+          <r>chtos<s n="prn"/><s n="ind"/><s n="m"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kògùms</l>
+          <r>chtos<s n="prn"/><s n="ind"/><s n="m"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kògùms</l>
+          <r>chtos<s n="prn"/><s n="ind"/><s n="m"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="cos__det">
+      <e>
+        <p>
+          <l>cos</l>
+          <r>cos<s n="det"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>czegòs</l>
+          <r>cos<s n="det"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>czemùs</l>
+          <r>cos<s n="det"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cos</l>
+          <r>cos<s n="det"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>czims</l>
+          <r>cos<s n="det"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>czims</l>
+          <r>cos<s n="det"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
         </p>
       </e>
     </pardef>
@@ -4166,12 +4243,15 @@
   </pardefs>
   <section id="main" type="standard">
     <e lm="ë"><i>ë</i><par n="ë__cnjcoo"/></e>
+    <e lm="i"><i>i</i><par n="ë__cnjcoo"/></e>
     <e lm="że"><i>że</i><par n="że__cnjsub"/></e>
     <e lm="bò"><i>bò</i><par n="że__cnjsub"/></e>
     <e lm="abò"><i>abò</i><par n="że__cnjsub"/></e>
     <e lm="jeżle"><i>jeżle</i><par n="że__cnjsub"/></e>
     <e lm="chto"><i></i><par n="chto__prn"/></e>
     <e lm="co"><i></i><par n="co__det"/></e>
+    <e lm="chtos"><i></i><par n="chtos__prn"/></e>
+    <e lm="cos"><i></i><par n="cos__det"/></e>
     
     <!-- Prepositions -->
     <e lm="do"><i>do</i><par n="do__pr"/></e>
