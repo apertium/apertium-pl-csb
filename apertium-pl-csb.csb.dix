@@ -4521,6 +4521,7 @@
     <e lm="transakcëjô"><i>transakcëj</i><par n="wersëj/ô__n"/></e>
     <e lm="transkripcëjô"><i>transkripcëj</i><par n="wersëj/ô__n"/></e>
     <e lm="aplikacëjô"><i>aplikacëj</i><par n="wersëj/ô__n"/></e>
+    <e lm="reformacëjô"><i>reformacëj</i><par n="wersëj/ô__n"/></e>
 
     <e lm="ząb"><i>z</i><par n="z/ąb__n"/></e>
     <e lm="zemia"><i>zemi</i><par n="zemi/a__n"/></e>
@@ -4551,6 +4552,7 @@
     <e lm="Biôłorëskô"><i>Biôłorës</i><par n="Pòls/kô__np"/></e>
     <e lm="Pòmòrskô"><i>Pòmòrs</i><par n="Pòls/kô__np"/></e>
     <e lm="Anielskô"><i>Aniels</i><par n="Pòls/kô__np"/></e>
+    <e lm="Szwedzkô"><i>Szwedz</i><par n="Pòls/kô__np"/></e>
 
     <e lm="Britanijô"><i>Britanij</i><par n="Britanij/ô__np"/></e>
     <e lm="Pòmòranijô"><i>Pòmòranij</i><par n="Britanij/ô__np"/></e>
@@ -4559,6 +4561,9 @@
     <e lm="Aùstralëjô" r="LR"><p><l>Australëj</l><r>Aùstralëj</r></p><par n="Britanij/ô__np"/></e>
     <e lm="Azëjô"><i>Azëj</i><par n="Britanij/ô__np"/></e>
     <e lm="Wenecëjô"><i>Wenecëj</i><par n="Britanij/ô__np"/></e>
+    <e lm="Tërcëjô"><i>Tërcëj</i><par n="Britanij/ô__np"/></e>
+    <e lm="Szwëcëjô"><i>Szwëcëj</i><par n="Britanij/ô__np"/></e>
+    <e lm="Słowacëjô"><i>Słowacëj</i><par n="Britanij/ô__np"/></e>
   
     <e lm="Marijô"><i>Marij</i><par n="Marij/ô__np"/></e>
 
