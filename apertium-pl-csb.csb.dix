@@ -29,6 +29,7 @@
     <sdef n="vblex"/>
     <sdef n="sint"/>
     <sdef n="comp"/>
+    <sdef n="sup"/>
     <sdef n="det"/>
     <sdef n="ord"/>
     
@@ -109,17 +110,27 @@
         </p>
       </e>
     </pardef>
-    <pardef n="chùt/kò__adv">
+    <pardef n="chùtkò__adv">
       <e>
         <p>
-	  <l>kò</l>
-	  <r>kò<s n="adv"/><s n="sint"/></r>
+	  <l></l>
+	  <r><s n="adv"/><s n="sint"/></r>
 	</p>
       </e>
+    </pardef>
+    <pardef n="chùtczi__adv">
       <e>
         <p>
-	  <l>czi</l>
-	  <r>kò<s n="adv"/><s n="sint"/><s n="comp"/></r>
+	  <l></l>
+	  <r><s n="adv"/><s n="sint"/><s n="comp"/></r>
+	</p>
+      </e>
+    </pardef>
+    <pardef n="nôchùtczi__adv">
+      <e>
+        <p>
+	  <l></l>
+	  <r><s n="adv"/><s n="sint"/><s n="sup"/></r>
 	</p>
       </e>
     </pardef>
@@ -4584,7 +4595,9 @@
     <e lm="dosc"><i>dosc</i><par n="téż__adv"/></e>
     <e lm="nigdë"><i>nigdë</i><par n="téż__adv"/></e>
     <e lm="doma"><i>doma</i><par n="téż__adv"/></e>
-    <e lm="chùtkò"><par n="nô__adv"/><i>chùt</i><par n="chùt/kò__adv"/></e>
+    <e lm="chùtkò"><i>chùtko</i><par n="chùtkò__adv"/></e>
+    <e lm="chùtkò"><p><l>chùtczi</l><r>chùtko</r></p><par n="chùtczi__adv"/></e>
+    <e lm="chùtkò"><p><l>nôchùtczi</l><r>chùtko</r></p><par n="nôchùtczi__adv"/></e>
 
     <!-- Adjectives -->
     <e lm="kaszëbsczi"><i>kaszëbs</i><par n="kaszëbs/czi__adj"/></e>
@@ -4735,6 +4748,9 @@
   </section>
   <section id="punct" type="inconditional">
     <e lm="."><p><l>.</l><r>.<s n="sent"/></r></p></e>
+    <e lm="?"><p><l>?</l><r>.<s n="sent"/></r></p></e>
+    <e lm="!"><p><l>!</l><r>.<s n="sent"/></r></p></e>
+    <e lm=";"><p><l>;</l><r>.<s n="sent"/></r></p></e>
     <e lm=","><p><l>,</l><r>,<s n="cm"/></r></p></e>
     <e lm="-"><p><l>-</l><r>-<s n="guio"/></r></p></e>
   </section>
