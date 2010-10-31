@@ -42,6 +42,7 @@
     <e><p><l>naprawdę<s n="adv"/></l><r>richtich<s n="adv"/></r></p></e>
     <e><p><l>kiedy<s n="adv"/><s n="itg"/></l><r>czej<s n="adv"/><s n="itg"/></r></p></e>
     <e><p><l>gdzie<s n="adv"/><s n="itg"/></l><r>gdze<s n="adv"/><s n="itg"/></r></p></e>
+    <e r="RL"><p><l>gdzie<s n="adv"/><s n="itg"/></l><r>dze<s n="adv"/><s n="itg"/></r></p></e>
     <e><p><l>nigdy<s n="adv"/></l><r>nigdë<s n="adv"/></r></p></e>
     <e><p><l>w<b/>domu<s n="adv"/></l><r>doma<s n="adv"/></r></p></e>
     <e><p><l>przede<b/>wszystkim<s n="adv"/></l><r>przede<b/>wszëtczim<s n="adv"/></r></p></e>
@@ -60,6 +61,8 @@
     <e><p><l>być<s n="vbser"/></l><r>bëc<s n="vbser"/></r></p></e>
     <e><p><l>iść<s n="vblex"/></l><r>jic<s n="vblex"/></r></p></e>
     <e><p><l>pójść<s n="vblex"/></l><r>pòjic<s n="vblex"/></r></p></e>
+    <e><p><l>pisać<s n="vblex"/></l><r>pisac<s n="vblex"/></r></p></e>
+    <e><p><l>napisać<s n="vblex"/></l><r>napisac<s n="vblex"/></r></p></e>
     
     <e><p><l>tydzień<s n="n"/><s n="mi"/></l><r>tidzéń<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>styczeń<s n="n"/><s n="mi"/></l><r>stëcznik<s n="n"/><s n="mi"/></r></p></e>

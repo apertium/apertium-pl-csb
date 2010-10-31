@@ -26,6 +26,7 @@
     <sdef n="inf"/>
     <sdef n="pres"/>
     <sdef n="fut"/>
+    <sdef n="imp"/>
     <sdef n="p1"/>
     <sdef n="p2"/>
     <sdef n="p3"/>
@@ -4369,6 +4370,13 @@
 
       <e>
         <p>
+          <l></l>
+          <r>ac<s n="vblex"/><s n="imperf"/><s n="imp"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+
+      <e>
+        <p>
           <l>ząc</l>
           <r>ac<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
         </p>
@@ -4386,6 +4394,87 @@
         <p>
           <l>ón</l>
           <r>ac<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
+        </p>
+<!--        <par n="BASE__pisóny"/>-->
+        <par n="BASE__jasny"/>
+      </e>
+    </pardef>
+    <pardef n="napis/ac__vblex">
+      <e>
+        <p>
+          <l>ac</l>
+          <r>ac<s n="vblex"/><s n="perf"/><s n="inf"/></r>
+        </p>
+      </e>
+
+      <!-- future -->
+      <e>
+        <p>
+          <l>zã</l>
+          <r>ac<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>zesz</l>
+          <r>ac<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ze</l>
+          <r>ac<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>zemë</l>
+          <r>ac<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>zema</l>
+          <r>ac<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p1"/><s n="du"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>zeta</l>
+          <r>ac<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p2"/><s n="du"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>zece</l>
+          <r>ac<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>zą</l>
+          <r>ac<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+
+      <e>
+        <p>
+          <l></l>
+          <r>ac<s n="vblex"/><s n="perf"/><s n="imp"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+
+      <e i="yes">
+        <p>
+          <l>a</l>
+          <r>ac<s n="vblex"/><s n="perf"/><s n="ger"/></r>
+        </p>
+        <par n="BASE__zdanie"/>
+      </e>
+      <e>
+        <p>
+          <l>ón</l>
+          <r>ac<s n="vblex"/><s n="perf"/><s n="pp"/></r>
         </p>
 <!--        <par n="BASE__pisóny"/>-->
         <par n="BASE__jasny"/>
@@ -5564,11 +5653,13 @@
     <e lm="jic"><i></i><par n="/jic__vblex"/></e>
     <e lm="pòjic"><i>pò</i><par n="pò/jic__vblex"/></e>
     <e lm="pisac"><i>pis</i><par n="pis/ac__vblex"/></e>
+    <e lm="napisac"><i>napis</i><par n="napis/ac__vblex"/></e>
 
     <e lm="jak"><i>jak</i><par n="jak__adv"/></e>
     <e lm="gdze"><i>gdze</i><par n="jak__adv"/></e>
     <e lm="dze"><i>dze</i><par n="jak__adv"/></e>
     <e lm="czë"><i>czë</i><par n="jak__adv"/></e>
+    <e lm="czej"><i>czej</i><par n="jak__adv"/></e>
     <e lm="téż"><i>téż</i><par n="téż__adv"/></e>
     <e lm="dzysô"><i>dzysô</i><par n="téż__adv"/></e>
     <e lm="dzys"><i>dzys</i><par n="téż__adv"/></e>
