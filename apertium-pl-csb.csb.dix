@@ -1446,6 +1446,104 @@
         </p>
       </e>
     </pardef>
+    <pardef n="jãzë/k__n">
+      <e>
+        <p>
+          <l>k</l>
+          <r>k<s n="n"/><s n="mi"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ka</l>
+          <r>k<s n="n"/><s n="mi"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kù</l>
+          <r>k<s n="n"/><s n="mi"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kòwi</l>
+          <r>k<s n="n"/><s n="mi"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>k</l>
+          <r>k<s n="n"/><s n="mi"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kã</l>
+          <r>k<s n="n"/><s n="mi"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>kem</l>
+          <r>k<s n="n"/><s n="mi"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kù</l>
+          <r>k<s n="n"/><s n="mi"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kù</l>
+          <r>k<s n="n"/><s n="mi"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>czi</l>
+          <r>k<s n="n"/><s n="mi"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ków</l>
+          <r>k<s n="n"/><s n="mi"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kóm</l>
+          <r>k<s n="n"/><s n="mi"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>czi</l>
+          <r>k<s n="n"/><s n="mi"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kama</l>
+          <r>k<s n="n"/><s n="mi"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kach</l>
+          <r>k<s n="n"/><s n="mi"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>czi</l>
+          <r>k<s n="n"/><s n="mi"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="łżëkwiô/t__n">
       <e>
         <p>
@@ -4955,6 +5053,8 @@
     
     <e lm="tidzéń"><i>tidzé</i><par n="tidzé/ń__n"/></e> <!-- week -->
     <e lm="inżinér"><i>inżinér</i><par n="inżinér__n"/></e>
+    <e lm="jãzëk"><i>jãzë</i><par n="jãzë/k__n"/></e>
+
     <!-- months -->
     <e lm="stëcznik"><i>stëczni</i><par n="stëczni/k__n"/></e> <!-- January -->
     <e lm="gromicznik"><i>gromiczni</i><par n="stëczni/k__n"/></e> <!-- February -->
