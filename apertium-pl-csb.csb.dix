@@ -5,6 +5,13 @@
   <sdefs>
     <sdef n="n"/>
     <sdef n="adv"/>
+    <sdef n="num"/>
+    <sdef n="indecl"/>
+    <sdef n="sp"/>
+    <sdef n="qnt"/>
+    <sdef n="percent"/>
+    <sdef n="lpar"/>
+    <sdef n="rpar"/>
     
     <sdef n="mp"/>
     <sdef n="ma"/>
@@ -159,6 +166,69 @@
 	</p>
       </e>
     </pardef>
+    <pardef n="numeros">
+      <e>
+        <i>1</i>
+        <p>
+          <l/>
+          <r><s n="num"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <re>[2-4]</re>
+        <p>
+          <l/>
+          <r><s n="num"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <re>[5-9]</re>
+        <p>
+          <l/>
+          <r><s n="num"/><s n="qnt"/></r>
+        </p>
+      </e>
+      <e>
+        <re>[0-9][0-9]+</re>
+        <p>
+          <l/>
+          <r><s n="num"/><s n="qnt"/></r>
+        </p>
+      </e>
+      <e>
+        <re>[0-9]+([.,][0-9]+)+</re>
+        <p>
+          <l/>
+          <r><s n="num"/></r>
+        </p>
+      </e>
+      <e>
+        <re>[0-9]+([.,][0-9]+)?%</re>
+        <p>
+          <l/>
+          <r><s n="num"/><s n="percent"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="paresq">
+      <e>
+        <re>[\(\[]</re>
+        <p>
+          <l/>
+          <r><s n="lpar"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="pardret">
+      <e>
+        <re>[\)\]]</re>
+        <p>
+          <l/>
+          <r><s n="rpar"/></r>
+        </p>
+      </e>
+    </pardef>
+
     <pardef n="chto__prn">
       <e>
         <p>
@@ -5913,6 +5983,9 @@
     <e lm="alt-?"><i>alt-</i><re>[A-Za-z]</re><p><l/><r><s n="adv"/></r></p></e>
   </section>
   <section id="punct" type="inconditional">
+    <e><par n="numeros"/></e>
+    <e><par n="paresq"/></e>
+    <e><par n="pardret"/></e>
     <e lm="."><p><l>.</l><r>.<s n="sent"/></r></p></e>
     <e lm="?"><p><l>?</l><r>?<s n="sent"/></r></p></e>
     <e lm="!"><p><l>!</l><r>!<s n="sent"/></r></p></e>
