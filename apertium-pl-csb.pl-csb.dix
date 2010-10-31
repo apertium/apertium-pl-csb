@@ -31,6 +31,49 @@
     <e><p><l>kto<s n="prn"/></l><r>chto<s n="prn"/></r></p></e>
     <e><p><l>ktoś<s n="prn"/></l><r>chtos<s n="prn"/></r></p></e>
 
+    <e><p><l>I<s n="num"/></l><r>I<s n="num"/></r></p></e>
+    <e><p><l>II<s n="num"/></l><r>II<s n="num"/></r></p></e>
+    <e><p><l>III<s n="num"/></l><r>III<s n="num"/></r></p></e>
+    <e><p><l>IV<s n="num"/></l><r>IV<s n="num"/></r></p></e>
+    <e><p><l>V<s n="num"/></l><r>V<s n="num"/></r></p></e>
+    <e><p><l>VI<s n="num"/></l><r>VI<s n="num"/></r></p></e>
+    <e><p><l>VII<s n="num"/></l><r>VII<s n="num"/></r></p></e>
+    <e><p><l>VIII<s n="num"/></l><r>VIII<s n="num"/></r></p></e>
+    <e><p><l>IX<s n="num"/></l><r>IX<s n="num"/></r></p></e>
+    <e><p><l>X<s n="num"/></l><r>X<s n="num"/></r></p></e>
+    <e><p><l>XI<s n="num"/></l><r>XI<s n="num"/></r></p></e>
+    <e><p><l>XII<s n="num"/></l><r>XII<s n="num"/></r></p></e>
+    <e><p><l>XIII<s n="num"/></l><r>XIII<s n="num"/></r></p></e>
+    <e><p><l>XIV<s n="num"/></l><r>XIV<s n="num"/></r></p></e>
+    <e><p><l>XV<s n="num"/></l><r>XV<s n="num"/></r></p></e>
+    <e><p><l>XVI<s n="num"/></l><r>XVI<s n="num"/></r></p></e>
+    <e><p><l>XVII<s n="num"/></l><r>XVII<s n="num"/></r></p></e>
+    <e><p><l>XVIII<s n="num"/></l><r>XVIII<s n="num"/></r></p></e>
+    <e><p><l>XIX<s n="num"/></l><r>XIX<s n="num"/></r></p></e>
+    <e><p><l>XX<s n="num"/></l><r>XX<s n="num"/></r></p></e>
+    <e><p><l>XXI<s n="num"/></l><r>XXI<s n="num"/></r></p></e>
+    <e><p><l>XXII<s n="num"/></l><r>XXII<s n="num"/></r></p></e>
+    <e><p><l>XXIII<s n="num"/></l><r>XXIII<s n="num"/></r></p></e>
+    <e><p><l>XXIV<s n="num"/></l><r>XXIV<s n="num"/></r></p></e>
+    <e><p><l>XXV<s n="num"/></l><r>XXV<s n="num"/></r></p></e>
+    <e><p><l>XXVI<s n="num"/></l><r>XXVI<s n="num"/></r></p></e>
+    <e><p><l>XXVII<s n="num"/></l><r>XXVII<s n="num"/></r></p></e>
+    <e><p><l>XXVIII<s n="num"/></l><r>XXVIII<s n="num"/></r></p></e>
+    <e><p><l>XXIX<s n="num"/></l><r>XXIX<s n="num"/></r></p></e>
+    <e><p><l>XXX<s n="num"/></l><r>XXX<s n="num"/></r></p></e>
+    <e><p><l>XXXI<s n="num"/></l><r>XXXI<s n="num"/></r></p></e>
+    <e><p><l>XXXII<s n="num"/></l><r>XXXII<s n="num"/></r></p></e>
+    <e><p><l>XXXIII<s n="num"/></l><r>XXXIII<s n="num"/></r></p></e>
+    <e><p><l>XXXIV<s n="num"/></l><r>XXXIV<s n="num"/></r></p></e>
+    <e><p><l>XXXV<s n="num"/></l><r>XXXV<s n="num"/></r></p></e>
+    <e><p><l>XXXVI<s n="num"/></l><r>XXXVI<s n="num"/></r></p></e>
+    <e><p><l>XXXVII<s n="num"/></l><r>XXXVII<s n="num"/></r></p></e>
+    <e><p><l>XXXVIII<s n="num"/></l><r>XXXVIII<s n="num"/></r></p></e>
+    <e><p><l>XXXIX<s n="num"/></l><r>XXXIX<s n="num"/></r></p></e>
+    <e><p><l>M<s n="num"/></l><r>M<s n="num"/></r></p></e>
+    <e><p><l>C<s n="num"/></l><r>C<s n="num"/></r></p></e>
+    <e><p><l>L<s n="num"/></l><r>L<s n="num"/></r></p></e>
+
     <e><p><l>naj<s n="adv"/></l><r>nô<s n="adv"/></r></p></e>
     <e><p><l>jeszcze<s n="adv"/></l><r>jesz<s n="adv"/></r></p></e>
     <e><p><l>fajnie<s n="adv"/></l><r>fejn<s n="adv"/></r></p></e>
@@ -85,6 +128,7 @@
     <e><p><l>sobota<s n="n"/><s n="f"/></l><r>sobòta<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>niedziela<s n="n"/><s n="f"/></l><r>niedzela<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>robota<s n="n"/><s n="f"/></l><r>robòta<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>botanika<s n="n"/><s n="f"/></l><r>bòtanika<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>budynek<s n="n"/><s n="mi"/></l><r>bùdink<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>mianownik<s n="n"/><s n="mi"/></l><r>nazéwôcz<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>dopełniacz<s n="n"/><s n="mi"/></l><r>rodzôcz<s n="n"/><s n="mi"/></r></p></e>

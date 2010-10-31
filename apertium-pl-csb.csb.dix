@@ -143,6 +143,22 @@
 	</p>
       </e>
     </pardef>
+    <pardef n="I__num">
+      <e>
+        <p>
+	  <l></l>
+	  <r><s n="num"/><s n="mf"/><s n="sg"/><s n="indecl"/></r>
+	</p>
+      </e>
+    </pardef>
+    <pardef n="X__num">
+      <e>
+        <p>
+	  <l></l>
+	  <r><s n="num"/><s n="mf"/><s n="sp"/><s n="indecl"/></r>
+	</p>
+      </e>
+    </pardef>
     <pardef n="chto__prn">
       <e>
         <p>
@@ -5203,7 +5219,50 @@
     <e lm="chtos"><i></i><par n="chtos__prn"/></e>
     <e lm="cos"><i></i><par n="cos__det"/></e>
     <e lm="prpers"><i></i><par n="prpers__prn"/></e>
-    
+
+    <e lm="I"><i>I</i><par n="I__num"/></e>
+    <e lm="II"><i>II</i><par n="X__num"/></e>
+    <e lm="III"><i>III</i><par n="X__num"/></e>
+    <e lm="IV"><i>IV</i><par n="X__num"/></e>
+    <e lm="V"><i>V</i><par n="X__num"/></e>
+    <e lm="VI"><i>VI</i><par n="X__num"/></e>
+    <e lm="VII"><i>VII</i><par n="X__num"/></e>
+    <e lm="VIII"><i>VIII</i><par n="X__num"/></e>
+    <e lm="IX"><i>IX</i><par n="X__num"/></e>
+    <e lm="X"><i>X</i><par n="X__num"/></e>
+    <e lm="XI"><i>XI</i><par n="X__num"/></e>
+    <e lm="XII"><i>XII</i><par n="X__num"/></e>
+    <e lm="XIII"><i>XIII</i><par n="X__num"/></e>
+    <e lm="XIV"><i>XIV</i><par n="X__num"/></e>
+    <e lm="XV"><i>XV</i><par n="X__num"/></e>
+    <e lm="XVI"><i>XVI</i><par n="X__num"/></e>
+    <e lm="XVII"><i>XVII</i><par n="X__num"/></e>
+    <e lm="XVIII"><i>XVIII</i><par n="X__num"/></e>
+    <e lm="XIX"><i>XIX</i><par n="X__num"/></e>
+    <e lm="XX"><i>XX</i><par n="X__num"/></e>
+    <e lm="XXI"><i>XXI</i><par n="X__num"/></e>
+    <e lm="XXII"><i>XXII</i><par n="X__num"/></e>
+    <e lm="XXIII"><i>XXIII</i><par n="X__num"/></e>
+    <e lm="XXIV"><i>XXIV</i><par n="X__num"/></e>
+    <e lm="XXV"><i>XXV</i><par n="X__num"/></e>
+    <e lm="XXVI"><i>XXVI</i><par n="X__num"/></e>
+    <e lm="XXVII"><i>XXVII</i><par n="X__num"/></e>
+    <e lm="XXVIII"><i>XXVIII</i><par n="X__num"/></e>
+    <e lm="XXIX"><i>XXIX</i><par n="X__num"/></e>
+    <e lm="XXX"><i>XXX</i><par n="X__num"/></e>
+    <e lm="XXXI"><i>XXXI</i><par n="X__num"/></e>
+    <e lm="XXXII"><i>XXXII</i><par n="X__num"/></e>
+    <e lm="XXXIII"><i>XXXIII</i><par n="X__num"/></e>
+    <e lm="XXXIV"><i>XXXIV</i><par n="X__num"/></e>
+    <e lm="XXXV"><i>XXXV</i><par n="X__num"/></e>
+    <e lm="XXXVI"><i>XXXVI</i><par n="X__num"/></e>
+    <e lm="XXXVII"><i>XXXVII</i><par n="X__num"/></e>
+    <e lm="XXXVIII"><i>XXXVIII</i><par n="X__num"/></e>
+    <e lm="XXXIX"><i>XXXIX</i><par n="X__num"/></e>
+    <e lm="M"><i>M</i><par n="X__num"/></e>
+    <e lm="C"><i>C</i><par n="X__num"/></e>
+    <e lm="L"><i>L</i><par n="X__num"/></e>
+
     <!-- Prepositions -->
     <e lm="do"><i>do</i><par n="do__pr"/></e>
     <e lm="na"><i>na</i><par n="do__pr"/></e>
@@ -5602,6 +5661,7 @@
     <e lm="zemia"><i>zemi</i><par n="zemi/a__n"/></e>
     <e lm="aptéka"><i>apté</i><par n="apté/ka__n"/></e>
     <e lm="mùzyka" c="guess"><i>mùzy</i><par n="apté/ka__n"/></e>
+    <e lm="bòtanika" c="guess"><i>bòtani</i><par n="apté/ka__n"/></e>
     <e lm="ògón"><i>ògón</i><par n="ògón__n"/></e>
     <e lm="ceniô"><i>ceni</i><par n="ceni/ô__n"/></e>
     <e lm="wilk"><i>wil</i><par n="wil/k__n"/></e>
