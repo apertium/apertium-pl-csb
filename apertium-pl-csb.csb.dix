@@ -816,6 +816,12 @@
     <pardef n="òjc__n">
       <e>
         <p>
+          <l></l>
+          <r><s n="n"/><s n="mp"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
           <l>a</l>
           <r><s n="n"/><s n="mp"/><s n="sg"/><s n="gen"/></r>
         </p>
@@ -834,18 +840,6 @@
       </e>
       <e>
         <p>
-          <l>u</l>
-          <r><s n="n"/><s n="mp"/><s n="sg"/><s n="loc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ze</l>
-          <r><s n="n"/><s n="mp"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
           <l>ã</l>
           <r><s n="n"/><s n="mp"/><s n="sg"/><s n="ins"/></r>
         </p>
@@ -858,8 +852,20 @@
       </e>
       <e>
         <p>
-          <l></l>
-          <r><s n="n"/><s n="mp"/><s n="sg"/><s n="nom"/></r>
+          <l>u</l>
+          <r><s n="n"/><s n="mp"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ze</l>
+          <r><s n="n"/><s n="mp"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>owie</l>
+          <r><s n="n"/><s n="mp"/><s n="pl"/><s n="nom"/></r>
         </p>
       </e>
       <e>
@@ -882,6 +888,12 @@
       </e>
       <e>
         <p>
+          <l>ama</l>
+          <r><s n="n"/><s n="mp"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
           <l>ach</l>
           <r><s n="n"/><s n="mp"/><s n="pl"/><s n="loc"/></r>
         </p>
@@ -892,6 +904,80 @@
           <r><s n="n"/><s n="mp"/><s n="pl"/><s n="voc"/></r>
         </p>
       </e>
+    </pardef>
+    <pardef n="inżinér__n">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="mp"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r><s n="n"/><s n="mp"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>owi</l>
+          <r><s n="n"/><s n="mp"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r><s n="n"/><s n="mp"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ã</l>
+          <r><s n="n"/><s n="mp"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>em</l>
+          <r><s n="n"/><s n="mp"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ze</l>
+          <r><s n="n"/><s n="mp"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r><s n="n"/><s n="mp"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ë</l>
+          <r><s n="n"/><s n="mp"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ów</l>
+          <r><s n="n"/><s n="mp"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>óm</l>
+          <r><s n="n"/><s n="mp"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ów</l>
+          <r><s n="n"/><s n="mp"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
       <e>
         <p>
           <l>ama</l>
@@ -900,8 +986,20 @@
       </e>
       <e>
         <p>
+          <l>ach</l>
+          <r><s n="n"/><s n="mp"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ë</l>
+          <r><s n="n"/><s n="mp"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
           <l>owie</l>
-          <r><s n="n"/><s n="mp"/><s n="pl"/><s n="nom"/></r>
+          <r><s n="n"/><s n="mp"/><s n="pl"/><s n="voc"/></r>
         </p>
       </e>
     </pardef>
@@ -1428,7 +1526,7 @@
         </p>
       </e>
     </pardef>
-    <pardef n="czerwińc/__n">
+    <pardef n="czerwińc__n">
       <e>
         <p>
           <l></l>
@@ -1514,7 +1612,7 @@
         </p>
       </e>
     </pardef>
-    <pardef n="rujan/__n">
+    <pardef n="rujan__n">
       <e>
         <p>
           <l></l>
@@ -1686,7 +1784,7 @@
         </p>
       </e>
     </pardef>
-    <pardef n="nominatiw/__n">
+    <pardef n="nominatiw__n">
       <e>
         <p>
           <l></l>
@@ -1772,7 +1870,7 @@
         </p>
       </e>
     </pardef>
-    <pardef n="jinstrumental/__n">
+    <pardef n="jinstrumental__n">
       <e>
         <p>
           <l></l>
@@ -4764,17 +4862,18 @@
     <e lm="kù"><i>kù</i><par n="do__pr"/></e>
     
     <e lm="tidzéń"><i>tidzé</i><par n="tidzé/ń__n"/></e> <!-- week -->
+    <e lm="inżinér"><i>inżinér</i><par n="inżinér__n"/></e>
     <!-- months -->
     <e lm="stëcznik"><i>stëczni</i><par n="stëczni/k__n"/></e> <!-- January -->
     <e lm="gromicznik"><i>gromiczni</i><par n="stëczni/k__n"/></e> <!-- February -->
     <e lm="strumiannik"><i>strumianni</i><par n="stëczni/k__n"/></e> <!-- March -->
     <e lm="łżëkwiôt"><i>łżëkwiô</i><par n="łżëkwiô/t__n"/></e> <!-- April -->
     <e lm="môj"><i>m</i><par n="m/ôj__n"/></e> <!-- May -->
-    <e lm="czerwińc"><i>czerwińc</i><par n="czerwińc/__n"/></e> <!-- June -->
-    <e lm="lëpinc"><i>lëpinc</i><par n="czerwińc/__n"/></e> <!-- July -->
+    <e lm="czerwińc"><i>czerwińc</i><par n="czerwińc__n"/></e> <!-- June -->
+    <e lm="lëpinc"><i>lëpinc</i><par n="czerwińc__n"/></e> <!-- July -->
     <e lm="zélnik"><i>zélni</i><par n="stëczni/k__n"/></e> <!-- August -->
     <e lm="séwnik"><i>séwni</i><par n="stëczni/k__n"/></e> <!-- September -->
-    <e lm="rujan"><i>rujan</i><par n="rujan/__n"/></e> <!-- October -->
+    <e lm="rujan"><i>rujan</i><par n="rujan__n"/></e> <!-- October -->
     <e lm="lëstopadnik"><i>lëstopadni</i><par n="stëczni/k__n"/></e> <!-- November -->
     <e lm="gòdnik"><i>gòdni</i><par n="stëczni/k__n"/></e> <!-- December -->
 
@@ -4795,13 +4894,13 @@
     <e lm="narzãdzôcz"><i>narzãdz</i><par n="nazéw/ôcz__n"/></e> <!-- instrumental -->
     <e lm="môlnik"><i>môlni</i><par n="stëczni/k__n"/></e> <!-- locative -->
     <e lm="wòłiwôcz"><i>wòłiw</i><par n="nazéw/ôcz__n"/></e> <!-- vocative -->
-    <e lm="nominatiw"><i>nominatiw</i><par n="nominatiw/__n"/></e> <!-- nominative -->
-    <e lm="genytiw"><i>genytiw</i><par n="nominatiw/__n"/></e> <!-- genttive -->
-    <e lm="datiw"><i>datiw</i><par n="nominatiw/__n"/></e> <!-- dative -->
-    <e lm="akùzatiw"><i>akùzatiw</i><par n="nominatiw/__n"/></e> <!-- accusative -->
-    <e lm="jinstrumental"><i>jinstrumental</i><par n="jinstrumental/__n"/></e> <!-- instrumental -->
-    <e lm="lokatiw"><i>lokatiw</i><par n="nominatiw/__n"/></e> <!-- locative -->
-    <e lm="wòkatiw"><i>wòkatiw</i><par n="nominatiw/__n"/></e> <!-- vocative -->
+    <e lm="nominatiw"><i>nominatiw</i><par n="nominatiw__n"/></e> <!-- nominative -->
+    <e lm="genytiw"><i>genytiw</i><par n="nominatiw__n"/></e> <!-- genttive -->
+    <e lm="datiw"><i>datiw</i><par n="nominatiw__n"/></e> <!-- dative -->
+    <e lm="akùzatiw"><i>akùzatiw</i><par n="nominatiw__n"/></e> <!-- accusative -->
+    <e lm="jinstrumental"><i>jinstrumental</i><par n="jinstrumental__n"/></e> <!-- instrumental -->
+    <e lm="lokatiw"><i>lokatiw</i><par n="nominatiw__n"/></e> <!-- locative -->
+    <e lm="wòkatiw"><i>wòkatiw</i><par n="nominatiw__n"/></e> <!-- vocative -->
     <!-- normal nouns -->
     <e lm="bùdink"><i>bùdin</i><par n="piąt/k__n"/></e> <!-- building -->
     <e lm="kóń"><i>k</i><par n="k/óń__n"/></e> <!-- horse -->
