@@ -2711,6 +2711,12 @@
           <r>bëc<s n="vbser"/><s n="past"/><s n="m"/><s n="sg"/></r>
         </p>
       </e>
+      <e r="LR" c="FIXME: this, or above?">
+        <p>
+          <l>béł</l>
+          <r>bëc<s n="vbser"/><s n="past"/><s n="m"/><s n="sg"/></r>
+        </p>
+      </e>
       <e>
         <p>
           <l>bëła</l>
@@ -4417,6 +4423,8 @@
     <e lm="rujan"><i>rujan</i><par n="rujan/__n"/></e> <!-- October -->
     <e lm="lëstopadnik"><i>lëstopadni</i><par n="stëczni/k__n"/></e> <!-- November -->
     <e lm="gòdnik"><i>gòdni</i><par n="stëczni/k__n"/></e> <!-- December -->
+
+    <e lm="robòta"><i>robò</i><par n="sobò/ta__n"/></e>
     <!-- days -->
     <e lm="pòniedzôłk"><i>pòniedz</i><par n="pòniedz/ôłk__n"/></e> <!-- Monday -->
     <e lm="wtórk"><i>wtór</i><par n="piąt/k__n"/></e> <!-- Tuesday -->
@@ -5011,9 +5019,9 @@
   </section>
   <section id="punct" type="inconditional">
     <e lm="."><p><l>.</l><r>.<s n="sent"/></r></p></e>
-    <e lm="?"><p><l>?</l><r>.<s n="sent"/></r></p></e>
-    <e lm="!"><p><l>!</l><r>.<s n="sent"/></r></p></e>
-    <e lm=";"><p><l>;</l><r>.<s n="sent"/></r></p></e>
+    <e lm="?"><p><l>?</l><r>?<s n="sent"/></r></p></e>
+    <e lm="!"><p><l>!</l><r>!<s n="sent"/></r></p></e>
+    <e lm=";"><p><l>;</l><r>;<s n="sent"/></r></p></e>
     <e lm=","><p><l>,</l><r>,<s n="cm"/></r></p></e>
     <e lm="-"><p><l>-</l><r>-<s n="guio"/></r></p></e>
   </section>
