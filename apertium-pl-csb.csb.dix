@@ -1003,6 +1003,98 @@
         </p>
       </e>
     </pardef>
+    <pardef n="s/yn__n">
+      <e>
+        <p>
+          <l>yn</l>
+          <r>yn<s n="n"/><s n="mp"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ëna</l>
+          <r>yn<s n="n"/><s n="mp"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ënowi</l>
+          <r>yn<s n="n"/><s n="mp"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ëna</l>
+          <r>yn<s n="n"/><s n="mp"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ënã</l>
+          <r>yn<s n="n"/><s n="mp"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ënem</l>
+          <r>yn<s n="n"/><s n="mp"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ënie</l>
+          <r>yn<s n="n"/><s n="mp"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ënie</l>
+          <r>yn<s n="n"/><s n="mp"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ënë</l>
+          <r>yn<s n="n"/><s n="mp"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ënów</l>
+          <r>yn<s n="n"/><s n="mp"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ënóm</l>
+          <r>yn<s n="n"/><s n="mp"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ënów</l>
+          <r>yn<s n="n"/><s n="mp"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ënama</l>
+          <r>yn<s n="n"/><s n="mp"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ënach</l>
+          <r>yn<s n="n"/><s n="mp"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ënë</l>
+          <r>yn<s n="n"/><s n="mp"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="pùj/k__n">
       <e>
         <p>
@@ -5241,6 +5333,7 @@
     <e lm="wilk"><i>wil</i><par n="wil/k__n"/></e>
     <e lm="tëpa"><i>tëp</i><par n="tëp/a__n"/></e>
     <e lm="òjc"><i>òjc</i><par n="òjc__n"/></e>
+    <e lm="syn"><i>s</i><par n="s/yn__n"/></e>
     <e lm="pùjk"><i>pùj</i><par n="pùj/k__n"/></e>
     <e lm="kòt"><i>kò</i><par n="kò/t__n"/></e>
     <e lm="abecadło"><i>abecad</i><par n="abecad/ło__n"/></e>
