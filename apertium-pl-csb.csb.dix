@@ -288,6 +288,75 @@
       </e>
     </pardef>
 
+    <pardef n="prpers__prn">
+      <e>
+        <p>
+          <l>jô</l>
+          <r>prpers<s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>të</l>
+          <r>prpers<s n="prn"/><s n="p2"/><s n="mf"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>òn</l>
+          <r>prpers<s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>òna</l>
+          <r>prpers<s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>òno</l>
+          <r>prpers<s n="prn"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>më</l>
+          <r>prpers<s n="prn"/><s n="p1"/><s n="mf"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>wë</l>
+          <r>prpers<s n="prn"/><s n="p2"/><s n="mf"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ma</l>
+          <r>prpers<s n="prn"/><s n="p1"/><s n="mf"/><s n="du"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>wa</l>
+          <r>prpers<s n="prn"/><s n="p2"/><s n="mf"/><s n="du"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>òni</l>
+          <r>prpers<s n="prn"/><s n="p3"/><s n="mp"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>òne</l>
+          <r>prpers<s n="prn"/><s n="p3"/><s n="mf"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
     <pardef n="atlantëc/czi__adj">
       <e>
         <p>
@@ -4291,6 +4360,7 @@
     <e lm="co"><i></i><par n="co__det"/></e>
     <e lm="chtos"><i></i><par n="chtos__prn"/></e>
     <e lm="cos"><i></i><par n="cos__det"/></e>
+    <e lm="prpers"><i></i><par n="prpers__prn"/></e>
     
     <!-- Prepositions -->
     <e lm="do"><i>do</i><par n="do__pr"/></e>
