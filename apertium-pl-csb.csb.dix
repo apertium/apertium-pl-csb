@@ -5289,6 +5289,7 @@
 
     <e lm="jak"><i>jak</i><par n="jak__adv"/></e>
     <e lm="gdze"><i>gdze</i><par n="jak__adv"/></e>
+    <e lm="dze"><i>dze</i><par n="jak__adv"/></e>
     <e lm="czë"><i>czë</i><par n="jak__adv"/></e>
     <e lm="téż"><i>téż</i><par n="téż__adv"/></e>
     <e lm="dzysô"><i>dzysô</i><par n="téż__adv"/></e>
@@ -5307,6 +5308,10 @@
     <e lm="wczora"><i>wczora</i><par n="téż__adv"/></e>
     <e lm="nazôd"><i>nazôd</i><par n="téż__adv"/></e>
     <e lm="richtich"><i>richtich</i><par n="téż__adv"/></e>
+    <e lm="fejn"><i>fejn</i><par n="téż__adv"/></e>
+    <e lm="jesz"><i>jesz</i><par n="téż__adv"/></e>
+    <e lm="znowù"><i>znowù</i><par n="téż__adv"/></e>
+    <e lm="znôù"><i>znôù</i><par n="téż__adv"/></e>
 
     <!-- Adjectives -->
     <e lm="kaszëbsczi"><i>kaszëbs</i><par n="kaszëbs/czi__adj"/></e>
@@ -5447,6 +5452,7 @@
     <e lm="tóni"><i>tón</i><par n="tón/i__adj"/></e>
     <e lm="piérwi"><i>piérw</i><par n="piérw/i__det"/></e>
     <e lm="jasny"><i>jasn</i><par n="jasn/y__adj"/></e>
+    <e lm="cëzy"><i>cëz</i><par n="jasn/y__adj"/></e>
     <e lm="pòpùlarny"><i>pòpùlarn</i><par n="jasn/y__adj"/></e>
     <e lm="aktualny"><i>aktualn</i><par n="jasn/y__adj"/></e>
     <e lm="akùrôtny"><i>akùrôtn</i><par n="jasn/y__adj"/></e>
