@@ -35,6 +35,7 @@
     
     <sdef n="sg" c="Pòjedińczô lëczba"/>
     <sdef n="pl" c="Wielnô lëczba"/>
+    <sdef n="du"/>
     
     <sdef n="nom" c="nazéwôcz"/>
     <sdef n="gen" c="rodzôcz"/>
@@ -3667,6 +3668,25 @@
         <par n="młod/i__HARD_BASE"/>
       </e>
     </pardef>
+    <pardef n="lepsz/i__adj">
+      <e>
+        <p>
+          <l></l>
+          <r>i<s n="adj"/><s n="sint"/><s n="comp"/></r>
+        </p>
+        <par n="młod/i__HARD_BASE"/>
+      </e>
+    </pardef>
+    <pardef n="nôlepsz/i__adj">
+      <e>
+        <p>
+          <l></l>
+          <r>i<s n="adj"/><s n="sint"/><s n="sup"/></r>
+        </p>
+        <par n="młod/i__HARD_BASE"/>
+      </e>
+    </pardef>
+
     <pardef n="tón/i__adj">
       <e>
         <p>
@@ -4816,6 +4836,9 @@
     <e lm="chùtkò"><i>chùtko</i><par n="chùtkò__adv"/></e>
     <e lm="chùtkò"><p><l>chùtczi</l><r>chùtko</r></p><par n="chùtczi__adv"/></e>
     <e lm="chùtkò"><p><l>nôchùtczi</l><r>chùtko</r></p><par n="nôchùtczi__adv"/></e>
+    <e lm="wiedno"><i>wiedno</i><par n="jak__adv"/></e>
+    <e lm="wczora"><i>wczora</i><par n="jak__adv"/></e>
+    <e lm="nazôd"><i>nazôd</i><par n="jak__adv"/></e>
 
     <!-- Adjectives -->
     <e lm="kaszëbsczi"><i>kaszëbs</i><par n="kaszëbs/czi__adj"/></e>
@@ -4950,6 +4973,8 @@
     
     <e lm="młodi"><i>młod</i><par n="młod/i__adj"/></e>
     <e lm="dobri"><i>dobr</i><par n="młod/i__adj"/></e>
+    <e lm="dobri"><p><l>lepsz</l><r>dobr</r></p><par n="lepsz/i__adj"/></e>
+    <e lm="dobri"><p><l>nôlepsz</l><r>dobr</r></p><par n="nôlepsz/i__adj"/></e>
     <e lm="nowi"><i>now</i><par n="młod/i__adj"/></e>
     <e lm="tóni"><i>tón</i><par n="tón/i__adj"/></e>
     <e lm="piérwi"><i>piérw</i><par n="piérw/i__det"/></e>
