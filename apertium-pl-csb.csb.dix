@@ -4836,9 +4836,10 @@
     <e lm="chùtkò"><i>chùtko</i><par n="chùtkò__adv"/></e>
     <e lm="chùtkò"><p><l>chùtczi</l><r>chùtko</r></p><par n="chùtczi__adv"/></e>
     <e lm="chùtkò"><p><l>nôchùtczi</l><r>chùtko</r></p><par n="nôchùtczi__adv"/></e>
-    <e lm="wiedno"><i>wiedno</i><par n="jak__adv"/></e>
-    <e lm="wczora"><i>wczora</i><par n="jak__adv"/></e>
-    <e lm="nazôd"><i>nazôd</i><par n="jak__adv"/></e>
+    <e lm="wiedno"><i>wiedno</i><par n="téż__adv"/></e>
+    <e lm="wczora"><i>wczora</i><par n="téż__adv"/></e>
+    <e lm="nazôd"><i>nazôd</i><par n="téż__adv"/></e>
+    <e lm="richtich"><i>richtich</i><par n="téż__adv"/></e>
 
     <!-- Adjectives -->
     <e lm="kaszëbsczi"><i>kaszëbs</i><par n="kaszëbs/czi__adj"/></e>
