@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Kashubian -->
 <dictionary>
-  <alphabet>AaĄąÃãBbCcDdEeÉéËëFfGgHhIiJjKkLlŁłMmNnŃńOoÒòÓóÔôPpRrSsTtUuÙùWwYyZzŻżXxVvŹź</alphabet>
+  <alphabet>AaĄąÃãBbCcDdEeÉéËëFfGgHhIiJjKkLlŁłMmNnŃńOoÒòÓóÔôPpRrSsTtUuÙùWwYyZzŻżXxVvŹźĘęŔŕČčĎďĚěŠš</alphabet>
   <sdefs>
     <sdef n="n"/>
     <sdef n="adv"/>
