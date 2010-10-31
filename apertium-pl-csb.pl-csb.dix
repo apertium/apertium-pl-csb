@@ -113,6 +113,7 @@
     <e><p><l>wersja<s n="n"/><s n="f"/></l><r>wersëjô<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>perkusja<s n="n"/><s n="f"/></l><r>perkùsëjô<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lotnisko<s n="n"/><s n="nt"/></l><r>latawiskò<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>imię<s n="n"/><s n="nt"/></l><r>miono<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>lotnisko<s n="n"/><s n="nt"/></l><r>latawiszcze<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>serce<s n="n"/><s n="nt"/></l><r>serce<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kompania<s n="n"/><s n="f"/></l><r>kòmpanijô<s n="n"/><s n="f"/></r></p></e>
@@ -436,6 +437,7 @@
     <e><p><l>Wenecja<s n="np"/><s n="top"/><s n="f"/></l><r>Wenecëjô<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     
     <e><p><l>cudzy<s n="adj"/></l><r>cëzy<s n="adj"/></r></p></e>
+    <e><p><l>tylny<s n="adj"/></l><r>slédny<s n="adj"/></r></p></e>
     <e><p><l>atlantycki<s n="adj"/></l><r>atlantëcczi<s n="adj"/></r></p></e>
     <e><p><l>akademicki<s n="adj"/></l><r>akademicczi<s n="adj"/></r></p></e>
     <e><p><l>aktualny<s n="adj"/></l><r>aktualny<s n="adj"/></r></p></e>
