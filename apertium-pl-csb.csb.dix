@@ -20,6 +20,9 @@
     <sdef n="top"/>
     <sdef n="ant"/>
     <sdef n="vbser"/>
+    <sdef n="vbhaver"/>
+    <sdef n="imperf"/>
+    <sdef n="perf"/>
     <sdef n="inf"/>
     <sdef n="pres"/>
     <sdef n="p1"/>
@@ -2652,7 +2655,7 @@
       <e>
         <p>
           <l>bëc</l>
-          <r>bëc<s n="vbser"/><s n="inf"/></r>
+          <r>bëc<s n="vbser"/><s n="imperf"/><s n="inf"/></r>
         </p>
       </e>
 
@@ -2660,85 +2663,85 @@
       <e>
         <p>
           <l>jem</l>
-          <r>bëc<s n="vbser"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>bëc<s n="vbser"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>jes</l>
-          <r>bëc<s n="vbser"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
+          <r>bëc<s n="vbser"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>je</l>
-          <r>bëc<s n="vbser"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
+          <r>bëc<s n="vbser"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>jesmë</l>
-          <r>bëc<s n="vbser"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
+          <r>bëc<s n="vbser"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>jesma</l>
-          <r>bëc<s n="vbser"/><s n="pres"/><s n="p1"/><s n="du"/></r>
+          <r>bëc<s n="vbser"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="du"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>jesta</l>
-          <r>bëc<s n="vbser"/><s n="pres"/><s n="p2"/><s n="du"/></r>
+          <r>bëc<s n="vbser"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="du"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>jesce</l>
-          <r>bëc<s n="vbser"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
+          <r>bëc<s n="vbser"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>są</l>
-          <r>bëc<s n="vbser"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>bëc<s n="vbser"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>bëł</l>
-          <r>bëc<s n="vbser"/><s n="past"/><s n="m"/><s n="sg"/></r>
+          <r>bëc<s n="vbser"/><s n="imperf"/><s n="past"/><s n="m"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>béł</l>
-          <r>bëc<s n="vbser"/><s n="past"/><s n="mp"/><s n="sg"/></r>
+          <r>bëc<s n="vbser"/><s n="imperf"/><s n="past"/><s n="mp"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>bëła</l>
-          <r>bëc<s n="vbser"/><s n="past"/><s n="f"/><s n="sg"/></r>
+          <r>bëc<s n="vbser"/><s n="imperf"/><s n="past"/><s n="f"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>bëło</l>
-          <r>bëc<s n="vbser"/><s n="past"/><s n="nt"/><s n="sg"/></r>
+          <r>bëc<s n="vbser"/><s n="imperf"/><s n="past"/><s n="nt"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>bëlë</l>
-          <r>bëc<s n="vbser"/><s n="past"/><s n="ma"/><s n="pl"/></r>
+          <r>bëc<s n="vbser"/><s n="imperf"/><s n="past"/><s n="ma"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>bëła</l>
-          <r>bëc<s n="vbser"/><s n="past"/><s n="mf"/><s n="du"/></r>
+          <r>bëc<s n="vbser"/><s n="imperf"/><s n="past"/><s n="mf"/><s n="du"/></r>
         </p>
       </e>
     </pardef>
@@ -2746,7 +2749,7 @@
       <e>
         <p>
           <l>ac</l>
-          <r>ac<s n="vblex"/><s n="inf"/></r>
+          <r>ac<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
         </p>
       </e>
 
@@ -2754,49 +2757,49 @@
       <e>
         <p>
           <l>óm</l>
-          <r>ac<s n="vblex"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>ac<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ôsz</l>
-          <r>ac<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
+          <r>ac<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ô</l>
-          <r>ac<s n="vblex"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
+          <r>ac<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ómë</l>
-          <r>ac<s n="vblex"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
+          <r>ac<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>óma</l>
-          <r>ac<s n="vblex"/><s n="pres"/><s n="p1"/><s n="du"/></r>
+          <r>ac<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="du"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ôta</l>
-          <r>ac<s n="vblex"/><s n="pres"/><s n="p2"/><s n="du"/></r>
+          <r>ac<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="du"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ôce</l>
-          <r>ac<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
+          <r>ac<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ają</l>
-          <r>ac<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>ac<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
     </pardef>
@@ -2804,7 +2807,7 @@
       <e>
         <p>
           <l>ac</l>
-          <r>ac<s n="vblex"/><s n="inf"/></r>
+          <r>ac<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
         </p>
       </e>
 
@@ -2812,49 +2815,49 @@
       <e>
         <p>
           <l>óm</l>
-          <r>ac<s n="vblex"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>ac<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ôsz</l>
-          <r>ac<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
+          <r>ac<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ô</l>
-          <r>ac<s n="vblex"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
+          <r>ac<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ómë</l>
-          <r>ac<s n="vblex"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
+          <r>ac<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>óma</l>
-          <r>ac<s n="vblex"/><s n="pres"/><s n="p1"/><s n="du"/></r>
+          <r>ac<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="du"/></r>
         </p>
       </e>
       <e c="seems wrong">
         <p>
           <l>ta</l>
-          <r>ac<s n="vblex"/><s n="pres"/><s n="p2"/><s n="du"/></r>
+          <r>ac<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="du"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ece</l>
-          <r>ac<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
+          <r>ac<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ują</l>
-          <r>ac<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>ac<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
     </pardef>
@@ -2862,7 +2865,7 @@
       <e>
         <p>
           <l>c</l>
-          <r>c<s n="vblex"/><s n="inf"/></r>
+          <r>c<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
         </p>
       </e>
 
@@ -2870,54 +2873,112 @@
       <e>
         <p>
           <l>dã</l>
-          <r>c<s n="vblex"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>c<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>dzesz</l>
-          <r>c<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
+          <r>c<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>dze</l>
-          <r>c<s n="vblex"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
+          <r>c<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>dzemë</l>
-          <r>c<s n="vblex"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
+          <r>c<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>dzema</l>
-          <r>c<s n="vblex"/><s n="pres"/><s n="p1"/><s n="du"/></r>
+          <r>c<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="du"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>dzeta</l>
-          <r>c<s n="vblex"/><s n="pres"/><s n="p2"/><s n="du"/></r>
+          <r>c<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="du"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>dzece</l>
-          <r>c<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
+          <r>c<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>dą</l>
-          <r>c<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>c<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="ùcz/ëc__vblex">
+      <e>
+        <p>
+          <l>ëc</l>
+          <r>ëc<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+        </p>
+      </e>
+
+      <!-- Present -->
+      <e>
+        <p>
+          <l>ã</l>
+          <r>ëc<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>isz</l>
+          <r>ëc<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r>ëc<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>imë</l>
+          <r>ëc<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ima</l>
+          <r>ëc<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="du"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ita</l>
+          <r>ëc<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="du"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ice</l>
+          <r>ëc<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ą</l>
+          <r>ëc<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
     </pardef>
 
-    <pardef n="tón/i__SOFT_BASE">
+    <pardef n="BASE__tóni">
       <e>
         <p>
           <l>ich</l>
@@ -3815,7 +3876,7 @@
           <l></l>
           <r>i<s n="adj"/><s n="sint"/></r>
         </p>
-        <par n="tón/i__SOFT_BASE"/>
+        <par n="BASE__tóni"/>
       </e>
     </pardef>
     <pardef n="piérw/i__det">
@@ -4943,6 +5004,9 @@
     <!-- Verbs -->
     <e lm="bëc"><par n="/bëc__vbser"/></e> <!-- be -->
     <e lm="mieszkac"><i>mieszk</i><par n="mieszk/ac__vblex"/></e> <!-- live (inhabit) -->
+    <e lm="kòsztac"><i>kòszt</i><par n="kòszt/ac__vblex"/></e>
+    <e lm="przińc"><i>prziń</i><par n="prziń/c__vblex"/></e>
+    <e lm="ùczëc"><i>ùcz</i><par n="ùcz/ëc__vblex"/></e>
 
     <e lm="jak"><i>jak</i><par n="jak__adv"/></e>
     <e lm="gdze"><i>gdze</i><par n="jak__adv"/></e>
