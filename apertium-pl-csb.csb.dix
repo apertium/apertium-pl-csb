@@ -4642,6 +4642,32 @@
     <e lm="transkripcëjô"><i>transkripcëj</i><par n="wersëj/ô__n"/></e>
     <e lm="aplikacëjô"><i>aplikacëj</i><par n="wersëj/ô__n"/></e>
     <e lm="reformacëjô"><i>reformacëj</i><par n="wersëj/ô__n"/></e>
+    <e lm="akceptacëjô"><i>akceptacëj</i><par n="wersëj/ô__n"/></e>
+    <e lm="aktualizacëjô"><i>aktualizacëj</i><par n="wersëj/ô__n"/></e>
+    <e lm="audicëjô"><i>audicëj</i><par n="wersëj/ô__n"/></e>
+    <e lm="bùdacëjô"><i>bùdacëj</i><par n="wersëj/ô__n"/></e>
+    <e lm="definicëjô"><i>definicëj</i><par n="wersëj/ô__n"/></e>
+    <e lm="deinstalacëjô"><i>deinstalacëj</i><par n="wersëj/ô__n"/></e>
+    <e lm="demokracëjô"><i>demokracëj</i><par n="wersëj/ô__n"/></e>
+    <e lm="dezinfòrmacëjô"><i>dezinfòrmacëj</i><par n="wersëj/ô__n"/></e>
+    <e lm="distribùcëjô"><i>distribùcëj</i><par n="wersëj/ô__n"/></e>
+    <e lm="emigracëjô"><i>emigracëj</i><par n="wersëj/ô__n"/></e>
+    <e lm="federacëjô"><i>federacëj</i><par n="wersëj/ô__n"/></e>
+    <e lm="kònfederacëjô"><i>kònfederacëj</i><par n="wersëj/ô__n"/></e>
+    <e lm="fòrmacëjô"><i>fòrmacëj</i><par n="wersëj/ô__n"/></e>
+    <e lm="òrganizacëjô"><i>òrganizacëj</i><par n="wersëj/ô__n"/></e>
+    <e lm="pòlonizacëjô"><i>pòlonizacëj</i><par n="wersëj/ô__n"/></e>
+    <e lm="pòpùlacëjô"><i>pòpùlacëj</i><par n="wersëj/ô__n"/></e>
+    <e lm="pòzycëjô"><i>pòzycëj</i><par n="wersëj/ô__n"/></e>
+    <e lm="preferencëjô"><i>preferencëj</i><par n="wersëj/ô__n"/></e>
+    <e lm="prezentacëjô"><i>prezentacëj</i><par n="wersëj/ô__n"/></e>
+    <e lm="promocëjô"><i>promocëj</i><par n="wersëj/ô__n"/></e>
+    <e lm="registracëjô"><i>registracëj</i><par n="wersëj/ô__n"/></e>
+    <e lm="restrukturizëcëjô"><i>restrukturizëcëj</i><par n="wersëj/ô__n"/></e>
+    <e lm="rewòlucëjô"><i>rewòlucëj</i><par n="wersëj/ô__n"/></e>
+    <e lm="sztandarizacëjô"><i>sztandarizacëj</i><par n="wersëj/ô__n"/></e>
+    <e lm="werifikacëjô"><i>werifikacëj</i><par n="wersëj/ô__n"/></e>
+    <e lm="wikizacëjô"><i>wikizacëj</i><par n="wersëj/ô__n"/></e>
 
     <e lm="ząb"><i>z</i><par n="z/ąb__n"/></e>
     <e lm="zemia"><i>zemi</i><par n="zemi/a__n"/></e>
@@ -4684,6 +4710,7 @@
     <e lm="Tërcëjô"><i>Tërcëj</i><par n="Britanij/ô__np"/></e>
     <e lm="Szwëcëjô"><i>Szwëcëj</i><par n="Britanij/ô__np"/></e>
     <e lm="Słowacëjô"><i>Słowacëj</i><par n="Britanij/ô__np"/></e>
+    <e lm="Francëjô"><i>Francëj</i><par n="Britanij/ô__np"/></e>
   
     <e lm="Marijô"><i>Marij</i><par n="Marij/ô__np"/></e>
 
