@@ -282,6 +282,32 @@
         <r>nad<b/></r>
       </p>
     </e>
+    <e>
+      <p>
+        <l><a/>pod<b/></l>
+        <r>pode<b/></r>
+      </p>
+      <par n="przede"/>
+    </e>
+    <e>
+      <p>
+        <l><a/>pod<b/></l>
+        <r>pod<b/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l><a/>od<b/></l>
+        <r>ode<b/></r>
+      </p>
+      <par n="przede"/>
+    </e>
+    <e>
+      <p>
+        <l><a/>od<b/></l>
+        <r>od<b/></r>
+      </p>
+    </e>
   </section>
 
 </dictionary>
