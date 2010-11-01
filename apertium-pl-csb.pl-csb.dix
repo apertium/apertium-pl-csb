@@ -11,8 +11,13 @@
     <sdef n="cnjcoo"/>
     <sdef n="pr"/>
     <sdef n="n"/>
+    <sdef n="np"/>
+    <sdef n="top"/>
+    <sdef n="ant"/>
     <sdef n="mi"/>
     <sdef n="ma"/>
+    <sdef n="mp"/>
+    <sdef n="nt"/>
     <sdef n="f"/>
     <sdef n="adj"/>
     <sdef n="sint"/>
@@ -20,6 +25,11 @@
     <sdef n="vblex"/>
     <sdef n="imperf"/>
     <sdef n="perf"/>
+    <sdef n="num"/>
+    <sdef n="sg"/>
+    <sdef n="pl"/>
+    <sdef n="sp"/>
+    <sdef n="ord"/>
   </sdefs>
   <pardefs/>
 
@@ -127,6 +137,8 @@
     <e><p><l>napisać<s n="vblex"/></l><r>napisac<s n="vblex"/></r></p></e>
     <e><p><l>zostać<s n="vblex"/></l><r>òstac<s n="vblex"/></r></p></e>
     
+    <e><p><l>ziemia<s n="n"/><s n="f"/></l><r>zemia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ząb<s n="n"/><s n="mi"/></l><r>ząb<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>gmina<s n="n"/><s n="f"/></l><r>gmina<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>wieś<s n="n"/><s n="f"/></l><r>wies<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>województwo<s n="n"/><s n="nt"/></l><r>wòjewództwò<s n="n"/><s n="nt"/></r></p></e>
@@ -201,6 +213,7 @@
     <e r="RL"><p><l>lotnisko<s n="n"/><s n="nt"/></l><r>latawiszcze<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>serce<s n="n"/><s n="nt"/></l><r>serce<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kompania<s n="n"/><s n="f"/></l><r>kòmpanijô<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>astronomia<s n="n"/><s n="f"/></l><r>astronomijô<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>konferencja<s n="n"/><s n="f"/></l><r>kònferencëjô<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>atrakcja<s n="n"/><s n="f"/></l><r>atrakcëjô<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>autonomia<s n="n"/><s n="f"/></l><r>aùtonomijô<s n="n"/><s n="f"/></r></p></e>
