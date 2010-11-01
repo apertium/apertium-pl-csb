@@ -1,6 +1,8 @@
 * text=auto !eol
 /apertium-pl-csb.csb.dix -text
 /apertium-pl-csb.pl-csb.dix -text
+/apertium-pl-csb.post-csb.dix -text
+/apertium-pl-csb.post-pl.dix -text
 dev/csb.list -text
 dev/extract-lemma-and-surface.pl -text
 dev/incomplete-paradigms/pisanie -text

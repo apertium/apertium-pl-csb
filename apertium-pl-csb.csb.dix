@@ -7288,10 +7288,15 @@
     <!-- Prepositions -->
     <e lm="do"><i>do</i><par n="do__pr"/></e>
     <e lm="na"><i>na</i><par n="do__pr"/></e>
-    <e lm="òd"><i>òd</i><par n="do__pr"/></e>
+    <e lm="òd" r="LR"><i>òd</i><par n="do__pr"/></e>
+    <e lm="òd" r="LR"><p><l>òde</l><r>òd</r></p><par n="do__pr"/></e>
+    <e lm="òd" r="RL"><p><l><a/>òd</l><r>òd</r></p><par n="do__pr"/></e>
     <e lm="przed" r="LR"><i>przed</i><par n="do__pr"/></e>
     <e lm="przed" r="LR"><p><l>przede</l><r>przed</r></p><par n="do__pr"/></e>
     <e lm="przed" r="RL"><p><l><a/>przed</l><r>przed</r></p><par n="do__pr"/></e>
+    <e lm="pòd" r="LR"><i>pòd</i><par n="do__pr"/></e>
+    <e lm="pòd" r="LR"><p><l>pòde</l><r>pòd</r></p><par n="do__pr"/></e>
+    <e lm="pòd" r="RL"><p><l><a/>pòd</l><r>pòd</r></p><par n="do__pr"/></e>
     <e lm="w" r="LR"><i>w</i><par n="do__pr"/></e>
     <e lm="w" r="LR"><p><l>we</l><r>w</r></p><par n="do__pr"/></e>
     <e lm="w" r="RL"><p><l><a/>w</l><r>w</r></p><par n="do__pr"/></e>
@@ -7718,6 +7723,7 @@
     <e lm="aptéka"><i>apté</i><par n="apté/ka__n"/></e>
     <e lm="mùzyka" c="guess"><i>mùzy</i><par n="apté/ka__n"/></e>
     <e lm="bòtanika" c="guess"><i>bòtani</i><par n="apté/ka__n"/></e>
+    <e lm="keramika" c="guess"><i>kerami</i><par n="apté/ka__n"/></e>
     <e lm="wies"><i>w</i><par n="w/ies__n"/></e>
     <e lm="ògón"><i>ògón</i><par n="ògón__n"/></e>
     <e lm="ceniô"><i>ceni</i><par n="ceni/ô__n"/></e>
