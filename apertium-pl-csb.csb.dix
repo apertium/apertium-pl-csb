@@ -5821,6 +5821,25 @@
         <par n="młod/i__HARD_BASE"/>
       </e>
     </pardef>
+    <pardef n="zdrojow/i__adj">
+      <e>
+        <p>
+          <l></l>
+          <r>i<s n="adj"/></r>
+        </p>
+        <par n="młod/i__HARD_BASE"/>
+      </e>
+    </pardef>
+    <pardef n="now/i__adj">
+      <e>
+        <p>
+          <l></l>
+          <r>i<s n="adj"/><s n="sint"/></r>
+        </p>
+        <par n="młod/i__HARD_BASE"/>
+      </e>
+    </pardef>
+
     <pardef n="jasn/y__adj">
       <e>
         <p>
@@ -5940,6 +5959,98 @@
         <p>
           <l>ãbë</l>
           <r>ąb<s n="n"/><s n="mi"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="Kòrej/a__np">
+      <e>
+        <p>
+          <l>a</l>
+          <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>e</l>
+          <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ã</l>
+          <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ą</l>
+          <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>o</l>
+          <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r>a<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ów</l>
+          <r>a<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>óm</l>
+          <r>a<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r>a<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ama</l>
+          <r>a<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ach</l>
+          <r>a<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r>a<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="voc"/></r>
         </p>
       </e>
     </pardef>
@@ -7092,6 +7203,9 @@
     <e lm="Anielskô"><i>Aniels</i><par n="Pòls/kô__np"/></e>
     <e lm="Szwedzkô"><i>Szwedz</i><par n="Pòls/kô__np"/></e>
 
+    <e lm="Kòreja"><i>Kòrej</i><par n="Kòrej/a__np"/></e>
+    <e lm="Kòreja" r="LR"><p><l>Korej</l><r>Kòrej</r></p><par n="Kòrej/a__np"/></e>
+
     <e lm="Britanijô"><i>Britanij</i><par n="Britanij/ô__np"/></e>
     <e lm="Pòmòranijô"><i>Pòmòranij</i><par n="Britanij/ô__np"/></e>
     <e lm="Skandinawijô"><i>Skandinawij</i><par n="Britanij/ô__np"/></e>
@@ -7284,6 +7398,8 @@
     <e lm="nowi"><i>now</i><par n="młod/i__adj"/></e>
     <e lm="tóni"><i>tón</i><par n="tón/i__adj"/></e>
     <e lm="piérwi"><i>piérw</i><par n="piérw/i__det"/></e>
+    <e lm="zdrojowi"><i>zdrojow</i><par n="zdrojow/i__adj"/></e>
+    <e lm="wielejãzëkòwi"><i>wielejãzëkòw</i><par n="zdrojow/i__adj"/></e>
     <e lm="jasny"><i>jasn</i><par n="jasn/y__adj"/></e>
     <e lm="cëzy"><i>cëz</i><par n="aborcëjn/y__adj"/></e>
     <e lm="pòpùlarny"><i>pòpùlarn</i><par n="jasn/y__adj"/></e>
