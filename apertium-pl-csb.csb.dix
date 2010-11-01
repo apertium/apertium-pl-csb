@@ -5874,6 +5874,92 @@
         </p>
       </e>
     </pardef>
+    <pardef n="w/ies__n">
+      <e>
+        <p>
+          <l>ies</l>
+          <r>ies<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>së</l>
+          <r>ies<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>së</l>
+          <r>ies<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>sã</l>
+          <r>ies<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>są</l>
+          <r>ies<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>së</l>
+          <r>ies<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>sò</l>
+          <r>ies<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>së</l>
+          <r>ies<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>sów</l>
+          <r>ies<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>sóm</l>
+          <r>ies<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>së</l>
+          <r>ies<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>sama</l>
+          <r>ies<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>sach</l>
+          <r>ies<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>së</l>
+          <r>ies<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="ògón__n">
       <e>
         <p>
@@ -6725,6 +6811,7 @@
     <e lm="aptéka"><i>apté</i><par n="apté/ka__n"/></e>
     <e lm="mùzyka" c="guess"><i>mùzy</i><par n="apté/ka__n"/></e>
     <e lm="bòtanika" c="guess"><i>bòtani</i><par n="apté/ka__n"/></e>
+    <e lm="wies"><i>w</i><par n="w/ies__n"/></e>
     <e lm="ògón"><i>ògón</i><par n="ògón__n"/></e>
     <e lm="ceniô"><i>ceni</i><par n="ceni/ô__n"/></e>
     <e lm="wilk"><i>wil</i><par n="wil/k__n"/></e>
