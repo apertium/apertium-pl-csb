@@ -1827,127 +1827,267 @@
         </p>
       </e>
     </pardef>
-
-    <pardef n="atlantëc/czi__adj">
+    <pardef n="BASE__atlantëcczi">
       <e>
         <p>
           <l>czi</l>
-          <r>czi<s n="adj"/><s n="ma"/><s n="sg"/><s n="nom"/></r>
+          <r><s n="ma"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>czi</l>
-          <r>czi<s n="adj"/><s n="mi"/><s n="sg"/><s n="nom"/></r>
+          <r><s n="mi"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>kô</l>
-          <r>czi<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+          <r><s n="f"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>czé</l>
-          <r>czi<s n="adj"/><s n="nt"/><s n="sg"/><s n="nom"/></r>
+          <r><s n="nt"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>czé</l>
-          <r>czi<s n="adj"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+          <r><s n="f"/><s n="pl"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>czégò</l>
-          <r>czi<s n="adj"/><s n="ma"/><s n="sg"/><s n="gen"/></r>
+          <r><s n="ma"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>czégò</l>
-          <r>czi<s n="adj"/><s n="mi"/><s n="sg"/><s n="gen"/></r>
+          <r><s n="mi"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>czi</l>
-          <r>czi<s n="adj"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+          <r><s n="f"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>czégò</l>
-          <r>czi<s n="adj"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
+          <r><s n="nt"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>czich</l>
-          <r>czi<s n="adj"/><s n="m"/><s n="pl"/><s n="gen"/></r>
+          <r><s n="m"/><s n="pl"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>czich</l>
-          <r>czi<s n="adj"/><s n="nm"/><s n="pl"/><s n="gen"/></r>
+          <r><s n="nm"/><s n="pl"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>czi</l>
-          <r>czi<s n="adj"/><s n="ma"/><s n="sg"/><s n="acc"/></r>
+          <r><s n="ma"/><s n="sg"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>czégò</l>
-          <r>czi<s n="adj"/><s n="ma"/><s n="sg"/><s n="acc"/></r>
+          <r><s n="ma"/><s n="sg"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ką</l>
-          <r>czi<s n="adj"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+          <r><s n="f"/><s n="sg"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>czé</l>
-          <r>czi<s n="adj"/><s n="nt"/><s n="sg"/><s n="acc"/></r>
+          <r><s n="nt"/><s n="sg"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ką</l>
-          <r>czi<s n="adj"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+          <r><s n="f"/><s n="sg"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>czim</l>
-          <r>czi<s n="adj"/><s n="ma"/><s n="sg"/><s n="loc"/></r>
+          <r><s n="ma"/><s n="sg"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>czim</l>
-          <r>czi<s n="adj"/><s n="mi"/><s n="sg"/><s n="loc"/></r>
+          <r><s n="mi"/><s n="sg"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>czi</l>
-          <r>czi<s n="adj"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+          <r><s n="f"/><s n="sg"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>czim</l>
-          <r>czi<s n="adj"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
+          <r><s n="nt"/><s n="sg"/><s n="loc"/></r>
         </p>
+      </e>
+    </pardef>
+
+    <pardef n="ja/czi__adj">
+      <e>
+        <p>
+          <l/>
+          <r>czi<s n="prn"/><s n="itg"/></r>
+        </p>
+        <par n="BASE__atlantëcczi"/>
+      </e>
+    </pardef>
+    <pardef n="ja/czis__prn">
+      <e>
+        <p>
+          <l>czis</l>
+          <r>czis<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>czis</l>
+          <r>czis<s n="prn"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kôs</l>
+          <r>czis<s n="prn"/><s n="ind"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>czés</l>
+          <r>czis<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>czés</l>
+          <r>czis<s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>czégòs</l>
+          <r>czis<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>czégòs</l>
+          <r>czis<s n="prn"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>czis</l>
+          <r>czis<s n="prn"/><s n="ind"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>czégòs</l>
+          <r>czis<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>czichs</l>
+          <r>czis<s n="prn"/><s n="ind"/><s n="m"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>czichs</l>
+          <r>czis<s n="prn"/><s n="ind"/><s n="nm"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>czis</l>
+          <r>czis<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>czégòs</l>
+          <r>czis<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kąs</l>
+          <r>czis<s n="prn"/><s n="ind"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>czés</l>
+          <r>czis<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kąs</l>
+          <r>czis<s n="prn"/><s n="ind"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>czims</l>
+          <r>czis<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>czims</l>
+          <r>czis<s n="prn"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>czis</l>
+          <r>czis<s n="prn"/><s n="ind"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>czims</l>
+          <r>czis<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="atlantëc/czi__adj">
+      <e>
+        <p>
+          <l/>
+          <r>czi<s n="adj"/></r>
+        </p>
+        <par n="BASE__atlantëcczi"/>
       </e>
       <e>
         <p>
