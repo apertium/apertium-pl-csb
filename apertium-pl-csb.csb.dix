@@ -7306,7 +7306,9 @@
     <e lm="przez"><i>przez</i><par n="do__pr"/></e>
     <e lm="kù"><i>kù</i><par n="do__pr"/></e>
     <e lm="m."><i>m.</i><par n="do__pr"/></e>
-    
+    <e lm="wedle"><i>wedle</i><par n="do__pr"/></e>
+    <e lm="midze"><i>midze</i><par n="do__pr"/></e>
+
     <e lm="tidzéń"><i>tidzé</i><par n="tidzé/ń__n"/></e> <!-- week -->
     <e lm="inżinér"><i>inżinér</i><par n="inżinér__n"/></e>
     <e lm="jãzëk"><i>jãzë</i><par n="jãzë/k__n"/></e>
@@ -7780,11 +7782,16 @@
     <e lm="czë"><i>czë</i><par n="jak__adv"/></e>
     <e lm="czej"><i>czej</i><par n="jak__adv"/></e>
     <e lm="téż"><i>téż</i><par n="téż__adv"/></e>
+    <e lm="ju"><i>ju</i><par n="téż__adv"/></e>
     <e lm="dzysô"><i>dzysô</i><par n="téż__adv"/></e>
     <e lm="dzys"><i>dzys</i><par n="téż__adv"/></e>
     <e lm="przede wszëtczim"><i>przede<b/>wszëtczim</i><par n="téż__adv"/></e>
     <e lm="nie"><i>nie</i><par n="téż__adv"/></e>
     <e lm="p.n.e"><i>p.n.e</i><par n="téż__adv"/></e>
+    <e lm="p.n.s"><i>p.n.s</i><par n="téż__adv"/></e>
+    <e lm="n.s"><i>n.s</i><par n="téż__adv"/></e>
+    <e lm="n.e"><i>n.e</i><par n="téż__adv"/></e>
+    <e lm="nazôd"><i>nazôd</i><par n="téż__adv"/></e>
     <e lm="jako"><i>jako</i><par n="téż__adv"/></e>
     <e lm="dosc"><i>dosc</i><par n="téż__adv"/></e>
     <e lm="nigdë"><i>nigdë</i><par n="téż__adv"/></e>
@@ -7951,6 +7958,10 @@
     <e lm="piérwi"><i>piérw</i><par n="piérw/i__det"/></e>
     <e lm="zdrojowi"><i>zdrojow</i><par n="zdrojow/i__adj"/></e>
     <e lm="wielejãzëkòwi"><i>wielejãzëkòw</i><par n="zdrojow/i__adj"/></e>
+    <e lm="archeòlogòwi"><i>archeòlogòw</i><par n="zdrojow/i__adj"/></e>
+    <e lm="paleontologòwi"><i>paleontologòw</i><par n="zdrojow/i__adj"/></e>
+    <e lm="dzysdniowi"><i>dzysdniow</i><par n="zdrojow/i__adj"/></e>
+    <e lm="starkòwi"><i>starkòw</i><par n="zdrojow/i__adj"/></e>
     <e lm="jasny"><i>jasn</i><par n="jasn/y__adj"/></e>
     <e lm="cëzy"><i>cëz</i><par n="aborcëjn/y__adj"/></e>
     <e lm="pòpùlarny"><i>pòpùlarn</i><par n="jasn/y__adj"/></e>
