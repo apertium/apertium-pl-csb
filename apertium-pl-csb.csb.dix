@@ -3358,6 +3358,98 @@
         </p>
       </e>
     </pardef>
+    <pardef n="gmin/a__n" c="FIXME">
+      <e>
+        <p>
+          <l>a</l>
+          <r>a<s n="n"/><s n="mi"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ë</l>
+          <r>a<s n="n"/><s n="mi"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ie</l>
+          <r>a<s n="n"/><s n="mi"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ã</l>
+          <r>a<s n="n"/><s n="mi"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ã</l>
+          <r>a<s n="n"/><s n="mi"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ie</l>
+          <r>a<s n="n"/><s n="mi"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>o</l>
+          <r>a<s n="n"/><s n="mi"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ë</l>
+          <r>a<s n="n"/><s n="mi"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ów</l>
+          <r>a<s n="n"/><s n="mi"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l></l>
+          <r>a<s n="n"/><s n="mi"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>óm</l>
+          <r>a<s n="n"/><s n="mi"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ë</l>
+          <r>a<s n="n"/><s n="mi"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ama</l>
+          <r>a<s n="n"/><s n="mi"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ach</l>
+          <r>a<s n="n"/><s n="mi"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ë</l>
+          <r>a<s n="n"/><s n="mi"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="sobò/ta__n">
       <e>
         <p>
@@ -5373,6 +5465,8 @@
     <e lm="gòdnik"><i>gòdni</i><par n="stëczni/k__n"/></e> <!-- December -->
 
     <e lm="robòta"><i>robò</i><par n="sobò/ta__n"/></e>
+    <e lm="gmina"><i>gmin</i><par n="gmin/a__n"/></e>
+
     <!-- days -->
     <e lm="pòniedzôłk"><i>pòniedz</i><par n="pòniedz/ôłk__n"/></e> <!-- Monday -->
     <e lm="wtórk"><i>wtór</i><par n="piąt/k__n"/></e> <!-- Tuesday -->
