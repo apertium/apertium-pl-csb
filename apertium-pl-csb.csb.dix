@@ -14,6 +14,7 @@
     <sdef n="rpar"/>
     <sdef n="emph"/>
     <sdef n="ppr"/>
+    <sdef n="dem"/>
     
     <sdef n="mp"/>
     <sdef n="ma"/>
@@ -1950,7 +1951,16 @@
       </e>
     </pardef>
 
-    <pardef n="ja/czi__adj">
+    <pardef n="ta/czi__det">
+      <e>
+        <p>
+          <l/>
+          <r>czi<s n="det"/><s n="dem"/></r>
+        </p>
+        <par n="BASE__atlantëcczi"/>
+      </e>
+    </pardef>
+    <pardef n="ja/czi__prn">
       <e>
         <p>
           <l/>
@@ -6182,6 +6192,9 @@
     <e lm="co"><i></i><par n="co__det"/></e>
     <e lm="chtos"><i></i><par n="chtos__prn"/></e>
     <e lm="cos"><i></i><par n="cos__det"/></e>
+    <e lm="jaczi"><i>ja</i><par n="ja/czi__prn"/></e>
+    <e lm="jaczis"><i>ja</i><par n="ja/czis__prn"/></e>
+    <e lm="taczi"><i>ta</i><par n="ta/czi__det"/></e>
     <e lm="prpers"><i></i><par n="prpers__prn"/></e>
 
     <e lm="I"><i>I</i><par n="I__num"/></e>
