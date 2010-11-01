@@ -4750,6 +4750,64 @@
         <par n="BASE__jasny"/>
       </e>
     </pardef>
+    <pardef n="òst/ac__vblex">
+      <e>
+        <p>
+          <l>ac</l>
+          <r>ac<s n="vblex"/><s n="perf"/><s n="inf"/></r>
+        </p>
+      </e>
+
+      <!-- future -->
+      <e>
+        <p>
+          <l>ónã</l>
+          <r>ac<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>óniesz</l>
+          <r>ac<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ónie</l>
+          <r>ac<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>óniemë</l>
+          <r>ac<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>óniema</l>
+          <r>ac<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p1"/><s n="du"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ónieta</l>
+          <r>ac<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p2"/><s n="du"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>óniece</l>
+          <r>ac<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>óną</l>
+          <r>ac<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+    </pardef>
 
     <pardef n="młod/i__adj">
       <e>
@@ -5996,6 +6054,7 @@
     <e lm="pòjic"><i>pò</i><par n="pò/jic__vblex"/></e>
     <e lm="pisac"><i>pis</i><par n="pis/ac__vblex"/></e>
     <e lm="napisac"><i>napis</i><par n="napis/ac__vblex"/></e>
+    <e lm="òstac"><i>òst</i><par n="òst/ac__vblex"/></e>
 
     <e lm="jak"><i>jak</i><par n="jak__adv"/></e>
     <e lm="gdze"><i>gdze</i><par n="jak__adv"/></e>
