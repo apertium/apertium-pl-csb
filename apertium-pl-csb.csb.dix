@@ -15,6 +15,7 @@
     <sdef n="emph"/>
     <sdef n="ppr"/>
     <sdef n="dem"/>
+    <sdef n="ref"/>
     
     <sdef n="mp"/>
     <sdef n="ma"/>
@@ -1967,6 +1968,62 @@
           <r>czi<s n="prn"/><s n="itg"/></r>
         </p>
         <par n="BASE__atlantëcczi"/>
+      </e>
+    </pardef>
+    <pardef n="sã__prn">
+      <e>
+        <p>
+          <l>sebie</l>
+          <r>sã<s n="prn"/><s n="ref"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>se</l>
+          <r>sa<s n="prn"/><s n="ref"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>sobie</l>
+          <r>sã<s n="prn"/><s n="ref"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e r="RL">
+        <p>
+          <l>sobie</l>
+          <r>sã<s n="prn"/><s n="ref"/><s n="emph"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>sã</l>
+          <r>sã<s n="prn"/><s n="ref"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>so</l>
+          <r>sã<s n="prn"/><s n="ref"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>sebie</l>
+          <r>sã<s n="prn"/><s n="ref"/><s n="emph"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>sobie</l>
+          <r>sã<s n="prn"/><s n="ref"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>sobą</l>
+          <r>sã<s n="prn"/><s n="ref"/><s n="ins"/></r>
+        </p>
       </e>
     </pardef>
     <pardef n="ja/czis__prn">
@@ -6196,6 +6253,7 @@
     <e lm="jaczis"><i>ja</i><par n="ja/czis__prn"/></e>
     <e lm="taczi"><i>ta</i><par n="ta/czi__det"/></e>
     <e lm="prpers"><i></i><par n="prpers__prn"/></e>
+    <e lm="sã"><i></i><par n="sã__prn"/></e>
 
     <e lm="I"><i>I</i><par n="I__num"/></e>
     <e lm="II"><i>II</i><par n="X__num"/></e>
