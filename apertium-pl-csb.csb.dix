@@ -6725,6 +6725,7 @@
     <e lm="lokatiw"><i>lokatiw</i><par n="nominatiw__n"/></e> <!-- locative -->
     <e lm="wòkatiw"><i>wòkatiw</i><par n="nominatiw__n"/></e> <!-- vocative -->
     <!-- normal nouns -->
+    <e lm="gard"><i>gard</i><par n="gard__n"/></e>
     <e lm="stolaté"><i>stolat</i><par n="stolat/é__n"/></e>
     <e lm="kréz"><i>kréz</i><par n="kréz__n"/></e>
     <e lm="bùdink"><i>bùdin</i><par n="piąt/k__n"/></e> <!-- building -->
@@ -7274,7 +7275,8 @@
     <e lm="dólnołużëcczi"><i>dólnołużëc</i><par n="kaszëbs/czi__adj"/></e>
     <e lm="atlantëcczi"><i>atlantëc</i><par n="atlantëc/czi__adj"/></e>
     <e lm="akademicczi"><i>akademic</i><par n="atlantëc/czi__adj"/></e>
-    
+    <e lm="gardzczi"><i>gardz</i><par n="atlantëc/czi__adj"/></e>
+
     <e lm="młodi"><i>młod</i><par n="młod/i__adj"/></e>
     <e lm="dobri"><i>dobr</i><par n="młod/i__adj"/></e>
     <e lm="dobri"><p><l>lepsz</l><r>dobr</r></p><par n="lepsz/i__adj"/></e>

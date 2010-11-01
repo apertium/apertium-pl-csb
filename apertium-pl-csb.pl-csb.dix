@@ -130,6 +130,7 @@
     <e><p><l>powiat<s n="n"/><s n="mi"/></l><r>kréz<s n="n"/><s n="mi"/></r></p></e>
     <e r="RL"><p><l>powiat<s n="n"/><s n="mi"/></l><r>pòwiat<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>stulecie<s n="n"/><s n="nt"/></l><r>stolaté<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>miasto<s n="n"/><s n="nt"/></l><r>gard<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>tydzień<s n="n"/><s n="mi"/></l><r>tidzéń<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>styczeń<s n="n"/><s n="mi"/></l><r>stëcznik<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>luty<s n="n"/><s n="mi"/></l><r>gromicznik<s n="n"/><s n="mi"/></r></p></e> 
@@ -507,6 +508,7 @@
     <e><p><l>Wenecja<s n="np"/><s n="top"/><s n="f"/></l><r>Wenecëjô<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     
     <e><p><l>cudzy<s n="adj"/></l><r>cëzy<s n="adj"/></r></p></e>
+    <e><p><l>miejski<s n="adj"/></l><r>gardzczi<s n="adj"/></r></p></e>
     <e><p><l>tylny<s n="adj"/></l><r>slédny<s n="adj"/></r></p></e>
     <e><p><l>atlantycki<s n="adj"/></l><r>atlantëcczi<s n="adj"/></r></p></e>
     <e><p><l>akademicki<s n="adj"/></l><r>akademicczi<s n="adj"/></r></p></e>
