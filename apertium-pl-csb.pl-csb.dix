@@ -173,6 +173,7 @@
     <e><p><l>pod<s n="pr"/></l><r>pòd<s n="pr"/></r></p></e>
     <e><p><l>koło<s n="pr"/></l><r>kòl<s n="pr"/></r></p></e>
     <e><p><l>jako<s n="pr"/></l><r>jakò<s n="pr"/></r></p></e>
+    <e r="RL"><p><l>jako<s n="pr"/></l><r>jakno<s n="pr"/></r></p></e>
     <e><p><l>oprócz<s n="pr"/></l><r>òkróm<s n="pr"/></r></p></e>
     
     <e><p><l>być<s n="vbser"/></l><r>bëc<s n="vbser"/></r></p></e>
@@ -196,6 +197,7 @@
     <e><p><l>oko<s n="n"/><s n="nt"/></l><r>òkò<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>ucho<s n="n"/><s n="nt"/></l><r>ùchò<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kobieta<s n="n"/><s n="f"/></l><r>białka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>państwo<s n="n"/><s n="nt"/></l><r>państwò<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>województwo<s n="n"/><s n="nt"/></l><r>wòjewództwò<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>towarzystwo<s n="n"/><s n="nt"/></l><r>towarzëstwò<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>autorstwo<s n="n"/><s n="nt"/></l><r>autorstwò<s n="n"/><s n="nt"/></r></p></e>
@@ -279,6 +281,7 @@
     <e><p><l>perkusja<s n="n"/><s n="f"/></l><r>perkùsëjô<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lotnisko<s n="n"/><s n="nt"/></l><r>latawiskò<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>imię<s n="n"/><s n="nt"/></l><r>miono<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>zespół<s n="n"/><s n="mi"/></l><r>karno<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>lotnisko<s n="n"/><s n="nt"/></l><r>latawiszcze<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>serce<s n="n"/><s n="nt"/></l><r>serce<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kompania<s n="n"/><s n="f"/></l><r>kòmpanijô<s n="n"/><s n="f"/></r></p></e>
@@ -624,6 +627,8 @@
     <e><p><l>cudzy<s n="adj"/></l><r>cëzy<s n="adj"/></r></p></e>
     <e><p><l>późny<s n="adj"/></l><r>pózni<s n="adj"/></r></p></e>
     <e><p><l>azjatycki<s n="adj"/></l><r>azjatëcczi<s n="adj"/></r></p></e>
+    <e><p><l>amatorski<s n="adj"/></l><r>amatorsczi<s n="adj"/></r></p></e>
+    <e><p><l>amerykański<s n="adj"/></l><r>amerikańsczi<s n="adj"/></r></p></e>
     <e><p><l>wielki<s n="adj"/></l><r>wiôldżi<s n="adj"/></r></p></e>
     <e><p><l>miejski<s n="adj"/></l><r>gardzczi<s n="adj"/></r></p></e>
     <e><p><l>wielojęzykowy<s n="adj"/></l><r>wielejãzëkòwi<s n="adj"/></r></p></e>
