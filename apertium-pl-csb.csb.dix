@@ -10,6 +10,7 @@
     <sdef n="sp"/>
     <sdef n="qnt"/>
     <sdef n="percent"/>
+    <sdef n="year"/>
     <sdef n="lpar"/>
     <sdef n="rpar"/>
     <sdef n="emph"/>
@@ -3448,6 +3449,98 @@
         <p>
           <l>ła</l>
           <r>ło<s n="n"/><s n="nt"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="mion/o__n">
+      <e>
+        <p>
+          <l>o</l>
+          <r>o<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r>o<s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>owi</l>
+          <r>o<s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>o</l>
+          <r>o<s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ã</l>
+          <r>o<s n="n"/><s n="nt"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>em</l>
+          <r>o<s n="n"/><s n="nt"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ie</l>
+          <r>o<s n="n"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>o</l>
+          <r>o<s n="n"/><s n="nt"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r>o<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ów</l>
+          <r>o<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>óm</l>
+          <r>o<s n="n"/><s n="nt"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r>o<s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ama</l>
+          <r>o<s n="n"/><s n="nt"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ach</l>
+          <r>o<s n="n"/><s n="nt"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r>o<s n="n"/><s n="nt"/><s n="pl"/><s n="voc"/></r>
         </p>
       </e>
     </pardef>
@@ -7241,6 +7334,12 @@
           <r>to<s n="det"/><s n="dem"/><s n="mp"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
+      <e r="LR">
+        <p>
+          <l>tegô</l>
+          <r>to<s n="det"/><s n="dem"/><s n="mp"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
       <e>
         <p>
           <l>tégô</l>
@@ -7250,6 +7349,12 @@
       <e r="LR">
         <p>
           <l>te</l>
+          <r>to<s n="det"/><s n="dem"/><s n="ma"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>tegô</l>
           <r>to<s n="det"/><s n="dem"/><s n="ma"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
@@ -7262,6 +7367,12 @@
       <e r="LR">
         <p>
           <l>te</l>
+          <r>to<s n="det"/><s n="dem"/><s n="mi"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>tegô</l>
           <r>to<s n="det"/><s n="dem"/><s n="mi"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
@@ -7379,6 +7490,12 @@
           <r>to<s n="det"/><s n="dem"/><s n="mp"/><s n="sg"/><s n="acc"/></r>
         </p>
       </e>
+      <e r="LR">
+        <p>
+          <l>tegô</l>
+          <r>to<s n="det"/><s n="dem"/><s n="mp"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
       <e>
         <p>
           <l>tégô</l>
@@ -7388,6 +7505,12 @@
       <e r="LR">
         <p>
           <l>te</l>
+          <r>to<s n="det"/><s n="dem"/><s n="ma"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>tegô</l>
           <r>to<s n="det"/><s n="dem"/><s n="ma"/><s n="sg"/><s n="acc"/></r>
         </p>
       </e>
@@ -8723,6 +8846,7 @@
     <e lm="òkò"><i>ò</i><par n="ò/kò__n"/></e>
     <e lm="stolaté"><i>stolat</i><par n="stolat/é__n"/></e>
     <e lm="kréz"><i>kréz</i><par n="kréz__n"/></e>
+    <e lm="rok"><i>ro</i><par n="piąt/k__n"/></e>
     <e lm="bùdink"><i>bùdin</i><par n="piąt/k__n"/></e> <!-- building -->
     <e lm="kóń"><i>k</i><par n="k/óń__n"/></e> <!-- horse -->
     <e lm="latawiskò"><i>latawisk</i><par n="latawisk/ò__n"/></e> <!-- airport -->
@@ -9092,7 +9216,8 @@
     <e lm="pùjk"><i>pùj</i><par n="pùj/k__n"/></e>
     <e lm="kòt"><i>kò</i><par n="kò/t__n"/></e>
     <e lm="abecadło"><i>abecad</i><par n="abecad/ło__n"/></e>
-    
+    <e lm="miono"><i>mion</i><par n="mion/o__n"/></e>
+
     <e lm="Pòlskô"><i>Pòls</i><par n="Pòls/kô__np"/></e>
     <e lm="Ruskô"><i>Rus</i><par n="Pòls/kô__np"/></e>
     <e lm="Szpańskô"><i>Szpańs</i><par n="Pòls/kô__np"/></e>
@@ -9394,6 +9519,7 @@
     <e lm="Eùropejskô Ùnijô"><p><l>Eùropejskô<b/>Ùnijô</l><r>Eùropejskô<b/>Ùnijô<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
 
     <e lm="alt-?"><i>alt-</i><re>[A-Za-z]</re><p><l/><r><s n="adv"/></r></p></e>
+    <e lm="[num] r"><re>[0-9]+</re><p><l><b/>r</l><r><b/>r<s n="num"/><s n="year"/></r></p></e>
   </section>
   <section id="punct" type="inconditional">
     <e><par n="numeros"/></e>
