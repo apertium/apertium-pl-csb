@@ -7201,31 +7201,31 @@
       </e>
       <e>
         <p>
-          <l>ci</l>
+          <l>té</l>
           <r>to<s n="det"/><s n="dem"/><s n="mp"/><s n="pl"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>te</l>
+          <l>té</l>
           <r>to<s n="det"/><s n="dem"/><s n="ma"/><s n="pl"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>te</l>
+          <l>té</l>
           <r>to<s n="det"/><s n="dem"/><s n="mi"/><s n="pl"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>te</l>
+          <l>té</l>
           <r>to<s n="det"/><s n="dem"/><s n="f"/><s n="pl"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>te</l>
+          <l>té</l>
           <r>to<s n="det"/><s n="dem"/><s n="nt"/><s n="pl"/><s n="nom"/></r>
         </p>
       </e>
@@ -7423,25 +7423,25 @@
       </e>
       <e>
         <p>
-          <l>te</l>
+          <l>té</l>
           <r>to<s n="det"/><s n="dem"/><s n="ma"/><s n="pl"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>te</l>
+          <l>té</l>
           <r>to<s n="det"/><s n="dem"/><s n="mi"/><s n="pl"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>te</l>
+          <l>té</l>
           <r>to<s n="det"/><s n="dem"/><s n="f"/><s n="pl"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>te</l>
+          <l>té</l>
           <r>to<s n="det"/><s n="dem"/><s n="nt"/><s n="pl"/><s n="acc"/></r>
         </p>
       </e>
@@ -8566,6 +8566,7 @@
     <e lm="wiele"><i>wiel</i><par n="wiel/e__prn"/></e>
     <e lm="kòżdi"><i>kòżd</i><par n="kòżd/i__det"/></e>
     <e lm="kòżdi"><i>kòżd</i><par n="kòżd/i__prn"/></e>
+    <e lm="to"><i></i><par n="/to__det"/></e>
 
     <e lm="I"><i>I</i><par n="I__num"/></e>
     <e lm="II"><i>II</i><par n="X__num"/></e>
@@ -9167,6 +9168,7 @@
     <e lm="m.jin." c="never sentence final, eat the full stop"><i>m.jin.</i><par n="téż__adv"/></e>
     <e lm="np." c="never sentence final, eat the full stop"><i>np.</i><par n="téż__adv"/></e>
     <e lm="tj." c="never sentence final, eat the full stop"><i>tj.</i><par n="téż__adv"/></e>
+    <e lm="tzw"><i>tzw</i><par n="téż__adv"/></e>
     <e lm="nazôd"><i>nazôd</i><par n="téż__adv"/></e>
     <e lm="jako"><i>jako</i><par n="téż__adv"/></e>
     <e lm="dosc"><i>dosc</i><par n="téż__adv"/></e>
