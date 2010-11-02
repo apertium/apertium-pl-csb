@@ -126,6 +126,7 @@
     <e r="RL"><p><l>p.n.e<s n="adv"/></l><r>p.n.e<s n="adv"/></r></p></e>
     <e><p><l>n.e<s n="adv"/></l><r>n.s<s n="adv"/></r></p></e>
     <e><p><l>m.in.<s n="adv"/></l><r>m.<b/>jin.<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>m.in.<s n="adv"/></l><r>m.jin.<s n="adv"/></r></p></e>
     <e><p><l>np.<s n="adv"/></l><r>np.<s n="adv"/></r></p></e>
     <e r="RL"><p><l>n.e<s n="adv"/></l><r>n.e<s n="adv"/></r></p></e>
     <e r="RL"><p><l>temu<s n="adv"/></l><r>nazôd<s n="adv"/></r></p></e>
@@ -136,9 +137,10 @@
     <e><p><l>licho<s n="adv"/></l><r>lëchò<s n="adv"/></r></p></e>
     <e><p><l>trochę<s n="adv"/></l><r>përznã<s n="adv"/></r></p></e>
     <e><p><l>nawet<s n="adv"/></l><r>nawetka<s n="adv"/></r></p></e>
-    <e><p><l>szybko<s n="adv"/></l><r>chiże<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>szybko<s n="adv"/></l><r>chiże<s n="adv"/></r></p></e>
     <e><p><l>szybko<s n="adv"/></l><r>chùtkò<s n="adv"/></r></p></e>
-    <e><p><l>szybko<s n="adv"/></l><r>chùtuszkò<s n="adv"/></r></p></e>
+    <e><p><l>bardzo<s n="adv"/></l><r>baro<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>szybko<s n="adv"/></l><r>chùtuszkò<s n="adv"/></r></p></e>
 
     <e><p><l>w<s n="pr"/></l><r>w<s n="pr"/></r></p></e>
     <e><p><l>do<s n="pr"/></l><r>do<s n="pr"/></r></p></e>

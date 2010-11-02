@@ -8542,12 +8542,16 @@
     <e lm="n.s"><i>n.s</i><par n="téż__adv"/></e>
     <e lm="n.e"><i>n.e</i><par n="téż__adv"/></e>
     <e lm="m. jin." c="never sentence final, eat the full stop"><i>m.<b/>jin.</i><par n="téż__adv"/></e>
+    <e lm="m.jin." c="never sentence final, eat the full stop"><i>m.jin.</i><par n="téż__adv"/></e>
     <e lm="np." c="never sentence final, eat the full stop"><i>np.</i><par n="téż__adv"/></e>
     <e lm="nazôd"><i>nazôd</i><par n="téż__adv"/></e>
     <e lm="jako"><i>jako</i><par n="téż__adv"/></e>
     <e lm="dosc"><i>dosc</i><par n="téż__adv"/></e>
     <e lm="nigdë"><i>nigdë</i><par n="téż__adv"/></e>
     <e lm="doma"><i>doma</i><par n="téż__adv"/></e>
+    <e lm="baro"><i>baro</i><par n="chùtkò__adv"/></e>
+    <e lm="baro"><p><l>barżi</l><r>baro</r></p><par n="chùtczi__adv"/></e>
+    <e lm="baro"><p><l>nôbarżi</l><r>baro</r></p><par n="nôchùtczi__adv"/></e>
     <e lm="chùtkò"><i>chùtko</i><par n="chùtkò__adv"/></e>
     <e lm="chùtkò"><p><l>chùtczi</l><r>chùtko</r></p><par n="chùtczi__adv"/></e>
     <e lm="chùtkò"><p><l>nôchùtczi</l><r>chùtko</r></p><par n="nôchùtczi__adv"/></e>
