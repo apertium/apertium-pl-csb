@@ -6801,6 +6801,140 @@
         </p>
       </e>
     </pardef>
+    <pardef n="BASE__miôł">
+      <e>
+        <p>
+          <l>ôł</l>
+          <r><s n="past"/><s n="m"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ała</l>
+          <r><s n="past"/><s n="f"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>a</l>
+          <r><s n="past"/><s n="f"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ã</l>
+          <r><s n="past"/><s n="f"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ało</l>
+          <r><s n="past"/><s n="nt"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>elë</l>
+          <r><s n="past"/><s n="ma"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ałë</l>
+          <r><s n="past"/><s n="mf"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>a</l>
+          <r><s n="past"/><s n="ma"/><s n="du"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ã</l>
+          <r><s n="past"/><s n="ma"/><s n="du"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ała</l>
+          <r><s n="past"/><s n="ma"/><s n="du"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ała</l>
+          <r><s n="past"/><s n="mf"/><s n="du"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ôłbë</l>
+          <r><s n="cni"/><s n="m"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ałabë</l>
+          <r><s n="cni"/><s n="f"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>abë</l>
+          <r><s n="cni"/><s n="f"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ãbë</l>
+          <r><s n="cni"/><s n="f"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ałobë</l>
+          <r><s n="cni"/><s n="nt"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>elëbë</l>
+          <r><s n="cni"/><s n="ma"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ałëbë</l>
+          <r><s n="cni"/><s n="mf"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>abë</l>
+          <r><s n="cni"/><s n="ma"/><s n="du"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ãbë</l>
+          <r><s n="cni"/><s n="ma"/><s n="du"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ałabë</l>
+          <r><s n="cni"/><s n="ma"/><s n="du"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ałabë</l>
+          <r><s n="cni"/><s n="mf"/><s n="du"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="BASE__szedł">
       <e>
         <p>
@@ -6952,39 +7086,10 @@
       </e>
       <e>
         <p>
-          <l>zesz</l>
-          <r>ac<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
           <l>ze</l>
-          <r>ac<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
+          <r>ac<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
         </p>
-      </e>
-      <e>
-        <p>
-          <l>zemë</l>
-          <r>ac<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>zema</l>
-          <r>ac<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="du"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>zeta</l>
-          <r>ac<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="du"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>zece</l>
-          <r>ac<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
-        </p>
+        <par n="BASE__uczi"/>
       </e>
       <e>
         <p>
@@ -7005,7 +7110,6 @@
           <l>ząc</l>
           <r>ac<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
         </p>
-<!--        <par n="BASE__piszący"/>-->
         <par n="BASE__jasny"/>
       </e>
       <e i="yes">
@@ -7020,7 +7124,6 @@
           <l>ón</l>
           <r>ac<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
         </p>
-<!--        <par n="BASE__pisóny"/>-->
         <par n="BASE__jasny"/>
       </e>
     </pardef>
@@ -7041,39 +7144,10 @@
       </e>
       <e>
         <p>
-          <l>zesz</l>
-          <r>ac<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p2"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
           <l>ze</l>
-          <r>ac<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p3"/><s n="sg"/></r>
+          <r>ac<s n="vblex"/><s n="perf"/><s n="fut"/></r>
         </p>
-      </e>
-      <e>
-        <p>
-          <l>zemë</l>
-          <r>ac<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p1"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>zema</l>
-          <r>ac<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p1"/><s n="du"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>zeta</l>
-          <r>ac<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p2"/><s n="du"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>zece</l>
-          <r>ac<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
-        </p>
+        <par n="BASE__uczi"/>
       </e>
       <e>
         <p>
@@ -7101,7 +7175,6 @@
           <l>ón</l>
           <r>ac<s n="vblex"/><s n="perf"/><s n="pp"/></r>
         </p>
-<!--        <par n="BASE__pisóny"/>-->
         <par n="BASE__jasny"/>
       </e>
     </pardef>
@@ -7122,39 +7195,17 @@
       </e>
       <e>
         <p>
-          <l>óniesz</l>
-          <r>ac<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p2"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
           <l>ónie</l>
-          <r>ac<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p3"/><s n="sg"/></r>
+          <r>ac<s n="vblex"/><s n="perf"/><s n="fut"/></r>
         </p>
+        <par n="BASE__uczi"/>
       </e>
-      <e>
+      <e r="LR" c="check">
         <p>
-          <l>óniemë</l>
-          <r>ac<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p1"/><s n="pl"/></r>
+          <l>a</l>
+          <r>ac<s n="vblex"/><s n="perf"/><s n="fut"/></r>
         </p>
-      </e>
-      <e>
-        <p>
-          <l>óniema</l>
-          <r>ac<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p1"/><s n="du"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ónieta</l>
-          <r>ac<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p2"/><s n="du"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>óniece</l>
-          <r>ac<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
-        </p>
+        <par n="BASE__uczi"/>
       </e>
       <e>
         <p>
