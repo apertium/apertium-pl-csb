@@ -54,6 +54,8 @@
     <e><p><l>nasz<s n="prn"/></l><r>naj<s n="prn"/></r></p></e>
     <e><p><l>wasz<s n="det"/></l><r>waj<s n="det"/></r></p></e>
     <e><p><l>wasz<s n="prn"/></l><r>waj<s n="prn"/></r></p></e>
+    <e><p><l>wiele<s n="det"/></l><r>wiele<s n="det"/></r></p></e>
+    <e><p><l>wiele<s n="prn"/></l><r>wiele<s n="prn"/></r></p></e>
 
     <e><p><l>I<s n="num"/></l><r>I<s n="num"/></r></p></e>
     <e><p><l>II<s n="num"/></l><r>II<s n="num"/></r></p></e>
@@ -140,6 +142,7 @@
     <e r="RL"><p><l>szybko<s n="adv"/></l><r>chiże<s n="adv"/></r></p></e>
     <e><p><l>szybko<s n="adv"/></l><r>chùtkò<s n="adv"/></r></p></e>
     <e><p><l>bardzo<s n="adv"/></l><r>baro<s n="adv"/></r></p></e>
+    <e><p><l>często<s n="adv"/></l><r>czãsto<s n="adv"/></r></p></e>
     <e r="RL"><p><l>szybko<s n="adv"/></l><r>chùtuszkò<s n="adv"/></r></p></e>
 
     <e><p><l>w<s n="pr"/></l><r>w<s n="pr"/></r></p></e>

@@ -234,6 +234,122 @@
       </e>
     </pardef>
 
+    <pardef n="BASE__wiele">
+      <e>
+        <p>
+          <l>u</l>
+          <r><s n="mp"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r><s n="nm"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r><s n="mp"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r><s n="nm"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r><s n="mp"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r><s n="nm"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r><s n="mp"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r><s n="nm"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r><s n="mp"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r><s n="nm"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>oma</l>
+          <r><s n="mp"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>oma</l>
+          <r><s n="nm"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r><s n="mp"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r><s n="nm"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r><s n="mp"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r><s n="nm"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="wiel/e__det">
+      <e>
+        <p>
+          <l></l>
+          <r>e<s n="det"/><s n="qnt"/></r>
+        </p>
+        <par n="BASE__wiele"/>
+      </e>
+    </pardef>
+    <pardef n="wiel/e__prn">
+      <e>
+        <p>
+          <l></l>
+          <r>e<s n="prn"/><s n="ind"/></r>
+        </p>
+        <par n="BASE__wiele"/>
+      </e>
+    </pardef>
     <pardef n="chto__prn">
       <e>
         <p>
@@ -7946,6 +8062,8 @@
     <e lm="naj"><i>naj</i><par n="naj__prn"/></e>
     <e lm="waj"><i>waj</i><par n="naj__det"/></e>
     <e lm="waj"><i>waj</i><par n="naj__prn"/></e>
+    <e lm="wiele"><i>wiel</i><par n="wiel/e__det"/></e>
+    <e lm="wiele"><i>wiel</i><par n="wiel/e__prn"/></e>
 
     <e lm="I"><i>I</i><par n="I__num"/></e>
     <e lm="II"><i>II</i><par n="X__num"/></e>
@@ -8552,9 +8670,15 @@
     <e lm="baro"><i>baro</i><par n="chùtkò__adv"/></e>
     <e lm="baro"><p><l>barżi</l><r>baro</r></p><par n="chùtczi__adv"/></e>
     <e lm="baro"><p><l>nôbarżi</l><r>baro</r></p><par n="nôchùtczi__adv"/></e>
+    <e lm="czãsto"><i>czãsto</i><par n="chùtkò__adv"/></e>
+    <e lm="czãsto"><p><l>czãsczi</l><r>czãsto</r></p><par n="chùtczi__adv"/></e>
+    <e lm="czãsto"><p><l>nôczãsczi</l><r>czãsto</r></p><par n="nôchùtczi__adv"/></e>
     <e lm="chùtkò"><i>chùtko</i><par n="chùtkò__adv"/></e>
     <e lm="chùtkò"><p><l>chùtczi</l><r>chùtko</r></p><par n="chùtczi__adv"/></e>
     <e lm="chùtkò"><p><l>nôchùtczi</l><r>chùtko</r></p><par n="nôchùtczi__adv"/></e>
+    <e lm="dobrze"><i>dobrze</i><par n="chùtkò__adv"/></e>
+    <e lm="dobrze"><p><l>lepi</l><r>dobrze</r></p><par n="chùtczi__adv"/></e>
+    <e lm="dobrze"><p><l>nôlepi</l><r>dobrze</r></p><par n="nôchùtczi__adv"/></e>
     <e lm="wiedno"><i>wiedno</i><par n="téż__adv"/></e>
     <e lm="wczora"><i>wczora</i><par n="téż__adv"/></e>
     <e lm="nazôd"><i>nazôd</i><par n="téż__adv"/></e>
