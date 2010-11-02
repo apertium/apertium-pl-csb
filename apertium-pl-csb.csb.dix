@@ -1354,7 +1354,7 @@
         </p>
       </e>
     </pardef>
-    <pardef n="młod/i__HARD_BASE">
+    <pardef n="młod/i__BASE">
       <e>
         <p>
           <l>ich</l>
@@ -7110,7 +7110,7 @@
           <l></l>
           <r>i<s n="adj"/><s n="sint"/></r>
         </p>
-        <par n="młod/i__HARD_BASE"/>
+        <par n="młod/i__BASE"/>
       </e>
     </pardef>
     <pardef n="lepsz/i__adj">
@@ -7119,7 +7119,7 @@
           <l></l>
           <r>i<s n="adj"/><s n="sint"/><s n="comp"/></r>
         </p>
-        <par n="młod/i__HARD_BASE"/>
+        <par n="młod/i__BASE"/>
       </e>
     </pardef>
     <pardef n="nôlepsz/i__adj">
@@ -7128,7 +7128,7 @@
           <l></l>
           <r>i<s n="adj"/><s n="sint"/><s n="sup"/></r>
         </p>
-        <par n="młod/i__HARD_BASE"/>
+        <par n="młod/i__BASE"/>
       </e>
     </pardef>
 
@@ -7147,7 +7147,7 @@
           <l></l>
           <r>i<s n="det"/><s n="ord"/></r>
         </p>
-        <par n="młod/i__HARD_BASE"/>
+        <par n="młod/i__BASE"/>
       </e>
     </pardef>
     <pardef n="zdrojow/i__adj">
@@ -7156,7 +7156,7 @@
           <l></l>
           <r>i<s n="adj"/></r>
         </p>
-        <par n="młod/i__HARD_BASE"/>
+        <par n="młod/i__BASE"/>
       </e>
     </pardef>
     <pardef n="now/i__adj">
@@ -7165,7 +7165,109 @@
           <l></l>
           <r>i<s n="adj"/><s n="sint"/></r>
         </p>
-        <par n="młod/i__HARD_BASE"/>
+        <par n="młod/i__BASE"/>
+      </e>
+    </pardef>
+    <pardef n="kòżd/i__det">
+      <e r="LR">
+        <p>
+          <l>ën</l>
+          <r><s n="det"/><s n="ind"/><s n="mp"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ën</l>
+          <r><s n="det"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ën</l>
+          <r><s n="det"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ën</l>
+          <r><s n="det"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ën</l>
+          <r><s n="det"/><s n="ind"/><s n="mp"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ën</l>
+          <r><s n="det"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ën</l>
+          <r><s n="det"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r>e<s n="det"/><s n="ind"/></r>
+        </p>
+        <par n="młod/i__BASE"/>
+      </e>
+    </pardef>
+    <pardef n="kòżd/i__prn">
+      <e r="LR">
+        <p>
+          <l>ën</l>
+          <r><s n="prn"/><s n="ind"/><s n="mp"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ën</l>
+          <r><s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ën</l>
+          <r><s n="prn"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ën</l>
+          <r><s n="prn"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ën</l>
+          <r><s n="prn"/><s n="ind"/><s n="mp"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ën</l>
+          <r><s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ën</l>
+          <r><s n="prn"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r>e<s n="prn"/><s n="ind"/></r>
+        </p>
+        <par n="młod/i__BASE"/>
       </e>
     </pardef>
 
@@ -8064,6 +8166,8 @@
     <e lm="waj"><i>waj</i><par n="naj__prn"/></e>
     <e lm="wiele"><i>wiel</i><par n="wiel/e__det"/></e>
     <e lm="wiele"><i>wiel</i><par n="wiel/e__prn"/></e>
+    <e lm="kòżdi"><i>kòżd</i><par n="kòżd/i__det"/></e>
+    <e lm="kòżdi"><i>kòżd</i><par n="kòżd/i__prn"/></e>
 
     <e lm="I"><i>I</i><par n="I__num"/></e>
     <e lm="II"><i>II</i><par n="X__num"/></e>
@@ -8162,6 +8266,7 @@
     <e lm="alfabét"><i>alfab</i><par n="alfab/ét__n"/></e>
     <e lm="robòta"><i>robò</i><par n="sobò/ta__n"/></e>
     <e lm="gmina"><i>gmin</i><par n="gmin/a__n"/></e>
+    <e lm="starna"><i>starn</i><par n="gmin/a__n"/></e>
     <e lm="wòjewództwò"><i>wòjewództw</i><par n="wòjewództw/ò__n"/></e>
     <e lm="towarzëstwò"><i>towarzëstw</i><par n="wòjewództw/ò__n"/></e>
     <e lm="autorstwò"><i>autorstw</i><par n="wòjewództw/ò__n"/></e>
