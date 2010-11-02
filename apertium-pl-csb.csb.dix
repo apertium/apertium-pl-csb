@@ -7667,7 +7667,9 @@
     <e lm="ë"><i>ë</i><par n="ë__cnjcoo"/></e>
     <e lm="i"><i>i</i><par n="ë__cnjcoo"/></e>
     <e lm="a"><i>a</i><par n="ë__cnjcoo"/></e>
+    <e lm="ani"><i>ani</i><par n="ë__cnjcoo"/></e>
     <e lm="ale"><i>ale</i><par n="ë__cnjcoo"/></e>
+    <e lm="le"><i>le</i><par n="ë__cnjcoo"/></e>
     <e lm="że"><i>że</i><par n="że__cnjsub"/></e>
     <e lm="bò"><i>bò</i><par n="że__cnjsub"/></e>
     <e lm="abò"><i>abò</i><par n="że__cnjsub"/></e>
@@ -7757,6 +7759,7 @@
     <e lm="m."><i>m.</i><par n="do__pr"/></e>
     <e lm="wedle"><i>wedle</i><par n="do__pr"/></e>
     <e lm="midze"><i>midze</i><par n="do__pr"/></e>
+    <e lm="kòl"><i>kòl</i><par n="do__pr"/></e>
 
     <e lm="tidzéń"><i>tidzé</i><par n="tidzé/ń__n"/></e> <!-- week -->
     <e lm="inżinér"><i>inżinér</i><par n="inżinér__n"/></e>
@@ -8230,6 +8233,7 @@
     <e lm="òstac"><i>òst</i><par n="òst/ac__vblex"/></e>
 
     <e lm="jak"><i>jak</i><par n="jak__adv"/></e>
+    <e lm="czedë"><i>czedë</i><par n="jak__adv"/></e>
     <e lm="gdze"><i>gdze</i><par n="jak__adv"/></e>
     <e lm="dze"><i>dze</i><par n="jak__adv"/></e>
     <e lm="czë"><i>czë</i><par n="jak__adv"/></e>
@@ -8260,6 +8264,19 @@
     <e lm="jesz"><i>jesz</i><par n="téż__adv"/></e>
     <e lm="znowù"><i>znowù</i><par n="téż__adv"/></e>
     <e lm="znôù"><i>znôù</i><par n="téż__adv"/></e>
+    <e lm="temù"><i>temù</i><par n="téż__adv"/></e>
+    <e lm="bëlno"><i>bëlno</i><par n="téż__adv"/></e>
+    <e lm="blós"><i>blós</i><par n="téż__adv"/></e>
+    <e lm="nawetka"><i>nawetka</i><par n="téż__adv"/></e>
+    <e lm="përznã"><i>përznã</i><par n="téż__adv"/></e>
+    <e lm="rëchli"><i>rëchli</i><par n="téż__adv"/></e>
+    <e lm="nielùso"><i>nielùso</i><par n="téż__adv"/></e>
+    <e lm="chiże"><i>chiże</i><par n="téż__adv"/></e>
+    <e lm="chùtuszkò"><i>chùtuszkò</i><par n="téż__adv"/></e>
+    <e lm="chùtkò"><i>chùtkò</i><par n="téż__adv"/></e>
+    <e lm="nawetka"><i>nawetka</i><par n="téż__adv"/></e>
+    <e lm="leno"><i>leno</i><par n="téż__adv"/></e>
+    <e lm="lëchò"><i>lëchò</i><par n="téż__adv"/></e>
 
     <!-- Adjectives -->
     <e lm="kaszëbsczi"><i>kaszëbs</i><par n="kaszëbs/czi__adj"/></e>
