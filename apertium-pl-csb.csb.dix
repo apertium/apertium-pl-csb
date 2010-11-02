@@ -8765,6 +8765,8 @@
     <e lm="wedle"><i>wedle</i><par n="do__pr"/></e>
     <e lm="midze"><i>midze</i><par n="do__pr"/></e>
     <e lm="kòl"><i>kòl</i><par n="do__pr"/></e>
+    <e lm="jakò"><i>jakò</i><par n="do__pr"/></e>
+    <e lm="òkróm"><i>òkróm</i><par n="do__pr"/></e>
 
     <e lm="tidzéń"><i>tidzé</i><par n="tidzé/ń__n"/></e> <!-- week -->
     <e lm="inżinér"><i>inżinér</i><par n="inżinér__n"/></e>
@@ -9464,6 +9466,7 @@
     <e lm="atlantëcczi"><i>atlantëc</i><par n="atlantëc/czi__adj"/></e>
     <e lm="akademicczi"><i>akademic</i><par n="atlantëc/czi__adj"/></e>
     <e lm="gardzczi"><i>gardz</i><par n="atlantëc/czi__adj"/></e>
+    <e lm="azjatëcczi"><i>azjatëc</i><par n="atlantëc/czi__adj"/></e>
 
     <e lm="wiôldżi"><i>wiôl</i><par n="wiôl/dżi__adj"/></e>
     <e lm="młodi"><i>młod</i><par n="młod/i__adj"/></e>
@@ -9481,6 +9484,9 @@
     <e lm="nowi"><p><l>nônowsz</l><r>now</r></p><par n="nôlepsz/i__adj"/></e>
     <e lm="nowi" r="LR"><p><l>nanowsz</l><r>now</r></p><par n="nôlepsz/i__adj"/></e>
     <e lm="tóni"><i>tón</i><par n="tón/i__adj"/></e>
+    <e lm="pózni"><i>pózn</i><par n="tón/i__adj"/></e>
+    <e lm="pózni"><p><l>pózniész</l><r>pózn</r></p><par n="lepsz/i__adj"/></e>
+    <e lm="pózni"><p><l>nôpózniész</l><r>pózn</r></p><par n="nôlepsz/i__adj"/></e>
     <e lm="piérwi"><i>piérw</i><par n="piérw/i__det"/></e>
     <e lm="zdrojowi"><i>zdrojow</i><par n="zdrojow/i__adj"/></e>
     <e lm="wielejãzëkòwi"><i>wielejãzëkòw</i><par n="zdrojow/i__adj"/></e>
