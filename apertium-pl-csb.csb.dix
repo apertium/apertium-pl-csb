@@ -4354,6 +4354,95 @@
         </p>
       </e>
     </pardef>
+    <pardef n="PBASE__alfabetë">
+      <e>
+        <p>
+          <l>ë</l>
+          <r><s n="mi"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ów</l>
+          <r><s n="mi"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>óm</l>
+          <r><s n="mi"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ë</l>
+          <r><s n="mi"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ama</l>
+          <r><s n="mi"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ach</l>
+          <r><s n="mi"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ë</l>
+          <r><s n="mi"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="PBASE__tidzénie">
+      <e>
+        <p>
+          <l>e</l>
+          <r><s n="mi"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ów</l>
+          <r><s n="mi"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>óm</l>
+          <r><s n="mi"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r><s n="mi"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ama</l>
+          <r><s n="mi"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ach</l>
+          <r><s n="mi"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r><s n="mi"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+
     <pardef n="alfab/ét__n">
       <e>
         <p>
@@ -4405,45 +4494,10 @@
       </e>
       <e>
         <p>
-          <l>etë</l>
-          <r>ét<s n="n"/><s n="mi"/><s n="pl"/><s n="nom"/></r>
+          <l>et</l>
+          <r>ét<s n="n"/><s n="mi"/></r>
         </p>
-      </e>
-      <e>
-        <p>
-          <l>etów</l>
-          <r>ét<s n="n"/><s n="mi"/><s n="pl"/><s n="gen"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>etóm</l>
-          <r>ét<s n="n"/><s n="mi"/><s n="pl"/><s n="dat"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>etë</l>
-          <r>ét<s n="n"/><s n="mi"/><s n="pl"/><s n="acc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>etama</l>
-          <r>ét<s n="n"/><s n="mi"/><s n="pl"/><s n="ins"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>etach</l>
-          <r>ét<s n="n"/><s n="mi"/><s n="pl"/><s n="loc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>etë</l>
-          <r>ét<s n="n"/><s n="mi"/><s n="pl"/><s n="voc"/></r>
-        </p>
+        <par n="PBASE__alfabetë"/>
       </e>
     </pardef>
 
@@ -4492,45 +4546,10 @@
       </e>
       <e>
         <p>
-          <l>nie</l>
-          <r>ń<s n="n"/><s n="mi"/><s n="pl"/><s n="nom"/></r>
+          <l>ni</l>
+          <r>ń<s n="n"/></r>
         </p>
-      </e>
-      <e>
-        <p>
-          <l>niów</l>
-          <r>ń<s n="n"/><s n="mi"/><s n="pl"/><s n="gen"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>nióm</l>
-          <r>ń<s n="n"/><s n="mi"/><s n="pl"/><s n="dat"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>nie</l>
-          <r>ń<s n="n"/><s n="mi"/><s n="pl"/><s n="acc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>nama</l>
-          <r>ń<s n="n"/><s n="mi"/><s n="pl"/><s n="ins"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>niach</l>
-          <r>ń<s n="n"/><s n="mi"/><s n="pl"/><s n="loc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>nie</l>
-          <r>ń<s n="n"/><s n="mi"/><s n="pl"/><s n="voc"/></r>
-        </p>
+        <par n="PBASE__tidzénie"/>
       </e>
     </pardef>
     <pardef n="stëczni/k__n">
