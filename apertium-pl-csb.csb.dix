@@ -7214,6 +7214,35 @@
         </p>
       </e>
     </pardef>
+    <pardef n="spiéw/ac__vblex">
+      <e>
+        <p>
+          <l>ac</l>
+          <r>ac<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+        </p>
+      </e>
+
+      <!-- Present -->
+      <e>
+        <p>
+          <l>óm</l>
+          <r>ac<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ô</l>
+          <r>ac<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
+        </p>
+        <par n="BASE__uczi"/>
+      </e>
+      <e>
+        <p>
+          <l>ają</l>
+          <r>ac<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+    </pardef>
 
     <pardef n="młod/i__adj">
       <e>
@@ -9294,6 +9323,7 @@
     <e lm="pisac"><i>pis</i><par n="pis/ac__vblex"/></e>
     <e lm="napisac"><i>napis</i><par n="napis/ac__vblex"/></e>
     <e lm="òstac"><i>òst</i><par n="òst/ac__vblex"/></e>
+    <e lm="spiéwac"><i>spiéw</i><par n="spiéw/ac__vblex"/></e>
 
     <e lm="jak"><i>jak</i><par n="jak__adv"/></e>
     <e lm="czedë"><i>czedë</i><par n="jak__adv"/></e>
