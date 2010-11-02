@@ -35,6 +35,7 @@
     <sdef n="ant"/>
     <sdef n="vbser"/>
     <sdef n="vbhaver"/>
+    <sdef n="vaux"/>
     <sdef n="imperf"/>
     <sdef n="perf"/>
     <sdef n="inf"/>
@@ -7091,6 +7092,92 @@
         </p>
       </e>
     </pardef>
+    <pardef n="BASE__pòmògł">
+      <e>
+        <p>
+          <l>ł</l>
+          <r><s n="past"/><s n="m"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ła</l>
+          <r><s n="past"/><s n="f"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ło</l>
+          <r><s n="past"/><s n="nt"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>lë</l>
+          <r><s n="past"/><s n="ma"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>łë</l>
+          <r><s n="past"/><s n="mf"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ła</l>
+          <r><s n="past"/><s n="ma"/><s n="du"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ła</l>
+          <r><s n="past"/><s n="mf"/><s n="du"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>łbë</l>
+          <r><s n="cni"/><s n="m"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>łabë</l>
+          <r><s n="cni"/><s n="f"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>łobë</l>
+          <r><s n="cni"/><s n="nt"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>lëbë</l>
+          <r><s n="cni"/><s n="ma"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>łëbë</l>
+          <r><s n="cni"/><s n="mf"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>łabë</l>
+          <r><s n="cni"/><s n="ma"/><s n="du"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>łabë</l>
+          <r><s n="cni"/><s n="mf"/><s n="du"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="/jic__vblex">
       <e>
         <p>
@@ -7372,6 +7459,57 @@
           <r>iec<s n="vbhaver"/><s n="imperf"/></r>
         </p>
         <par n="BASE__miôł"/>
+      </e>
+    </pardef>
+    <pardef n="m/òc__vaux">
+      <e>
+        <p>
+          <l>òc</l>
+          <r>òc<s n="vaux"/><s n="imperf"/><s n="inf"/></r>
+        </p>
+      </e>
+
+      <!-- Present -->
+      <e>
+        <p>
+          <l>ògã</l>
+          <r>òc<s n="vaux"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>òże</l>
+          <r>òc<s n="vaux"/><s n="imperf"/><s n="pres"/></r>
+        </p>
+        <par n="BASE__ùczi"/>
+      </e>
+      <e>
+        <p>
+          <l>ogą</l>
+          <r>òc<s n="vaux"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+
+      <e>
+        <p>
+          <l>òg</l>
+          <r>òc<s n="vaux"/><s n="imperf"/></r>
+        </p>
+        <par n="BASE__pòmògł"/>
+      </e>
+      <e r="LR">
+        <p>
+          <l>óg</l>
+          <r>òc<s n="vaux"/><s n="imperf"/></r>
+        </p>
+        <par n="BASE__pòmògł"/>
+      </e>
+      <e r="LR">
+        <p>
+          <l>og</l>
+          <r>òc<s n="vaux"/><s n="imperf"/></r>
+        </p>
+        <par n="BASE__pòmògł"/>
       </e>
     </pardef>
 
@@ -8928,12 +9066,18 @@
     <e lm="pòd" r="LR"><i>pòd</i><par n="do__pr"/></e>
     <e lm="pòd" r="LR"><p><l>pòde</l><r>pòd</r></p><par n="do__pr"/></e>
     <e lm="pòd" r="RL"><p><l><a/>pòd</l><r>pòd</r></p><par n="do__pr"/></e>
+    <e lm="nad" r="LR"><i>nad</i><par n="do__pr"/></e>
+    <e lm="nad" r="LR"><p><l>nade</l><r>nad</r></p><par n="do__pr"/></e>
+    <e lm="nad" r="RL"><p><l><a/>nad</l><r>nad</r></p><par n="do__pr"/></e>
     <e lm="w" r="LR"><i>w</i><par n="do__pr"/></e>
     <e lm="w" r="LR"><p><l>we</l><r>w</r></p><par n="do__pr"/></e>
     <e lm="w" r="RL"><p><l><a/>w</l><r>w</r></p><par n="do__pr"/></e>
     <e lm="z" r="LR"><i>z</i><par n="do__pr"/></e>
     <e lm="z" r="LR"><p><l>ze</l><r>z</r></p><par n="do__pr"/></e>
     <e lm="z" r="RL"><p><l><a/>z</l><r>z</r></p><par n="do__pr"/></e>
+    <e lm="bez" r="LR"><i>bez</i><par n="do__pr"/></e>
+    <e lm="bez" r="LR"><p><l>beze</l><r>bez</r></p><par n="do__pr"/></e>
+    <e lm="bez" r="RL"><p><l><a/>bez</l><r>bez</r></p><par n="do__pr"/></e>
     <e lm="za"><i>za</i><par n="do__pr"/></e>
     <e lm="ù"><i>ù</i><par n="do__pr"/></e>
     <e lm="dlô"><i>dlô</i><par n="do__pr"/></e>
@@ -8948,6 +9092,7 @@
     <e lm="jakò"><i>jakò</i><par n="do__pr"/></e>
     <e lm="jakno"><i>jakno</i><par n="do__pr"/></e>
     <e lm="òkróm"><i>òkróm</i><par n="do__pr"/></e>
+    <e lm="przë"><i>przë</i><par n="do__pr"/></e>
 
     <e lm="tidzéń"><i>tidzé</i><par n="tidzé/ń__n"/></e> <!-- week -->
     <e lm="inżinér"><i>inżinér</i><par n="inżinér__n"/></e>
@@ -9449,6 +9594,7 @@
     <!-- Verbs -->
     <e lm="bëc"><par n="/bëc__vbser"/></e> <!-- be -->
     <e lm="miec"><i>m</i><par n="m/iec__vbhaver"/></e>
+    <e lm="mòc"><i>m</i><par n="m/òc__vaux"/></e>
     <e lm="mieszkac"><i>mieszk</i><par n="mieszk/ac__vblex"/></e> <!-- live (inhabit) -->
     <e lm="kòsztac"><i>kòszt</i><par n="kòszt/ac__vblex"/></e>
     <e lm="przińc"><i>prziń</i><par n="prziń/c__vblex"/></e>
