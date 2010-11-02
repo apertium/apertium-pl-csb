@@ -6734,6 +6734,44 @@
         </p>
       </e>
     </pardef>
+    <pardef n="BASE_ùczi">
+      <e>
+        <p>
+          <l>sz</l>
+          <r><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>më</l>
+          <r><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ma</l>
+          <r><s n="p1"/><s n="du"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ta</l>
+          <r><s n="p2"/><s n="du"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ce</l>
+          <r><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="ùcz/ëc__vblex">
       <e>
         <p>
@@ -6751,44 +6789,77 @@
       </e>
       <e>
         <p>
-          <l>isz</l>
-          <r>ëc<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
           <l>i</l>
-          <r>ëc<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
+          <r>ëc<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
         </p>
-      </e>
-      <e>
-        <p>
-          <l>imë</l>
-          <r>ëc<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ima</l>
-          <r>ëc<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="du"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ita</l>
-          <r>ëc<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="du"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ice</l>
-          <r>ëc<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
-        </p>
+        <par n="BASE__uczi"/>
       </e>
       <e>
         <p>
           <l>ą</l>
           <r>ëc<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="BASE__szedł">
+      <e>
+        <p>
+          <l>szedł</l>
+          <r><s n="past"/><s n="m"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>szła</l>
+          <r><s n="past"/><s n="f"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>szło</l>
+          <r><s n="past"/><s n="nt"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>szlë</l>
+          <r><s n="past"/><s n="ma"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>szła</l>
+          <r><s n="past"/><s n="mf"/><s n="du"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>szedłbë</l>
+          <r><s n="cni"/><s n="m"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>szłabë</l>
+          <r><s n="cni"/><s n="f"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>szłobë</l>
+          <r><s n="cni"/><s n="nt"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>szlëbë</l>
+          <r><s n="cni"/><s n="ma"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>szłabë</l>
+          <r><s n="cni"/><s n="mf"/><s n="du"/></r>
         </p>
       </e>
     </pardef>
@@ -6809,39 +6880,10 @@
       </e>
       <e>
         <p>
-          <l>jidzesz</l>
-          <r>jic<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
           <l>jidze</l>
-          <r>jic<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
+          <r>jic<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
         </p>
-      </e>
-      <e>
-        <p>
-          <l>jidzemë</l>
-          <r>jic<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>jidzema</l>
-          <r>jic<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="du"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>jidzeta</l>
-          <r>jic<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="du"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>jidzece</l>
-          <r>jic<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
-        </p>
+        <par n="BASE__uczi"/>
       </e>
       <e>
         <p>
@@ -6851,33 +6893,10 @@
       </e>
       <e>
         <p>
-          <l>szedł</l>
-          <r>jic<s n="vblex"/><s n="imperf"/><s n="past"/><s n="m"/><s n="sg"/></r>
+          <l></l>
+          <r>jic<s n="vblex"/><s n="imperf"/></r>
         </p>
-      </e>
-      <e>
-        <p>
-          <l>szła</l>
-          <r>jic<s n="vblex"/><s n="imperf"/><s n="past"/><s n="f"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>szło</l>
-          <r>jic<s n="vblex"/><s n="imperf"/><s n="past"/><s n="nt"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>szlë</l>
-          <r>jic<s n="vblex"/><s n="imperf"/><s n="past"/><s n="ma"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>szła</l>
-          <r>jic<s n="vblex"/><s n="imperf"/><s n="past"/><s n="mf"/><s n="du"/></r>
-        </p>
+        <par n="BASE__szedł"/>
       </e>
     </pardef>
     <pardef n="pò/jic__vblex">
@@ -6897,39 +6916,10 @@
       </e>
       <e>
         <p>
-          <l>jidzesz</l>
-          <r>jic<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p2"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
           <l>jidze</l>
-          <r>jic<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p3"/><s n="sg"/></r>
+          <r>jic<s n="vblex"/><s n="perf"/><s n="fut"/></r>
         </p>
-      </e>
-      <e>
-        <p>
-          <l>jidzemë</l>
-          <r>jic<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p1"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>jidzema</l>
-          <r>jic<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p1"/><s n="du"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>jidzeta</l>
-          <r>jic<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p2"/><s n="du"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>jidzece</l>
-          <r>jic<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
-        </p>
+        <par n="BASE__uczi"/>
       </e>
       <e>
         <p>
@@ -6939,33 +6929,10 @@
       </e>
       <e>
         <p>
-          <l>szedł</l>
-          <r>jic<s n="vblex"/><s n="perf"/><s n="past"/><s n="m"/><s n="sg"/></r>
+          <l></l>
+          <r>jic<s n="vblex"/><s n="perf"/></r>
         </p>
-      </e>
-      <e>
-        <p>
-          <l>szła</l>
-          <r>jic<s n="vblex"/><s n="perf"/><s n="past"/><s n="f"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>szło</l>
-          <r>jic<s n="vblex"/><s n="perf"/><s n="past"/><s n="nt"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>szlë</l>
-          <r>jic<s n="vblex"/><s n="perf"/><s n="past"/><s n="ma"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>szła</l>
-          <r>jic<s n="vblex"/><s n="perf"/><s n="past"/><s n="mf"/><s n="du"/></r>
-        </p>
+        <par n="BASE__szedł"/>
       </e>
     </pardef>
     <pardef n="pis/ac__vblex">
@@ -8669,6 +8636,8 @@
     <e lm="ale"><i>ale</i><par n="ë__cnjcoo"/></e>
     <e lm="le"><i>le</i><par n="ë__cnjcoo"/></e>
     <e lm="że"><i>że</i><par n="że__cnjsub"/></e>
+    <e lm="żebë"><i>żebë</i><par n="że__cnjsub"/></e>
+    <e lm="bë"><i>bë</i><par n="że__cnjsub"/></e>
     <e lm="bò"><i>bò</i><par n="że__cnjsub"/></e>
     <e lm="abò"><i>abò</i><par n="że__cnjsub"/></e>
     <e lm="jeżle"><i>jeżle</i><par n="że__cnjsub"/></e>
