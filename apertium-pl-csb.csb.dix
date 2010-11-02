@@ -9145,6 +9145,8 @@
     <e lm="ùsôdztwò"><i>ùsôdztw</i><par n="wòjewództw/ò__n"/></e>
     <e lm="ùtwórstwò"><i>ùtwórstw</i><par n="wòjewództw/ò__n"/></e>
     <e lm="wespółaùtorstwò"><i>wespółaùtorstw</i><par n="wòjewództw/ò__n"/></e>
+    <e lm="kùltura"><i>kùltur</i><par n="strzod/a__n"/></e>
+    <e lm="subkùltura"><i>subkùltur</i><par n="strzod/a__n"/></e>
 
     <!-- days -->
     <e lm="pòniedzôłk"><i>pòniedz</i><par n="pòniedz/ôłk__n"/></e> <!-- Monday -->
@@ -9670,6 +9672,51 @@
     <e lm="nawetka"><i>nawetka</i><par n="téż__adv"/></e>
     <e lm="leno"><i>leno</i><par n="téż__adv"/></e>
     <e lm="lëchò"><i>lëchò</i><par n="téż__adv"/></e>
+    <e lm="jo"><i>jo</i><par n="téż__adv"/></e>
+    <e lm="tak"><i>tak</i><par n="téż__adv"/></e>
+
+    <e lm="I s"><i>I<b/>s</i><par n="téż__adv"/></e>
+    <e lm="II s"><i>II<b/>s</i><par n="téż__adv"/></e>
+    <e lm="III s"><i>III<b/>s</i><par n="téż__adv"/></e>
+    <e lm="IV s"><i>IV<b/>s</i><par n="téż__adv"/></e>
+    <e lm="V s"><i>V<b/>s</i><par n="téż__adv"/></e>
+    <e lm="VI s"><i>VI<b/>s</i><par n="téż__adv"/></e>
+    <e lm="VII s"><i>VII<b/>s</i><par n="téż__adv"/></e>
+    <e lm="VIII s"><i>VIII<b/>s</i><par n="téż__adv"/></e>
+    <e lm="IX s"><i>IX<b/>s</i><par n="téż__adv"/></e>
+    <e lm="X s"><i>X<b/>s</i><par n="téż__adv"/></e>
+    <e lm="XI s"><i>XI<b/>s</i><par n="téż__adv"/></e>
+    <e lm="XII s"><i>XII<b/>s</i><par n="téż__adv"/></e>
+    <e lm="XIII s"><i>XIII<b/>s</i><par n="téż__adv"/></e>
+    <e lm="XIV s"><i>XIV<b/>s</i><par n="téż__adv"/></e>
+    <e lm="XV s"><i>XV<b/>s</i><par n="téż__adv"/></e>
+    <e lm="XVI s"><i>XVI<b/>s</i><par n="téż__adv"/></e>
+    <e lm="XVII s"><i>XVII<b/>s</i><par n="téż__adv"/></e>
+    <e lm="XVIII s"><i>XVIII<b/>s</i><par n="téż__adv"/></e>
+    <e lm="XIX s"><i>XIX<b/>s</i><par n="téż__adv"/></e>
+    <e lm="XX s"><i>XX<b/>s</i><par n="téż__adv"/></e>
+    <e lm="XXI s"><i>XXI<b/>s</i><par n="téż__adv"/></e>
+    <e lm="XXII s"><i>XXII<b/>s</i><par n="téż__adv"/></e>
+    <e lm="XXIII s"><i>XXIII<b/>s</i><par n="téż__adv"/></e>
+    <e lm="XXIV s"><i>XXIV<b/>s</i><par n="téż__adv"/></e>
+    <e lm="XXV s"><i>XXV<b/>s</i><par n="téż__adv"/></e>
+    <e lm="XXVI s"><i>XXVI<b/>s</i><par n="téż__adv"/></e>
+    <e lm="XXVII s"><i>XXVII<b/>s</i><par n="téż__adv"/></e>
+    <e lm="XXVIII s"><i>XXVIII<b/>s</i><par n="téż__adv"/></e>
+    <e lm="XXIX s"><i>XXIX<b/>s</i><par n="téż__adv"/></e>
+    <e lm="XXX s"><i>XXX<b/>s</i><par n="téż__adv"/></e>
+    <e lm="XXXI s"><i>XXXI<b/>s</i><par n="téż__adv"/></e>
+    <e lm="XXXII s"><i>XXXII<b/>s</i><par n="téż__adv"/></e>
+    <e lm="XXXIII s"><i>XXXIII<b/>s</i><par n="téż__adv"/></e>
+    <e lm="XXXIV s"><i>XXXIV<b/>s</i><par n="téż__adv"/></e>
+    <e lm="XXXV s"><i>XXXV<b/>s</i><par n="téż__adv"/></e>
+    <e lm="XXXVI s"><i>XXXVI<b/>s</i><par n="téż__adv"/></e>
+    <e lm="XXXVII s"><i>XXXVII<b/>s</i><par n="téż__adv"/></e>
+    <e lm="XXXVIII s"><i>XXXVIII<b/>s</i><par n="téż__adv"/></e>
+    <e lm="XXXIX s"><i>XXXIX<b/>s</i><par n="téż__adv"/></e>
+    <e lm="M s"><i>M<b/>s</i><par n="téż__adv"/></e>
+    <e lm="C s"><i>C<b/>s</i><par n="téż__adv"/></e>
+    <e lm="L s"><i>L<b/>s</i><par n="téż__adv"/></e>
 
     <!-- Adjectives -->
     <e lm="kaszëbsczi"><i>kaszëbs</i><par n="kaszëbs/czi__adj"/></e>
@@ -9835,6 +9882,7 @@
     <e lm="starkòwi"><i>starkòw</i><par n="zdrojow/i__adj"/></e>
     <e lm="jasny"><i>jasn</i><par n="jasn/y__adj"/></e>
     <e lm="cëzy"><i>cëz</i><par n="aborcëjn/y__adj"/></e>
+    <e lm="kùlturny"><i>kùlturn</i><par n="aborcëjn/y__adj"/></e>
     <e lm="pòpùlarny"><i>pòpùlarn</i><par n="jasn/y__adj"/></e>
     <e lm="aktualny"><i>aktualn</i><par n="jasn/y__adj"/></e>
     <e lm="akùrôtny"><i>akùrôtn</i><par n="jasn/y__adj"/></e>
