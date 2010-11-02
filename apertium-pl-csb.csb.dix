@@ -7359,90 +7359,117 @@
         </p>
       </e>
     </pardef>
-    <pardef n="apté/ka__n">
+    <pardef n="BASE__aptéka">
       <e>
         <p>
           <l>ka</l>
-          <r>ka<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+          <r><s n="f"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>czi</l>
-          <r>ka<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+          <r><s n="f"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ce</l>
-          <r>ka<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+          <r><s n="f"/><s n="sg"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>kã</l>
-          <r>ka<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+          <r><s n="f"/><s n="sg"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ką</l>
-          <r>ka<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+          <r><s n="f"/><s n="sg"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ce</l>
-          <r>ka<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+          <r><s n="f"/><s n="sg"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>kò</l>
-          <r>ka<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+          <r><s n="f"/><s n="sg"/><s n="voc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>czi</l>
-          <r>ka<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+          <r><s n="f"/><s n="pl"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ków</l>
-          <r>ka<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+          <r><s n="f"/><s n="pl"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>kóm</l>
-          <r>ka<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+          <r><s n="f"/><s n="pl"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>czi</l>
-          <r>ka<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+          <r><s n="f"/><s n="pl"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>kama</l>
-          <r>ka<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+          <r><s n="f"/><s n="pl"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>kach</l>
-          <r>ka<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+          <r><s n="f"/><s n="pl"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>czi</l>
-          <r>ka<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+          <r><s n="f"/><s n="pl"/><s n="voc"/></r>
         </p>
+      </e>
+    </pardef>
+    <pardef n="apté/ka__n">
+      <e>
+        <p>
+          <l></l>
+          <r>ka<s n="n"/></r>
+        </p>
+        <par n="BASE__aptéka"/>
+      </e>
+    </pardef>
+    <pardef n="Ameri/ka__n">
+      <e>
+        <p>
+          <l></l>
+          <r>ka<s n="np"/><s n="top"/></r>
+        </p>
+        <par n="BASE__aptéka"/>
+      </e>
+    </pardef>
+    <pardef n="Moni/ka__n">
+      <e>
+        <p>
+          <l></l>
+          <r>ka<s n="np"/><s n="ant"/></r>
+        </p>
+        <par n="BASE__aptéka"/>
       </e>
     </pardef>
     <pardef n="w/ies__n">
@@ -8408,6 +8435,13 @@
     <e lm="mùzyka" c="guess"><i>mùzy</i><par n="apté/ka__n"/></e>
     <e lm="bòtanika" c="guess"><i>bòtani</i><par n="apté/ka__n"/></e>
     <e lm="keramika" c="guess"><i>kerami</i><par n="apté/ka__n"/></e>
+    <e lm="paprika" c="guess"><i>papri</i><par n="apté/ka__n"/></e>
+    <e lm="repùblika" c="guess"><i>repùbli</i><par n="apté/ka__n"/></e>
+    <e lm="pòlitika" c="guess"><i>pòliti</i><par n="apté/ka__n"/></e>
+    <e lm="lingwistika" c="guess"><i>lingwisti</i><par n="apté/ka__n"/></e>
+    <e lm="Amerika" c="guess"><i>Ameri</i><par n="Ameri/ka__np"/></e>
+    <e lm="Monika" c="guess"><i>Moni</i><par n="Moni/ka__np"/></e>
+    <e lm="Dominika" c="guess"><i>Domini</i><par n="Moni/ka__np"/></e>
     <e lm="białka"><i>biał</i><par n="apté/ka__n"/></e>
     <e lm="wies"><i>w</i><par n="w/ies__n"/></e>
     <e lm="ògón"><i>ògón</i><par n="ògón__n"/></e>
