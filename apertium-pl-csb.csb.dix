@@ -7454,7 +7454,7 @@
         <par n="BASE__aptéka"/>
       </e>
     </pardef>
-    <pardef n="Ameri/ka__n">
+    <pardef n="Ameri/ka__np">
       <e>
         <p>
           <l></l>
@@ -7463,7 +7463,7 @@
         <par n="BASE__aptéka"/>
       </e>
     </pardef>
-    <pardef n="Moni/ka__n">
+    <pardef n="Domini/ka__np">
       <e>
         <p>
           <l></l>
@@ -8440,8 +8440,13 @@
     <e lm="pòlitika" c="guess"><i>pòliti</i><par n="apté/ka__n"/></e>
     <e lm="lingwistika" c="guess"><i>lingwisti</i><par n="apté/ka__n"/></e>
     <e lm="Amerika" c="guess"><i>Ameri</i><par n="Ameri/ka__np"/></e>
-    <e lm="Monika" c="guess"><i>Moni</i><par n="Moni/ka__np"/></e>
-    <e lm="Dominika" c="guess"><i>Domini</i><par n="Moni/ka__np"/></e>
+    <e lm="Monika" c="guess"><i>Moni</i><par n="Domini/ka__np"/></e>
+    <e lm="Dominika" c="guess"><i>Domini</i><par n="Domini/ka__np"/></e>
+    <e lm="Weronika"><i>Weroni</i><par n="Domini/ka__np"/></e>
+    <e lm="Angelika"><i>Angeli</i><par n="Domini/ka__np"/></e>
+    <e lm="Eryka"><i>Ery</i><par n="Domini/ka__np"/></e>
+    <e lm="Fryderyka"><i>Frydery</i><par n="Domini/ka__np"/></e>
+    <e lm="Ludwika"><i>Ludwi</i><par n="Domini/ka__np"/></e>
     <e lm="białka"><i>biał</i><par n="apté/ka__n"/></e>
     <e lm="wies"><i>w</i><par n="w/ies__n"/></e>
     <e lm="ògón"><i>ògón</i><par n="ògón__n"/></e>
