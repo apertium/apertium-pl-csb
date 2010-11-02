@@ -46,6 +46,7 @@
     <sdef n="p3"/>
     <sdef n="past"/>
     <sdef n="vblex"/>
+    <sdef n="vbhaver"/>
     <sdef n="sint"/>
     <sdef n="comp"/>
     <sdef n="sup"/>
@@ -7244,6 +7245,43 @@
         </p>
       </e>
     </pardef>
+    <pardef n="m/iec__vbhaver">
+      <e>
+        <p>
+          <l>iec</l>
+          <r>iec<s n="vbhaver"/><s n="imperf"/><s n="inf"/></r>
+        </p>
+      </e>
+
+      <!-- Present -->
+      <e>
+        <p>
+          <l>óm</l>
+          <r>iec<s n="vbhaver"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ô</l>
+          <r>iec<s n="vbhaver"/><s n="imperf"/><s n="pres"/></r>
+        </p>
+        <par n="BASE__ùczi"/>
+      </e>
+      <e>
+        <p>
+          <l>ają</l>
+          <r>iec<s n="vbhaver"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+
+      <e>
+        <p>
+          <l>i</l>
+          <r>iec<s n="vbhaver"/><s n="imperf"/></r>
+        </p>
+        <par n="BASE__miôł"/>
+      </e>
+    </pardef>
 
     <pardef n="młod/i__adj">
       <e>
@@ -7384,7 +7422,7 @@
       </e>
       <e r="LR">
         <p>
-          <l>tegô</l>
+          <l>tegò</l>
           <r>to<s n="det"/><s n="dem"/><s n="mp"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
@@ -7402,7 +7440,7 @@
       </e>
       <e r="LR">
         <p>
-          <l>tegô</l>
+          <l>tegò</l>
           <r>to<s n="det"/><s n="dem"/><s n="ma"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
@@ -7420,7 +7458,7 @@
       </e>
       <e r="LR">
         <p>
-          <l>tegô</l>
+          <l>tegò</l>
           <r>to<s n="det"/><s n="dem"/><s n="mi"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
@@ -7540,7 +7578,7 @@
       </e>
       <e r="LR">
         <p>
-          <l>tegô</l>
+          <l>tegò</l>
           <r>to<s n="det"/><s n="dem"/><s n="mp"/><s n="sg"/><s n="acc"/></r>
         </p>
       </e>
@@ -7558,7 +7596,7 @@
       </e>
       <e r="LR">
         <p>
-          <l>tegô</l>
+          <l>tegò</l>
           <r>to<s n="det"/><s n="dem"/><s n="ma"/><s n="sg"/><s n="acc"/></r>
         </p>
       </e>
@@ -9315,6 +9353,7 @@
 
     <!-- Verbs -->
     <e lm="bëc"><par n="/bëc__vbser"/></e> <!-- be -->
+    <e lm="miec"><i>m</i><par n="m/iec__vbhaver"/></e>
     <e lm="mieszkac"><i>mieszk</i><par n="mieszk/ac__vblex"/></e> <!-- live (inhabit) -->
     <e lm="kòsztac"><i>kòszt</i><par n="kòszt/ac__vblex"/></e>
     <e lm="przińc"><i>prziń</i><par n="prziń/c__vblex"/></e>
@@ -9351,6 +9390,7 @@
     <e lm="nazôd"><i>nazôd</i><par n="téż__adv"/></e>
     <e lm="jako"><i>jako</i><par n="téż__adv"/></e>
     <e lm="dosc"><i>dosc</i><par n="téż__adv"/></e>
+    <e lm="razã"><i>razã</i><par n="téż__adv"/></e>
     <e lm="nigdë"><i>nigdë</i><par n="téż__adv"/></e>
     <e lm="doma"><i>doma</i><par n="téż__adv"/></e>
     <e lm="baro"><i>baro</i><par n="chùtkò__adv"/></e>

@@ -24,6 +24,7 @@
     <sdef n="sint"/>
     <sdef n="vbser"/>
     <sdef n="vblex"/>
+    <sdef n="vbhaver"/>
     <sdef n="imperf"/>
     <sdef n="perf"/>
     <sdef n="num"/>
@@ -152,6 +153,7 @@
     <e><p><l>bardzo<s n="adv"/></l><r>baro<s n="adv"/></r></p></e>
     <e><p><l>często<s n="adv"/></l><r>czãsto<s n="adv"/></r></p></e>
     <e r="RL"><p><l>szybko<s n="adv"/></l><r>chùtuszkò<s n="adv"/></r></p></e>
+    <e><p><l>razem<s n="adv"/></l><r>razã<s n="adv"/></r></p></e>
 
     <e><p><l>w<s n="pr"/></l><r>w<s n="pr"/></r></p></e>
     <e><p><l>do<s n="pr"/></l><r>do<s n="pr"/></r></p></e>
@@ -182,6 +184,7 @@
     <e><p><l>śpiewać<s n="vblex"/></l><r>spiéwac<s n="vblex"/></r></p></e>
     <e><p><l>uczyć<s n="vblex"/></l><r>ùczëc<s n="vblex"/></r></p></e>
     <e><p><l>czytać<s n="vblex"/></l><r>czëtac<s n="vblex"/></r></p></e>
+    <e><p><l>mieć<s n="vbhaver"/></l><r>miec<s n="vbhaver"/></r></p></e>
     
     <e><p><l>ziemia<s n="n"/><s n="f"/></l><r>zemia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ceramika<s n="n"/><s n="f"/></l><r>keramika<s n="n"/><s n="f"/></r></p></e>
