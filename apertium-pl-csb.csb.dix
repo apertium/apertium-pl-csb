@@ -18,6 +18,7 @@
     <sdef n="dem"/>
     <sdef n="pos"/>
     <sdef n="ref"/>
+    <sdef n="cni"/>
     
     <sdef n="mp"/>
     <sdef n="ma"/>
@@ -6734,7 +6735,7 @@
         </p>
       </e>
     </pardef>
-    <pardef n="BASE_ùczi">
+    <pardef n="BASE__ùczi">
       <e>
         <p>
           <l>sz</l>
@@ -6792,7 +6793,7 @@
           <l>i</l>
           <r>ëc<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
         </p>
-        <par n="BASE__uczi"/>
+        <par n="BASE__ùczi"/>
       </e>
       <e>
         <p>
@@ -7017,7 +7018,7 @@
           <l>jidze</l>
           <r>jic<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
         </p>
-        <par n="BASE__uczi"/>
+        <par n="BASE__ùczi"/>
       </e>
       <e>
         <p>
@@ -7053,7 +7054,7 @@
           <l>jidze</l>
           <r>jic<s n="vblex"/><s n="perf"/><s n="fut"/></r>
         </p>
-        <par n="BASE__uczi"/>
+        <par n="BASE__ùczi"/>
       </e>
       <e>
         <p>
@@ -7089,7 +7090,7 @@
           <l>ze</l>
           <r>ac<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
         </p>
-        <par n="BASE__uczi"/>
+        <par n="BASE__ùczi"/>
       </e>
       <e>
         <p>
@@ -7147,7 +7148,7 @@
           <l>ze</l>
           <r>ac<s n="vblex"/><s n="perf"/><s n="fut"/></r>
         </p>
-        <par n="BASE__uczi"/>
+        <par n="BASE__ùczi"/>
       </e>
       <e>
         <p>
@@ -7198,14 +7199,14 @@
           <l>ónie</l>
           <r>ac<s n="vblex"/><s n="perf"/><s n="fut"/></r>
         </p>
-        <par n="BASE__uczi"/>
+        <par n="BASE__ùczi"/>
       </e>
       <e r="LR" c="check">
         <p>
           <l>a</l>
           <r>ac<s n="vblex"/><s n="perf"/><s n="fut"/></r>
         </p>
-        <par n="BASE__uczi"/>
+        <par n="BASE__ùczi"/>
       </e>
       <e>
         <p>
@@ -7234,7 +7235,7 @@
           <l>ô</l>
           <r>ac<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
         </p>
-        <par n="BASE__uczi"/>
+        <par n="BASE__ùczi"/>
       </e>
       <e>
         <p>
@@ -9324,6 +9325,7 @@
     <e lm="napisac"><i>napis</i><par n="napis/ac__vblex"/></e>
     <e lm="òstac"><i>òst</i><par n="òst/ac__vblex"/></e>
     <e lm="spiéwac"><i>spiéw</i><par n="spiéw/ac__vblex"/></e>
+    <e lm="czëtac"><i>czët</i><par n="spiéw/ac__vblex"/></e>
 
     <e lm="jak"><i>jak</i><par n="jak__adv"/></e>
     <e lm="czedë"><i>czedë</i><par n="jak__adv"/></e>
