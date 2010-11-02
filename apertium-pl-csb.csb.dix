@@ -1952,6 +1952,128 @@
         </p>
       </e>
     </pardef>
+    <pardef n="BASE__wiôldżi">
+      <e>
+        <p>
+          <l>dżi</l>
+          <r><s n="ma"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dżi</l>
+          <r><s n="mi"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gô</l>
+          <r><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dżé</l>
+          <r><s n="nt"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dżé</l>
+          <r><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dżégò</l>
+          <r><s n="ma"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dżégò</l>
+          <r><s n="mi"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dżi</l>
+          <r><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dżégò</l>
+          <r><s n="nt"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dżich</l>
+          <r><s n="m"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dżich</l>
+          <r><s n="nm"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dżi</l>
+          <r><s n="ma"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dżégò</l>
+          <r><s n="ma"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gą</l>
+          <r><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dżé</l>
+          <r><s n="nt"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gą</l>
+          <r><s n="f"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dżim</l>
+          <r><s n="ma"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dżim</l>
+          <r><s n="mi"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dżi</l>
+          <r><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dżim</l>
+          <r><s n="nt"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="BASE__naj">
       <e>
         <p>
@@ -2700,6 +2822,22 @@
         </p>
       </e>
     </pardef>
+    <pardef n="wiôl/dżi__adj">
+      <e>
+        <p>
+          <l/>
+          <r>dżi<s n="adj"/></r>
+        </p>
+        <par n="BASE__wiôldżi"/>
+      </e>
+      <e>
+        <p>
+          <l>gò</l>
+          <r>dżi<s n="adj"/><s n="cpd"/></r>
+        </p>
+      </e>
+    </pardef>
+
     <pardef n="kaszëbs/czi__adj">
       <e>
         <i/>
@@ -8255,6 +8393,7 @@
     <e lm="akademicczi"><i>akademic</i><par n="atlantëc/czi__adj"/></e>
     <e lm="gardzczi"><i>gardz</i><par n="atlantëc/czi__adj"/></e>
 
+    <e lm="wiôldżi"><i>wiôl</i><par n="wiôl/dżi__adj"/></e>
     <e lm="młodi"><i>młod</i><par n="młod/i__adj"/></e>
     <e lm="dobri"><i>dobr</i><par n="młod/i__adj"/></e>
     <e lm="dobri"><p><l>lepsz</l><r>dobr</r></p><par n="lepsz/i__adj"/></e>
