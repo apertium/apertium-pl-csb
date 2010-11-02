@@ -102,6 +102,7 @@
     <e><p><l>C<s n="num"/></l><r>C<s n="num"/></r></p></e>
     <e><p><l>L<s n="num"/></l><r>L<s n="num"/></r></p></e>
     <e><p><l>mln<s n="num"/></l><r>mln<s n="num"/></r></p></e>
+    <e><p><l>tyś<s n="num"/></l><r>tys<s n="num"/></r></p></e>
 
     <e><p><l>naj<s n="adv"/></l><r>nô<s n="adv"/></r></p></e>
     <e><p><l>już<s n="adv"/></l><r>ju<s n="adv"/></r></p></e>
@@ -131,7 +132,9 @@
     <e><p><l>n.e<s n="adv"/></l><r>n.s<s n="adv"/></r></p></e>
     <e><p><l>m.in.<s n="adv"/></l><r>m.<b/>jin.<s n="adv"/></r></p></e>
     <e r="RL"><p><l>m.in.<s n="adv"/></l><r>m.jin.<s n="adv"/></r></p></e>
+    <e><p><l>t.j.<s n="adv"/></l><r>t.j.<s n="adv"/></r></p></e>
     <e><p><l>np.<s n="adv"/></l><r>np.<s n="adv"/></r></p></e>
+    <e><p><l>tzw<s n="adv"/></l><r>tzw<s n="adv"/></r></p></e>
     <e r="RL"><p><l>n.e<s n="adv"/></l><r>n.e<s n="adv"/></r></p></e>
     <e r="RL"><p><l>temu<s n="adv"/></l><r>nazôd<s n="adv"/></r></p></e>
     <e><p><l>temu<s n="adv"/></l><r>temù<s n="adv"/></r></p></e>
