@@ -7989,6 +7989,7 @@
     <e lm="M"><i>M</i><par n="X__num"/></e>
     <e lm="C"><i>C</i><par n="X__num"/></e>
     <e lm="L"><i>L</i><par n="X__num"/></e>
+    <e lm="mln"><i>mln</i><par n="X__num"/></e>
 
     <!-- Prepositions -->
     <e lm="do"><i>do</i><par n="do__pr"/></e>
@@ -8435,16 +8436,26 @@
     <e lm="mùzyka" c="guess"><i>mùzy</i><par n="apté/ka__n"/></e>
     <e lm="bòtanika" c="guess"><i>bòtani</i><par n="apté/ka__n"/></e>
     <e lm="keramika" c="guess"><i>kerami</i><par n="apté/ka__n"/></e>
+    <e lm="ceramika" c="guess"><i>cerami</i><par n="apté/ka__n"/></e>
     <e lm="paprika" c="guess"><i>papri</i><par n="apté/ka__n"/></e>
     <e lm="repùblika" c="guess"><i>repùbli</i><par n="apté/ka__n"/></e>
     <e lm="pòlitika" c="guess"><i>pòliti</i><par n="apté/ka__n"/></e>
     <e lm="lingwistika" c="guess"><i>lingwisti</i><par n="apté/ka__n"/></e>
+    <e lm="bazylika" c="guess"><i>bazyli</i><par n="apté/ka__n"/></e>
+    <e lm="grafika" c="guess"><i>grafi</i><par n="apté/ka__n"/></e>
+    <e lm="infòrmatika" c="guess"><i>infòrmati</i><par n="apté/ka__n"/></e>
+    <e lm="matematika" c="guess"><i>matemati</i><par n="apté/ka__n"/></e>
+    <e lm="slawistika" c="guess"><i>slawisti</i><par n="apté/ka__n"/></e>
+    <e lm="statistika" c="guess"><i>statisti</i><par n="apté/ka__n"/></e>
+    <e lm="technika" c="guess"><i>techni</i><par n="apté/ka__n"/></e>
+    <e lm="turistika" c="guess"><i>turisti</i><par n="apté/ka__n"/></e>
     <e lm="Amerika" c="guess"><i>Ameri</i><par n="Ameri/ka__np"/></e>
     <e lm="Monika" c="guess"><i>Moni</i><par n="Domini/ka__np"/></e>
     <e lm="Dominika" c="guess"><i>Domini</i><par n="Domini/ka__np"/></e>
     <e lm="Weronika"><i>Weroni</i><par n="Domini/ka__np"/></e>
     <e lm="Angelika"><i>Angeli</i><par n="Domini/ka__np"/></e>
     <e lm="Eryka"><i>Ery</i><par n="Domini/ka__np"/></e>
+    <e lm="Erika"><i>Eri</i><par n="Domini/ka__np"/></e>
     <e lm="Fryderyka"><i>Frydery</i><par n="Domini/ka__np"/></e>
     <e lm="Ludwika"><i>Ludwi</i><par n="Domini/ka__np"/></e>
     <e lm="białka"><i>biał</i><par n="apté/ka__n"/></e>
@@ -8530,6 +8541,8 @@
     <e lm="p.n.s"><i>p.n.s</i><par n="téż__adv"/></e>
     <e lm="n.s"><i>n.s</i><par n="téż__adv"/></e>
     <e lm="n.e"><i>n.e</i><par n="téż__adv"/></e>
+    <e lm="m. jin." c="never sentence final, eat the full stop"><i>m.<b/>jin.</i><par n="téż__adv"/></e>
+    <e lm="np." c="never sentence final, eat the full stop"><i>np.</i><par n="téż__adv"/></e>
     <e lm="nazôd"><i>nazôd</i><par n="téż__adv"/></e>
     <e lm="jako"><i>jako</i><par n="téż__adv"/></e>
     <e lm="dosc"><i>dosc</i><par n="téż__adv"/></e>

@@ -97,6 +97,7 @@
     <e><p><l>M<s n="num"/></l><r>M<s n="num"/></r></p></e>
     <e><p><l>C<s n="num"/></l><r>C<s n="num"/></r></p></e>
     <e><p><l>L<s n="num"/></l><r>L<s n="num"/></r></p></e>
+    <e><p><l>mln<s n="num"/></l><r>mln<s n="num"/></r></p></e>
 
     <e><p><l>naj<s n="adv"/></l><r>nô<s n="adv"/></r></p></e>
     <e><p><l>już<s n="adv"/></l><r>ju<s n="adv"/></r></p></e>
@@ -124,6 +125,8 @@
     <e><p><l>p.n.e<s n="adv"/></l><r>p.n.s<s n="adv"/></r></p></e>
     <e r="RL"><p><l>p.n.e<s n="adv"/></l><r>p.n.e<s n="adv"/></r></p></e>
     <e><p><l>n.e<s n="adv"/></l><r>n.s<s n="adv"/></r></p></e>
+    <e><p><l>m.in.<s n="adv"/></l><r>m.<b/>jin.<s n="adv"/></r></p></e>
+    <e><p><l>np.<s n="adv"/></l><r>np.<s n="adv"/></r></p></e>
     <e r="RL"><p><l>n.e<s n="adv"/></l><r>n.e<s n="adv"/></r></p></e>
     <e r="RL"><p><l>temu<s n="adv"/></l><r>nazôd<s n="adv"/></r></p></e>
     <e><p><l>temu<s n="adv"/></l><r>temù<s n="adv"/></r></p></e>
@@ -164,6 +167,7 @@
     
     <e><p><l>ziemia<s n="n"/><s n="f"/></l><r>zemia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ceramika<s n="n"/><s n="f"/></l><r>keramika<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>ceramika<s n="n"/><s n="f"/></l><r>ceramika<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ząb<s n="n"/><s n="mi"/></l><r>ząb<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>alfabet<s n="n"/><s n="mi"/></l><r>alfabét<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>gmina<s n="n"/><s n="f"/></l><r>gmina<s n="n"/><s n="f"/></r></p></e>
@@ -239,6 +243,14 @@
     <e><p><l>polityka<s n="n"/><s n="f"/></l><r>pòlitika<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lingwistyka<s n="n"/><s n="f"/></l><r>lingwistika<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>paprika<s n="n"/><s n="f"/></l><r>paprika<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>bazylika<s n="n"/><s n="f"/></l><r>bazylika<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>grafika<s n="n"/><s n="f"/></l><r>grafika<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>informatyka<s n="n"/><s n="f"/></l><r>infòrmatika<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>matematyka<s n="n"/><s n="f"/></l><r>matematika<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>slawistyka<s n="n"/><s n="f"/></l><r>slawistika<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>statystyka<s n="n"/><s n="f"/></l><r>statistika<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>technika<s n="n"/><s n="f"/></l><r>technika<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>turystyka<s n="n"/><s n="f"/></l><r>turistika<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>strona<s n="n"/><s n="f"/></l><r>starna<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>historia<s n="n"/><s n="f"/></l><r>historëjô<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>wersja<s n="n"/><s n="f"/></l><r>wersëjô<s n="n"/><s n="f"/></r></p></e>
@@ -583,6 +595,7 @@
     <e><p><l>Weronika<s n="np"/><s n="ant"/><s n="f"/></l><r>Weronika<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
     <e><p><l>Angelika<s n="np"/><s n="ant"/><s n="f"/></l><r>Angelika<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
     <e><p><l>Eryka<s n="np"/><s n="ant"/><s n="f"/></l><r>Eryka<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+    <e><p><l>Erika<s n="np"/><s n="ant"/><s n="f"/></l><r>Erika<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
     <e><p><l>Fryderyka<s n="np"/><s n="ant"/><s n="f"/></l><r>Fryderyka<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
     <e><p><l>Ludwika<s n="np"/><s n="ant"/><s n="f"/></l><r>Ludwika<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
     
