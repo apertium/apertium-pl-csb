@@ -10107,6 +10107,9 @@
     <e lm="tak"><i>tak</i><par n="téż__adv"/></e>
     <e lm="òb noc"><i>òb<b/>noc</i><par n="téż__adv"/></e>
     <e lm="dodóm"><i>dodóm</i><par n="téż__adv"/></e>
+    <e lm="òb lato"><i>òb<b/>lato</i><par n="téż__adv"/></e>
+    <e lm="dëcht"><i>dëcht</i><par n="téż__adv"/></e>
+    <e lm="gwës"><i>gwës</i><par n="téż__adv"/></e>
 
     <e lm="I s"><i>I<b/>s</i><par n="téż__adv"/></e>
     <e lm="II s"><i>II<b/>s</i><par n="téż__adv"/></e>
@@ -10336,6 +10339,7 @@
     <e lm="nordowi"><i>nordow</i><par n="zdrojow/i__adj"/></e>
     <e lm="pôłniowi"><i>pôłniow</i><par n="zdrojow/i__adj"/></e>
     <e lm="zôpadny"><i>zôpadn</i><par n="aborcëjn/y__adj"/></e>
+    <e lm="gwësny"><i>gwësn</i><par n="aborcëjn/y__adj"/></e>
     <e lm="wielejãzëkòwi"><i>wielejãzëkòw</i><par n="zdrojow/i__adj"/></e>
     <e lm="archeòlogòwi"><i>archeòlogòw</i><par n="zdrojow/i__adj"/></e>
     <e lm="paleontologòwi"><i>paleontologòw</i><par n="zdrojow/i__adj"/></e>
