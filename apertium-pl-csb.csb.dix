@@ -3023,6 +3023,21 @@
         </p>
       </e>
     </pardef>
+    <pardef n="krót/czi__adj">
+      <e>
+        <p>
+          <l/>
+          <r>czi<s n="adj"/><s n="sint"/></r>
+        </p>
+        <par n="BASE__atlantëcczi"/>
+      </e>
+      <e>
+        <p>
+          <l>kò</l>
+          <r>czi<s n="adj"/><s n="sint"/><s n="cpd"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="wiôl/dżi__adj">
       <e>
         <p>
@@ -3035,6 +3050,21 @@
         <p>
           <l>gò</l>
           <r>dżi<s n="adj"/><s n="cpd"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="dłu/dżi__adj">
+      <e>
+        <p>
+          <l/>
+          <r>dżi<s n="adj"/><s n="sint"/></r>
+        </p>
+        <par n="BASE__wiôldżi"/>
+      </e>
+      <e>
+        <p>
+          <l>gò</l>
+          <r>dżi<s n="adj"/><s n="sint"/><s n="cpd"/></r>
         </p>
       </e>
     </pardef>
@@ -9955,6 +9985,8 @@
     <e lm="azjatëcczi"><i>azjatëc</i><par n="atlantëc/czi__adj"/></e>
     <e lm="amatorsczi"><i>amators</i><par n="atlantëc/czi__adj"/></e>
 
+    <e lm="krótczi"><i>krót</i><par n="krót/czi__adj"/></e>
+    <e lm="dłudżi"><i>dłu</i><par n="dłu/dżi__adj"/></e>
     <e lm="wiôldżi"><i>wiôl</i><par n="wiôl/dżi__adj"/></e>
     <e lm="młodi"><i>młod</i><par n="młod/i__adj"/></e>
     <e lm="dobri"><i>dobr</i><par n="młod/i__adj"/></e>
