@@ -47,8 +47,9 @@
     <e><p><l>że<s n="cnjsub"/></l><r>że<s n="cnjsub"/></r></p></e>
     <e><p><l>żeby<s n="cnjsub"/></l><r>żebë<s n="cnjsub"/></r></p></e>
     <e><p><l>by<s n="cnjsub"/></l><r>bë<s n="cnjsub"/></r></p></e>
-    <e><p><l>bo<s n="cnjsub"/></l><r>bò<s n="cnjsub"/></r></p></e>
-    <e><p><l>jeżeli<s n="cnjsub"/></l><r>jeżle<s n="cnjsub"/></r></p></e>
+    <e><p><l>bo<s n="cnjadv"/></l><r>bò<s n="cnjadv"/></r></p></e>
+    <e><p><l>albo<s n="cnjadv"/></l><r>abò<s n="cnjadv"/></r></p></e>
+    <e><p><l>jeżeli<s n="cnjadv"/></l><r>jeżle<s n="cnjadv"/></r></p></e>
     <e><p><l>co<s n="det"/></l><r>co<s n="det"/></r></p></e>
     <e><p><l>coś<s n="prn"/></l><r>cos<s n="prn"/></r></p></e>
     <e><p><l>kto<s n="prn"/></l><r>chto<s n="prn"/></r></p></e>
@@ -749,6 +750,13 @@
     <e><p><l>etruski<s n="adj"/></l><r>etrusczi<s n="adj"/></r></p></e>
     <e><p><l>fiński<s n="adj"/></l><r>fińsczi<s n="adj"/></r></p></e>
     <e><p><l>francuski<s n="adj"/></l><r>francësczi<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>francuski<s n="adj"/></l><r>frańcësczi<s n="adj"/></r></p></e>
+    <e><p><l>słowacki<s n="adj"/></l><r>słowacczi<s n="adj"/></r></p></e>
+    <e><p><l>litewski<s n="adj"/></l><r>litewsczi<s n="adj"/></r></p></e>
+    <e><p><l>niemiecki<s n="adj"/></l><r>miemiecczi<s n="adj"/></r></p></e>
+    <e><p><l>niderlandzki<s n="adj"/></l><r>néderlandzczi<s n="adj"/></r></p></e>
+    <e><p><l>pomorski<s n="adj"/></l><r>pòmòrsczi<s n="adj"/></r></p></e>
+    <e><p><l>dolnoniemiecki<s n="adj"/></l><r>dólnomiemiecczi<s n="adj"/></r></p></e>
     <e><p><l>friulski<s n="adj"/></l><r>friùlsczi<s n="adj"/></r></p></e>
     <e><p><l>fryzyjski<s n="adj"/></l><r>frizëjsczi<s n="adj"/></r></p></e>
     <e><p><l>galicyjski<s n="adj"/></l><r>galicëjsczi<s n="adj"/></r></p></e>
@@ -791,6 +799,7 @@
     <e><p><l>ormiański<s n="adj"/></l><r>òrmiańsczi<s n="adj"/></r></p></e>
     <e><p><l>perski<s n="adj"/></l><r>persczi<s n="adj"/></r></p></e>
     <e><p><l>polski<s n="adj"/></l><r>pòlsczi<s n="adj"/></r></p></e>
+    <e><p><l>kaszubsko-polski<s n="adj"/></l><r>kaszëbskò-pòlsczi<s n="adj"/></r></p></e>
     <e><p><l>portugalski<s n="adj"/></l><r>pòrtugalsczi<s n="adj"/></r></p></e>
     <e><p><l>pruski<s n="adj"/></l><r>prësczi<s n="adj"/></r></p></e>
     <e><p><l>prowansalski<s n="adj"/></l><r>prowansalsczi<s n="adj"/></r></p></e>

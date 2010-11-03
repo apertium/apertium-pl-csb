@@ -43815,10 +43815,12 @@
     <e lm="niebieski"><i>niebies</i><par n="mors/ki__adj"/></e>
     <e lm="błękitny"><i>błękitn</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="polski"><i>pols</i><par n="pols/ki__adj"/></e>
+    <e lm="kaszubsko-polski"><i>kaszubsko-pols</i><par n="pols/ki__adj"/></e>
     <e lm="czeski"><i>czes</i><par n="pols/ki__adj"/></e>
     <e lm="duński"><i>duńs</i><par n="pols/ki__adj"/></e>
     <e lm="europejski"><i>europejs</i><par n="pols/ki__adj"/></e>
     <e lm="niemiecki"><i>niemiec</i><par n="pols/ki__adj"/></e>
+    <e lm="dolnoniemiecki"><i>dolnoniemiec</i><par n="pols/ki__adj"/></e>
     <e lm="południowosłowiański"><i>południowosłowiańs</i><par n="pols/ki__adj"/></e>
     <e lm="partyzancki"><i>partyzanc</i><par n="mors/ki__adj"/></e>
     <e lm="proletariacki"><i>proletariac</i><par n="mors/ki__adj"/></e>

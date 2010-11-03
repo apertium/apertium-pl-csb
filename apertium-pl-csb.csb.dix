@@ -68,6 +68,7 @@
     
     <sdef n="cnjcoo"/>
     <sdef n="cnjsub"/>
+    <sdef n="cnjadv"/>
     <sdef n="pr"/>
     <sdef n="adj"/>
     <sdef n="sent"/>
@@ -108,6 +109,14 @@
         <p>
           <l/>
           <r><s n="cnjsub"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="bò__cnjadv">
+      <e>
+        <p>
+          <l/>
+          <r><s n="cnjadv"/></r>
         </p>
       </e>
     </pardef>
@@ -9078,9 +9087,9 @@
     <e lm="że"><i>że</i><par n="że__cnjsub"/></e>
     <e lm="żebë"><i>żebë</i><par n="że__cnjsub"/></e>
     <e lm="bë"><i>bë</i><par n="że__cnjsub"/></e>
-    <e lm="bò"><i>bò</i><par n="że__cnjsub"/></e>
-    <e lm="abò"><i>abò</i><par n="że__cnjsub"/></e>
-    <e lm="jeżle"><i>jeżle</i><par n="że__cnjsub"/></e>
+    <e lm="bò"><i>bò</i><par n="bò__cnjadv"/></e>
+    <e lm="abò"><i>abò</i><par n="bò__cnjadv"/></e>
+    <e lm="jeżle"><i>jeżle</i><par n="bò__cnjadv"/></e>
     <e lm="chto"><i></i><par n="chto__prn"/></e>
     <e lm="co"><i></i><par n="co__det"/></e>
     <e lm="chtos"><i></i><par n="chtos__prn"/></e>
