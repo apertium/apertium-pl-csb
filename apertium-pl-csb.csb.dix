@@ -10130,6 +10130,9 @@
     <e lm="czãsto"><i>czãsto</i><par n="chùtkò__adv"/></e>
     <e lm="czãsto"><p><l>czãsczi</l><r>czãsto</r></p><par n="chùtczi__adv"/></e>
     <e lm="czãsto"><p><l>nôczãsczi</l><r>czãsto</r></p><par n="nôchùtczi__adv"/></e>
+    <e lm="dużo"><i>dużo</i><par n="chùtkò__adv"/></e>
+    <e lm="dużo"><p><l>wicy</l><r>dużo</r></p><par n="chùtczi__adv"/></e>
+    <e lm="dużo"><p><l>nôwicy</l><r>dużo</r></p><par n="nôchùtczi__adv"/></e>
     <e lm="chùtkò"><i>chùtko</i><par n="chùtkò__adv"/></e>
     <e lm="chùtkò"><p><l>chùtczi</l><r>chùtko</r></p><par n="chùtczi__adv"/></e>
     <e lm="chùtkò"><p><l>nôchùtczi</l><r>chùtko</r></p><par n="nôchùtczi__adv"/></e>
