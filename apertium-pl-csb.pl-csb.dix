@@ -133,6 +133,8 @@
     <e><p><l>nigdy<s n="adv"/></l><r>nigdë<s n="adv"/></r></p></e>
     <e><p><l>w<b/>domu<s n="adv"/></l><r>doma<s n="adv"/></r></p></e>
     <e><p><l>przede<b/>wszystkim<s n="adv"/></l><r>przede<b/>wszëtczim<s n="adv"/></r></p></e>
+    <e><p><l>nie<s n="adv"/></l><r>nie<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>nie<s n="adv"/></l><r>nié<s n="adv"/></r></p></e>
     <e><p><l>też<s n="adv"/></l><r>téż<s n="adv"/></r></p></e>
     <e><p><l>dzisiaj<s n="adv"/></l><r>dzysô<s n="adv"/></r></p></e>
     <e><p><l>dziś<s n="adv"/></l><r>dzys<s n="adv"/></r></p></e>
@@ -715,6 +717,8 @@
     <e><p><l>Ludwika<s n="np"/><s n="ant"/><s n="f"/></l><r>Ludwika<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
     
     <e><p><l>cudzy<s n="adj"/></l><r>cëzy<s n="adj"/></r></p></e>
+    <e><p><l>cały<s n="adj"/></l><r>całi<s n="adj"/></r></p></e>
+    <e><p><l>mały<s n="adj"/></l><r>małi<s n="adj"/></r></p></e>
     <e><p><l>kulturny<s n="adj"/></l><r>kùlturny<s n="adj"/></r></p></e>
     <e><p><l>popularny<s n="adj"/></l><r>pòpùlarny<s n="adj"/></r></p></e>
     <e><p><l>późny<s n="adj"/></l><r>pózni<s n="adj"/></r></p></e>

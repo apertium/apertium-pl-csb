@@ -7990,11 +7990,11 @@
         <par n="BASE__młodi"/>
       </e>
     </pardef>
-    <pardef n="now/i__adj">
+    <pardef n="cał/i__adj">
       <e>
         <p>
           <l></l>
-          <r>i<s n="adj"/><s n="sint"/></r>
+          <r>i<s n="adj"/></r>
         </p>
         <par n="BASE__młodi"/>
       </e>
@@ -10050,6 +10050,7 @@
     <e lm="dzys"><i>dzys</i><par n="téż__adv"/></e>
     <e lm="przede wszëtczim"><i>przede<b/>wszëtczim</i><par n="téż__adv"/></e>
     <e lm="nie"><i>nie</i><par n="téż__adv"/></e>
+    <e lm="nié"><i>nié</i><par n="téż__adv"/></e>
     <e lm="p.n.e"><i>p.n.e</i><par n="téż__adv"/></e>
     <e lm="p.n.s"><i>p.n.s</i><par n="téż__adv"/></e>
     <e lm="n.s"><i>n.s</i><par n="téż__adv"/></e>
@@ -10288,6 +10289,8 @@
     <e lm="krótczi"><i>krót</i><par n="krót/czi__adj"/></e>
     <e lm="dłudżi"><i>dłu</i><par n="dłu/dżi__adj"/></e>
     <e lm="wiôldżi"><i>wiôl</i><par n="wiôl/dżi__adj"/></e>
+    <e lm="całi"><i>cał</i><par n="cał/i__adj"/></e>
+    <e lm="małi"><i>mał</i><par n="młod/i__adj"/></e>
     <e lm="młodi"><i>młod</i><par n="młod/i__adj"/></e>
     <e lm="dobri"><i>dobr</i><par n="młod/i__adj"/></e>
     <e lm="dobri"><p><l>lepsz</l><r>dobri</r></p><par n="lepsz/i__adj"/></e>
