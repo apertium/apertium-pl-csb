@@ -4379,6 +4379,198 @@
         </p>
       </e>
     </pardef>
+    <pardef n="człowie/k__n">
+      <e>
+        <p>
+          <l>k</l>
+          <r>k<s n="n"/><s n="mp"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ka</l>
+          <r>k<s n="n"/><s n="mp"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kòwi</l>
+          <r>k<s n="n"/><s n="mp"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ka</l>
+          <r>k<s n="n"/><s n="mp"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kã</l>
+          <r>k<s n="n"/><s n="mp"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>kem</l>
+          <r>k<s n="n"/><s n="mp"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cze</l>
+          <r>k<s n="n"/><s n="mp"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>kù</l>
+          <r>k<s n="n"/><s n="mp"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kù</l>
+          <r>k<s n="n"/><s n="mp"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="lëdz/e__n">
+      <e>
+        <p>
+          <l>e</l>
+          <r>e<s n="n"/><s n="mp"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>y</l>
+          <r>e<s n="n"/><s n="mp"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>óm</l>
+          <r>e<s n="n"/><s n="mp"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>y</l>
+          <r>e<s n="n"/><s n="mp"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ach</l>
+          <r>e<s n="n"/><s n="mp"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r>e<s n="n"/><s n="mp"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ama</l>
+          <r>e<s n="n"/><s n="mp"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="slëbni/k__n">
+      <e>
+        <p>
+          <l>k</l>
+          <r>k<s n="n"/><s n="mp"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ka</l>
+          <r>k<s n="n"/><s n="mp"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kòwi</l>
+          <r>k<s n="n"/><s n="mp"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ka</l>
+          <r>k<s n="n"/><s n="mp"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kã</l>
+          <r>k<s n="n"/><s n="mp"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>kem</l>
+          <r>k<s n="n"/><s n="mp"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kù</l>
+          <r>k<s n="n"/><s n="mp"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kù</l>
+          <r>k<s n="n"/><s n="mp"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>czi</l>
+          <r>k<s n="n"/><s n="mp"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ków</l>
+          <r>k<s n="n"/><s n="mp"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kóm</l>
+          <r>k<s n="n"/><s n="mp"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ków</l>
+          <r>k<s n="n"/><s n="mp"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kama</l>
+          <r>k<s n="n"/><s n="mp"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kach</l>
+          <r>k<s n="n"/><s n="mp"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>czi</l>
+          <r>k<s n="n"/><s n="mp"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="pùj/k__n">
       <e>
         <p>
@@ -9343,6 +9535,10 @@
     <e lm="gòdnik"><i>gòdni</i><par n="stëczni/k__n"/></e> <!-- December -->
 
     <e lm="król"><i>król</i><par n="król__n"/></e>
+    <e lm="lëdze"><i>lëdz</i><par n="lëdz/e__n"/></e>
+    <e lm="człowiek"><i>człowie</i><par n="człowie/k__n"/></e>
+    <e lm="slëbnik"><i>slëbni</i><par n="slëbni/k__n"/></e>
+    <e lm="brëkòwnik"><i>brëkòwni</i><par n="slëbni/k__n"/></e>
     <e lm="kaszëba"><i>kaszëb</i><par n="kaszëb/a__n"/></e>
     <e lm="mąż"><i>m</i><par n="m/ąż__n"/></e>
     <e lm="alfabét"><i>alfab</i><par n="alfab/ét__n"/></e>
