@@ -4287,6 +4287,98 @@
         </p>
       </e>
     </pardef>
+    <pardef n="kaszëb/a__n">
+      <e>
+        <p>
+          <l>a</l>
+          <r>a<s n="n"/><s n="mp"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ë</l>
+          <r>a<s n="n"/><s n="mp"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ie</l>
+          <r>a<s n="n"/><s n="mp"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>òwi</l>
+          <r>a<s n="n"/><s n="mp"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ã</l>
+          <r>a<s n="n"/><s n="mp"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ą</l>
+          <r>a<s n="n"/><s n="mp"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ie</l>
+          <r>a<s n="n"/><s n="mp"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ò</l>
+          <r>a<s n="n"/><s n="mp"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r>a<s n="n"/><s n="mp"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ów</l>
+          <r>a<s n="n"/><s n="mp"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>óm</l>
+          <r>a<s n="n"/><s n="mp"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ów</l>
+          <r>a<s n="n"/><s n="mp"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ama</l>
+          <r>a<s n="n"/><s n="mp"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ach</l>
+          <r>a<s n="n"/><s n="mp"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r>a<s n="n"/><s n="mp"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="pùj/k__n">
       <e>
         <p>
@@ -4611,7 +4703,15 @@
         <par n="PBASE__alfabetë"/>
       </e>
     </pardef>
-
+    <pardef n="Kaszëb/ë__np">
+      <e>
+        <p>
+          <l></l>
+          <r>ë<s n="np"/><s n="top"/><s n="mi"/></r>
+        </p>
+        <par n="PBASE__alfabetë"/>
+      </e>
+    </pardef>
     <pardef n="tidzé/ń__n">
       <e>
         <p>
@@ -9243,6 +9343,7 @@
     <e lm="gòdnik"><i>gòdni</i><par n="stëczni/k__n"/></e> <!-- December -->
 
     <e lm="król"><i>król</i><par n="król__n"/></e>
+    <e lm="kaszëba"><i>kaszëb</i><par n="kaszëb/a__n"/></e>
     <e lm="mąż"><i>m</i><par n="m/ąż__n"/></e>
     <e lm="alfabét"><i>alfab</i><par n="alfab/ét__n"/></e>
     <e lm="robòta"><i>robò</i><par n="sobò/ta__n"/></e>
@@ -9659,6 +9760,7 @@
     <e lm="technika" c="guess"><i>techni</i><par n="apté/ka__n"/></e>
     <e lm="turistika" c="guess"><i>turisti</i><par n="apté/ka__n"/></e>
     <e lm="Amerika" c="guess"><i>Ameri</i><par n="Ameri/ka__np"/></e>
+    <e lm="Kaszëbë"><i>Kaszëb</i><par n="Kaszëb/ë__np"/></e>
     <e lm="Monika" c="guess"><i>Moni</i><par n="Domini/ka__np"/></e>
     <e lm="Dominika" c="guess"><i>Domini</i><par n="Domini/ka__np"/></e>
     <e lm="Weronika"><i>Weroni</i><par n="Domini/ka__np"/></e>
@@ -9936,6 +10038,7 @@
     <e lm="pandżabsczi"><i>pandżabs</i><par n="kaszëbs/czi__adj"/></e>
     <e lm="persczi"><i>pers</i><par n="kaszëbs/czi__adj"/></e>
     <e lm="pòlsczi"><i>pòls</i><par n="kaszëbs/czi__adj"/></e>
+    <e lm="prusczi"><i>prus</i><par n="kaszëbs/czi__adj"/></e>
     <e lm="pòrtugalsczi"><i>pòrtugals</i><par n="kaszëbs/czi__adj"/></e>
     <e lm="prësczi"><i>prës</i><par n="kaszëbs/czi__adj"/></e>
     <e lm="prowansalsczi"><i>prowansals</i><par n="kaszëbs/czi__adj"/></e>
@@ -9978,6 +10081,7 @@
     <e lm="aùstralëjsczi"><i>aùstralëjs</i><par n="kaszëbs/czi__adj"/></e>
     <e lm="dólnołużëcczi"><i>dólnołużëc</i><par n="kaszëbs/czi__adj"/></e>
     <e lm="amerikańsczi"><i>amerikańs</i><par n="kaszëbs/czi__adj"/></e>
+    <e lm="małopolsczi"><i>małopols</i><par n="kaszëbs/czi__adj"/></e>
 
     <e lm="atlantëcczi"><i>atlantëc</i><par n="atlantëc/czi__adj"/></e>
     <e lm="akademicczi"><i>akademic</i><par n="atlantëc/czi__adj"/></e>

@@ -43823,6 +43823,7 @@
     <e lm="dolnoniemiecki"><i>dolnoniemiec</i><par n="pols/ki__adj"/></e>
     <e lm="południowosłowiański"><i>południowosłowiańs</i><par n="pols/ki__adj"/></e>
     <e lm="bałtosłowiański"><i>bałtosłowiańs</i><par n="pols/ki__adj"/></e>
+    <e lm="pruski"><i>prus</i><par n="pols/ki__adj"/></e>
     <e lm="partyzancki"><i>partyzanc</i><par n="mors/ki__adj"/></e>
     <e lm="proletariacki"><i>proletariac</i><par n="mors/ki__adj"/></e>
     <e lm="aramejski"><i>aramejs</i><par n="pols/ki__adj"/></e>
@@ -52700,6 +52701,7 @@
     <e lm="filozof"><i>filozof</i><par n="astronom__n"/></e>
     <e lm="kuzyn"><i>kuzyn</i><par n="astronom__n"/></e>
     <e lm="szef"><i>szef</i><par n="astronom__n"/></e>
+    <e lm="kaszub"><i>kaszub</i><par n="astronom__n"/></e>
     <e lm="pornograf"><i>pornograf</i><par n="astronom__n"/></e>
     <e lm="ojczym"><i>ojczym</i><par n="astronom__n"/></e>
     <e lm="kretyn"><i>kretyn</i><par n="kretyn__n"/></e>
@@ -55097,6 +55099,7 @@
     <e lm="Izerka"><i>Izer</i><par n="Pols/ka__np"/></e>
     <e lm="Afryka"><i>Afry</i><par n="Pols/ka__np"/></e>
     <e lm="Czechy"><i>Czech</i><par n="Czech/y__np"/></e>
+    <e lm="Kaszuby" c="check gender"><i>Kaszub</i><par n="Czech/y__np"/></e>
     <e lm="Prusy"><i>Prus</i><par n="Czech/y__np"/></e>
     <e lm="Niemcy"><i>Niem</i><par n="Niem/cy__np"/></e>
     <e lm="Włochy"><i>Wło</i><par n="Wło/chy__np"/></e>
