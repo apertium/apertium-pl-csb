@@ -1502,6 +1502,22 @@
         </p>
       </e>
     </pardef>
+    <pardef n="km__n">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="mi"/><s n="sp"/><s n="indecl"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="os__n">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="f"/><s n="sp"/><s n="indecl"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="Britney__np">
       <e>
         <p>
@@ -41249,11 +41265,12 @@
     <e lm="m.in."><i>m.in.</i><par n="np__abbr"/></e>
     <e lm="m.in." r="LR"><p><l>m.in</l><r>m.in.</r></p><par n="np__abbr"/></e>
     <e lm="tj"><i>tj</i><par n="np__abbr"/></e>
-    <e lm="km"><i>km</i><par n="np__abbr"/></e>
-    <e lm="kg"><i>kg</i><par n="np__abbr"/></e>
-    <e lm="cm"><i>cm</i><par n="np__abbr"/></e>
-    <e lm="nr"><i>nr</i><par n="np__abbr"/></e>
-    <e lm="św"><i>św</i><par n="np__abbr"/></e>
+    <e lm="km"><i>km</i><par n="km__n"/></e>
+    <e lm="kg"><i>kg</i><par n="km__n"/></e>
+    <e lm="cm"><i>cm</i><par n="km__n"/></e>
+    <e lm="nr"><i>nr</i><par n="km__n"/></e>
+    <e lm="św"><i>św</i><par n="km__n"/></e>
+    <e lm="os"><i>os</i><par n="os__n"/></e>
     <e lm="mln"><i>mln</i><par n="np__abbr"/></e>
     <e lm="mld"><i>mld</i><par n="np__abbr"/></e>
     <e lm="inż"><i>inż</i><par n="np__abbr"/></e>

@@ -192,6 +192,22 @@
 	</p>
       </e>
     </pardef>
+    <pardef n="km__n">
+      <e>
+        <p>
+	  <l></l>
+	  <r><s n="n"/><s n="mi"/><s n="sp"/><s n="indecl"/></r>
+	</p>
+      </e>
+    </pardef>
+    <pardef n="ôs__n">
+      <e>
+        <p>
+	  <l></l>
+	  <r><s n="n"/><s n="f"/><s n="sp"/><s n="indecl"/></r>
+	</p>
+      </e>
+    </pardef>
     <pardef n="numeros">
       <e>
         <i>1</i>
@@ -5049,102 +5065,120 @@
         </p>
       </e>
     </pardef>
-    <pardef n="jãzë/k__n">
+    <pardef n="BASE__jãzëk">
       <e>
         <p>
           <l>k</l>
-          <r>k<s n="n"/><s n="mi"/><s n="sg"/><s n="nom"/></r>
+          <r><s n="mi"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ka</l>
-          <r>k<s n="n"/><s n="mi"/><s n="sg"/><s n="gen"/></r>
+          <r><s n="mi"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>kù</l>
-          <r>k<s n="n"/><s n="mi"/><s n="sg"/><s n="gen"/></r>
+          <r><s n="mi"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>kòwi</l>
-          <r>k<s n="n"/><s n="mi"/><s n="sg"/><s n="dat"/></r>
+          <r><s n="mi"/><s n="sg"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>k</l>
-          <r>k<s n="n"/><s n="mi"/><s n="sg"/><s n="acc"/></r>
+          <r><s n="mi"/><s n="sg"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>kã</l>
-          <r>k<s n="n"/><s n="mi"/><s n="sg"/><s n="ins"/></r>
+          <r><s n="mi"/><s n="sg"/><s n="ins"/></r>
         </p>
       </e>
       <e r="LR">
         <p>
           <l>kem</l>
-          <r>k<s n="n"/><s n="mi"/><s n="sg"/><s n="ins"/></r>
+          <r><s n="mi"/><s n="sg"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>kù</l>
-          <r>k<s n="n"/><s n="mi"/><s n="sg"/><s n="loc"/></r>
+          <r><s n="mi"/><s n="sg"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>kù</l>
-          <r>k<s n="n"/><s n="mi"/><s n="sg"/><s n="voc"/></r>
+          <r><s n="mi"/><s n="sg"/><s n="voc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>czi</l>
-          <r>k<s n="n"/><s n="mi"/><s n="pl"/><s n="nom"/></r>
+          <r><s n="mi"/><s n="pl"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ków</l>
-          <r>k<s n="n"/><s n="mi"/><s n="pl"/><s n="gen"/></r>
+          <r><s n="mi"/><s n="pl"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>kóm</l>
-          <r>k<s n="n"/><s n="mi"/><s n="pl"/><s n="dat"/></r>
+          <r><s n="mi"/><s n="pl"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>czi</l>
-          <r>k<s n="n"/><s n="mi"/><s n="pl"/><s n="acc"/></r>
+          <r><s n="mi"/><s n="pl"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>kama</l>
-          <r>k<s n="n"/><s n="mi"/><s n="pl"/><s n="ins"/></r>
+          <r><s n="mi"/><s n="pl"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>kach</l>
-          <r>k<s n="n"/><s n="mi"/><s n="pl"/><s n="loc"/></r>
+          <r><s n="mi"/><s n="pl"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>czi</l>
-          <r>k<s n="n"/><s n="mi"/><s n="pl"/><s n="voc"/></r>
+          <r><s n="mi"/><s n="pl"/><s n="voc"/></r>
         </p>
+      </e>
+    </pardef>
+    <pardef n="jãzë/k__n">
+      <e>
+        <p>
+          <l></l>
+          <r>k<s n="n"/></r>
+        </p>
+        <par n="BASE__jãzëk"/>
+      </e>
+    </pardef>
+    <pardef n="Gduńs/k__np">
+      <e>
+        <p>
+          <l></l>
+          <r>k<s n="np"/><s n="top"/></r>
+        </p>
+        <par n="BASE__jãzëk"/>
       </e>
     </pardef>
     <pardef n="łżëkwiô/t__n">
@@ -9527,6 +9561,7 @@
     <e lm="tidzéń"><i>tidzé</i><par n="tidzé/ń__n"/></e> <!-- week -->
     <e lm="inżinér"><i>inżinér</i><par n="inżinér__n"/></e>
     <e lm="jãzëk"><i>jãzë</i><par n="jãzë/k__n"/></e>
+    <e lm="Gduńsk"><i>Gduńs</i><par n="Gduńs/k__np"/></e>
 
     <!-- months -->
     <e lm="stëcznik"><i>stëczni</i><par n="stëczni/k__n"/></e> <!-- January -->
@@ -9992,6 +10027,12 @@
     <e lm="miono"><i>mion</i><par n="mion/o__n"/></e>
     <e lm="karno"><i>karn</i><par n="mion/o__n"/></e>
     <e lm="wiki"><i>wiki</i><par n="wiki__n"/></e>
+    <e lm="km"><i>km</i><par n="km__n"/></e>
+    <e lm="kg"><i>kg</i><par n="km__n"/></e>
+    <e lm="cm"><i>cm</i><par n="km__n"/></e>
+    <e lm="nr"><i>nr</i><par n="km__n"/></e>
+    <e lm="sw"><i>sw</i><par n="km__n"/></e>
+    <e lm="dr"><i>dr</i><par n="km__n"/></e>
 
     <e lm="Pòlskô"><i>Pòls</i><par n="Pòls/kô__np"/></e>
     <e lm="Ruskô"><i>Rus</i><par n="Pòls/kô__np"/></e>
