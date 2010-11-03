@@ -10,6 +10,7 @@
     <sdef n="sint"/>
     <sdef n="cnjcoo"/>
     <sdef n="cnjsub"/>
+    <sdef n="cnjadv"/>
     <sdef n="pr"/>
     <sdef n="n"/>
     <sdef n="np"/>
