@@ -184,6 +184,14 @@
 	</p>
       </e>
     </pardef>
+    <pardef n="wiki__n">
+      <e>
+        <p>
+	  <l></l>
+	  <r><s n="n"/><s n="nt"/><s n="sp"/><s n="indecl"/></r>
+	</p>
+      </e>
+    </pardef>
     <pardef n="numeros">
       <e>
         <i>1</i>
@@ -9956,7 +9964,11 @@
     <e lm="statistika" c="guess"><i>statisti</i><par n="apté/ka__n"/></e>
     <e lm="technika" c="guess"><i>techni</i><par n="apté/ka__n"/></e>
     <e lm="turistika" c="guess"><i>turisti</i><par n="apté/ka__n"/></e>
+    <e lm="gramatika" c="guess"><i>gramati</i><par n="apté/ka__n"/></e>
+    <e lm="kritika" c="guess"><i>kriti</i><par n="apté/ka__n"/></e>
+    <e lm="pòlemika" c="guess"><i>pòlemik</i><par n="apté/ka__n"/></e>
     <e lm="Amerika" c="guess"><i>Ameri</i><par n="Ameri/ka__np"/></e>
+    <e lm="Afrika" c="guess"><i>Afri</i><par n="Ameri/ka__np"/></e>
     <e lm="Kaszëbë"><i>Kaszëb</i><par n="Kaszëb/ë__np"/></e>
     <e lm="Monika" c="guess"><i>Moni</i><par n="Domini/ka__np"/></e>
     <e lm="Dominika" c="guess"><i>Domini</i><par n="Domini/ka__np"/></e>
@@ -9979,6 +9991,7 @@
     <e lm="abecadło"><i>abecad</i><par n="abecad/ło__n"/></e>
     <e lm="miono"><i>mion</i><par n="mion/o__n"/></e>
     <e lm="karno"><i>karn</i><par n="mion/o__n"/></e>
+    <e lm="wiki"><i>wiki</i><par n="wiki__n"/></e>
 
     <e lm="Pòlskô"><i>Pòls</i><par n="Pòls/kô__np"/></e>
     <e lm="Ruskô"><i>Rus</i><par n="Pòls/kô__np"/></e>

@@ -1494,6 +1494,14 @@
     </pardef>
 
 	<!-- Nouns -->
+    <pardef n="whisky__n">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="sp"/><s n="indecl"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="Britney__np">
       <e>
         <p>
@@ -52692,6 +52700,7 @@
     <e lm="szkło"><i>szk</i><par n="szk/ło__n"/></e>
     <e lm="ziele"><i>zi</i><par n="zi/ele__n"/></e>
     <e lm="źródło"><i>źród</i><par n="źród/ło__n"/></e>
+    <e lm="wiki"><i>wiki</i><par n="whisky__n"/></e>
     <e lm="światło"><i>świ</i><par n="świ/atło__n"/></e>
     <e lm="zwierzę"><i>zwierz</i><par n="zwierz/ę__n"/></e>
     <e lm="cielę"><i>ciel</i><par n="zwierz/ę__n"/></e>

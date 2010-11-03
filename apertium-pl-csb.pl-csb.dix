@@ -276,6 +276,10 @@
     <e><p><l>etymologia<s n="n"/><s n="f"/></l><r>etimòlogijô<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kultura<s n="n"/><s n="f"/></l><r>kùltura<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>subkultura<s n="n"/><s n="f"/></l><r>subkùltura<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>gramatyka<s n="n"/><s n="f"/></l><r>gramatika<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>krytyka<s n="n"/><s n="f"/></l><r>kritika<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>polemika<s n="n"/><s n="f"/></l><r>pòlemika<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>wiki<s n="n"/><s n="nt"/></l><r>wiki<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>ceramika<s n="n"/><s n="f"/></l><r>keramika<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>ceramika<s n="n"/><s n="f"/></l><r>ceramika<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ząb<s n="n"/><s n="mi"/></l><r>ząb<s n="n"/><s n="mi"/></r></p></e>
@@ -713,6 +717,7 @@
     <e><p><l>Litwa<s n="np"/><s n="top"/><s n="f"/></l><r>Lëtewskô<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Macedonia<s n="np"/><s n="top"/><s n="f"/></l><r>Macedońskô<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Ameryka<s n="np"/><s n="top"/><s n="f"/></l><r>Amerika<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Afryka<s n="np"/><s n="top"/><s n="f"/></l><r>Afrika<s n="np"/><s n="top"/><s n="f"/></r></p></e>
 
     <e><p><l>Monika<s n="np"/><s n="ant"/><s n="f"/></l><r>Monika<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
     <e><p><l>Dominika<s n="np"/><s n="ant"/><s n="f"/></l><r>Dominika<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
