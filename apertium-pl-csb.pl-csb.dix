@@ -21,7 +21,6 @@
     <sdef n="nt"/>
     <sdef n="f"/>
     <sdef n="adj"/>
-    <sdef n="sint"/>
     <sdef n="vbser"/>
     <sdef n="vblex"/>
     <sdef n="vbhaver"/>
@@ -34,7 +33,6 @@
     <sdef n="sp"/>
     <sdef n="ord"/>
   </sdefs>
-  <pardefs/>
 
   <section id="main" type="standard">
     <e><p><l>i<s n="cnjcoo"/></l><r>ë<s n="cnjcoo"/></r></p></e>

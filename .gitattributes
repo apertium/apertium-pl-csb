@@ -1,21 +1,31 @@
 * text=auto !eol
+/AUTHORS -text
 /COPYING -text
 /ChangeLog -text
 /Makefile.am -text
+/NEWS -text
 /README -text
 /apertium-pl-csb.csb-pl.t1x -text
 /apertium-pl-csb.csb-pl.t2x -text
 /apertium-pl-csb.csb-pl.t3x -text
+/apertium-pl-csb.csb.acx -text
 /apertium-pl-csb.csb.dix -text
 /apertium-pl-csb.csb.tsx -text
 /apertium-pl-csb.pl-csb.dix -text
+/apertium-pl-csb.pl-csb.t1x -text
+/apertium-pl-csb.pl-csb.t2x -text
+/apertium-pl-csb.pl-csb.t3x -text
+/apertium-pl-csb.pl.acx -text
 /apertium-pl-csb.pl.dix -text
 /apertium-pl-csb.pl.tsx -text
 /apertium-pl-csb.post-csb.dix -text
 /apertium-pl-csb.post-pl.dix -text
 /autogen.sh -text
+/configure.ac -text
+/csb-pl.prob -text
 dev/csb.list -text
 dev/extract-lemma-and-surface.pl -text
 dev/incomplete-paradigms/pisanie -text
 dev/unigrams -text
 /modes.xml -text
+/pl-csb.prob -text svneol=unset#unset
