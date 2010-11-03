@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modes>
+  <mode name="pl-csb" install="yes">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="pl-csb.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="pl-csb.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer">
+        <file name="apertium-pl-csb.pl-csb.t1x"/>
+        <file name="pl-csb.t1x.bin"/>
+        <file name="pl-csb.autobil.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-pl-csb.pl-csb.t2x"/>
+        <file name="pl-csb.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-pl-csb.pl-csb.t3x"/>
+        <file name="pl-csb.t3x.bin"/>
+      </program>
+      <program name="lt-proc $1">
+        <file name="pl-csb.autogen.bin"/>
+      </program>
+      <program name="lt-proc -p">
+        <file name="pl-csb.autopgen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="pl-csb-anmor">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="pl-csb.automorf.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="pl-csb-tagger">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="pl-csb.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="pl-csb.prob"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="pl-csb-pretransfer">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="pl-csb.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="pl-csb.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+    </pipeline>
+  </mode>
+
+  <mode name="pl-csb-chunker">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="pl-csb.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="pl-csb.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer">
+        <file name="apertium-pl-csb.pl-csb.t1x"/>
+        <file name="pl-csb.t1x.bin"/>
+        <file name="pl-csb.autobil.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+  
+  <mode name="pl-csb-interchunk">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="pl-csb.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="pl-csb.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer">
+        <file name="apertium-pl-csb.pl-csb.t1x"/>
+        <file name="pl-csb.t1x.bin"/>
+        <file name="pl-csb.autobil.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-pl-csb.pl-csb.t2x"/>
+        <file name="pl-csb.t2x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="pl-csb-postchunk">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="pl-csb.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="pl-csb.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer">
+        <file name="apertium-pl-csb.pl-csb.t1x"/>
+        <file name="pl-csb.t1x.bin"/>
+        <file name="pl-csb.autobil.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-pl-csb.pl-csb.t2x"/>
+        <file name="pl-csb.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-pl-csb.pl-csb.t3x"/>
+        <file name="pl-csb.t3x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="pl-csb-generador">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="pl-csb.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="pl-csb.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer">
+        <file name="apertium-pl-csb.pl-csb.t1x"/>
+        <file name="pl-csb.t1x.bin"/>
+        <file name="pl-csb.autobil.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-pl-csb.pl-csb.t2x"/>
+        <file name="pl-csb.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-pl-csb.pl-csb.t3x"/>
+        <file name="pl-csb.t3x.bin"/>
+      </program>
+      <program name="lt-proc $1">
+        <file name="pl-csb.autogen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+  
+
+  
+  <mode name="csb-pl" install="yes">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="csb-pl.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="csb-pl.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer">
+        <file name="apertium-pl-csb.csb-pl.t1x"/>
+        <file name="csb-pl.t1x.bin"/>
+        <file name="csb-pl.autobil.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-pl-csb.csb-pl.t2x"/>
+        <file name="csb-pl.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-pl-csb.csb-pl.t3x"/>
+        <file name="csb-pl.t3x.bin"/>
+      </program>
+      <program name="lt-proc $1">
+        <file name="csb-pl.autogen.bin"/>
+      </program>
+      <program name="lt-proc -p">
+        <file name="csb-pl.autopgen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="csb-pl-anmor">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="csb-pl.automorf.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="csb-pl-tagger">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="csb-pl.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="csb-pl.prob"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="csb-pl-pretransfer">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="csb-pl.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="csb-pl.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+    </pipeline>
+  </mode>
+
+  <mode name="csb-pl-chunker">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="csb-pl.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="csb-pl.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer">
+        <file name="apertium-pl-csb.csb-pl.t1x"/>
+        <file name="csb-pl.t1x.bin"/>
+        <file name="csb-pl.autobil.bin"/>
+      </program>
+    </pipeline>
+  </mode>                
+                                          
+  <mode name="csb-pl-interchunk">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="csb-pl.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="csb-pl.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer">
+        <file name="apertium-pl-csb.csb-pl.t1x"/>
+        <file name="csb-pl.t1x.bin"/>
+        <file name="csb-pl.autobil.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-pl-csb.csb-pl.t2x"/>
+        <file name="csb-pl.t2x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="csb-pl-postchunk">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="csb-pl.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="csb-pl.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer">
+        <file name="apertium-pl-csb.csb-pl.t1x"/>
+        <file name="csb-pl.t1x.bin"/>
+        <file name="csb-pl.autobil.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-pl-csb.csb-pl.t2x"/>
+        <file name="csb-pl.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-pl-csb.csb-pl.t3x"/>
+        <file name="csb-pl.t3x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="csb-pl-generador">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="csb-pl.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="csb-pl.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer">
+        <file name="apertium-pl-csb.csb-pl.t1x"/>
+        <file name="csb-pl.t1x.bin"/>
+        <file name="csb-pl.autobil.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-pl-csb.csb-pl.t2x"/>
+        <file name="csb-pl.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-pl-csb.csb-pl.t3x"/>
+        <file name="csb-pl.t3x.bin"/>
+      </program>
+      <program name="lt-proc $1">
+        <file name="csb-pl.autogen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+    
+
+</modes>

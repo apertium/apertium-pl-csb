@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interchunk>
+
+  <section-def-cats>
+    <def-cat n="PRNPERS">
+      <cat-item tags="SN.subj.*"/>
+      <cat-item tags="SN.obj.*"/>
+    </def-cat>
+    <def-cat n="PREP">
+      <cat-item tags="PREP"/>
+      <cat-item tags="PREP.*"/>
+    </def-cat>
+    <def-cat n="SN">
+      <cat-item tags="SN"/>
+      <cat-item tags="SN.*"/>
+    </def-cat>
+    <def-cat n="SV">
+      <cat-item tags="SV"/>
+      <cat-item tags="SV.*"/>
+    </def-cat>
+    <def-cat n="SVNEG">
+      <cat-item tags="SV.NEG"/>
+      <cat-item tags="SV.NEG.*"/>
+    </def-cat>
+    <def-cat n="SA">
+      <cat-item tags="SA"/>
+      <cat-item tags="SA.*"/>
+    </def-cat>
+    <def-cat n="ADV">
+      <cat-item tags="ADV"/>
+      <cat-item tags="ADV.*"/>
+    </def-cat>
+    <def-cat n="NUM">
+      <cat-item tags="NUM"/>
+      <cat-item tags="NUM.*"/>
+    </def-cat>
+    <def-cat n="DET">
+      <cat-item tags="DET"/>
+      <cat-item tags="DET.*"/>
+    </def-cat>
+    <def-cat n="PRN">
+      <cat-item tags="PRN"/>
+      <cat-item tags="PRN.*"/>
+    </def-cat>
+    <def-cat n="JE">
+      <cat-item tags="JE"/>
+    </def-cat>
+    <def-cat n="NENI">
+      <cat-item tags="NENI"/>
+    </def-cat>
+  </section-def-cats>
+
+  <section-def-attrs>
+    <def-attr n="a_verb">
+      <attr-item tags="vblex"/>
+      <attr-item tags="vaux"/>
+    </def-attr>
+    <def-attr n="a_nom">
+      <attr-item tags="n"/>
+      <attr-item tags="n.acr"/>
+      <attr-item tags="n.unc"/>
+      <attr-item tags="np.top"/>
+      <attr-item tags="np.ant"/>
+    </def-attr>
+    <def-attr n="tipus_prn">
+      <attr-item tags="subj"/>
+      <attr-item tags="obj"/>
+    </def-attr>
+    <def-attr n="a_adj">
+      <attr-item tags="adj"/>
+      <attr-item tags="adj.sint"/>
+      <attr-item tags="adj.sint.comp"/>
+      <attr-item tags="adj.sint.sup"/>
+    </def-attr>
+    <def-attr n="temps">
+      <attr-item tags="inf"/>
+      <attr-item tags="past"/>
+      <attr-item tags="pres"/>
+      <attr-item tags="pri"/>
+    </def-attr>
+    <def-attr n="nbr">
+      <attr-item tags="sg"/>
+      <attr-item tags="pl"/>
+      <attr-item tags="sp"/>
+      <attr-item tags="ND"/>
+    </def-attr>
+    <def-attr n="pers">
+      <attr-item tags="p1"/>
+      <attr-item tags="p2"/>
+      <attr-item tags="p3"/>
+      <attr-item tags="PD"/>
+    </def-attr>
+    <def-attr n="gnr">
+      <attr-item tags="m"/>
+      <attr-item tags="mp"/>
+      <attr-item tags="ma"/>
+      <attr-item tags="mi"/>
+      <attr-item tags="f"/>
+      <attr-item tags="nt"/>
+      <attr-item tags="GD"/>
+    </def-attr>
+    <def-attr n="cas">
+       <attr-item tags="nom"/>
+       <attr-item tags="gen"/>
+       <attr-item tags="dat"/>
+       <attr-item tags="acc"/>
+       <attr-item tags="ins"/>
+       <attr-item tags="loc"/>
+       <attr-item tags="voc"/>
+       <attr-item tags="CD"/>
+       <attr-item tags="indecl"/>
+    </def-attr>
+  </section-def-attrs>
+
+  <section-def-vars>
+    <def-var n="numero"/>
+  </section-def-vars>
+
+  <section-def-lists>
+    <def-list n="gen_prep">
+      <list-item v="do"/>
+      <list-item v="dla"/>
+      <list-item v="dookoła"/>
+      <list-item v="podczas"/>
+      <list-item v="mimo"/>
+      <list-item v="pomimo"/>
+      <list-item v="według"/>
+      <list-item v="wedle"/>
+      <list-item v="niedaleko"/>
+      <list-item v="zamiast"/>
+      <list-item v="w czasie"/>
+      <list-item v="w trakcie"/>
+      <list-item v="w przeciągu"/>
+    </def-list>
+    <def-list n="dat_prep">
+      <list-item v="ku"/>
+      <list-item v="dzięki"/>
+      <list-item v="wbrew"/>
+      <list-item v="przeciw"/>
+      <list-item v="przeciwko"/>
+    </def-list>
+    <def-list n="ins_prep">
+      <list-item v="między"/>
+    </def-list>
+    <def-list n="insacc_prep">
+      <list-item v="nad"/>
+      <list-item v="pod"/>
+      <list-item v="przed"/>
+    </def-list>
+    <def-list n="locacc_prep">
+      <list-item v="o"/>
+      <list-item v="w"/>
+      <list-item v="na"/>
+    </def-list>
+  </section-def-lists>
+
+  <section-def-macros>
+    <def-macro n="set_number" npar="1">
+      <choose>
+        <when>
+          <test>
+            <equal>
+              <clip pos="1" part="nbr"/>
+              <lit-tag v="ND"/>
+            </equal>
+          </test> 
+          <let>
+              <clip pos="1" part="nbr"/>
+              <lit-tag v="sg"/>
+          </let>
+        </when>
+      </choose>
+    </def-macro>
+  </section-def-macros>
+
+  <section-rules>
+
+    <rule comment="REGLA: JE">
+      <pattern>
+        <pattern-item n="JE"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk>
+            <lit v="być"/>
+			<lit-tag v="SV.pres.p3.sg"/>
+			<lit v="{^"/>
+            <lit v="być"/>
+            <lit-tag v="vbser.2.3.4"/>
+			<lit v="$}"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="REGLA: SN">
+      <pattern>
+        <pattern-item n="SN"/>
+      </pattern>
+      <action>
+        <call-macro n="set_number">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk>
+            <clip pos="1" part="lemh"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+            <clip pos="1" part="lemq"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <!-- Craaaaaaaaaaaaaaaap! Stupid crap to handle the situation at hand, fix/delete later -->
+    <rule comment="REGLA: SN SV">
+      <pattern>
+        <pattern-item n="SN"/>
+        <pattern-item n="SV"/>
+      </pattern>
+      <action>
+        <choose>
+          <when>
+            <test>
+              <equal>
+                <clip pos="1" part="cas"/>
+                <lit-tag v="nom"/>
+              </equal>
+            </test>
+            <let>
+              <clip pos="2" part="gnr"/>
+              <clip pos="1" part="gnr"/>
+            </let>
+          </when>
+        </choose>
+        <out>
+          <chunk>
+            <clip pos="1" part="lemh"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+            <clip pos="1" part="lemq"/>
+          </chunk>
+          <b pos="1"/>
+          <chunk>
+            <clip pos="2" part="lemh"/>
+            <clip pos="2" part="tags"/>
+            <clip pos="2" part="chcontent"/>
+            <clip pos="2" part="lemq"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="REGLA: SA SN">
+      <pattern>
+        <pattern-item n="SA"/>
+        <pattern-item n="SN"/>
+      </pattern>
+      <action>
+        <let>
+          <clip pos="1" part="gnr"/>
+          <clip pos="2" part="gnr"/>
+        </let>
+        <let>
+          <clip pos="1" part="cas"/>
+          <clip pos="2" part="cas"/>
+        </let>
+        <let>
+          <clip pos="1" part="nbr"/>
+          <clip pos="2" part="nbr"/>
+        </let>
+        <out>
+          <chunk>
+            <clip pos="1" part="lemh"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+            <clip pos="1" part="lemq"/>
+          </chunk>
+          <b pos="1"/>
+          <chunk>
+            <clip pos="2" part="lemh"/>
+            <clip pos="2" part="tags"/>
+            <clip pos="2" part="chcontent"/>
+            <clip pos="2" part="lemq"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="REGLA: DET SN">
+      <pattern>
+        <pattern-item n="DET"/>
+        <pattern-item n="SN"/>
+      </pattern>
+      <action>
+        <let>
+          <clip pos="1" part="gnr"/>
+          <clip pos="2" part="gnr"/>
+        </let>
+        <let>
+          <clip pos="1" part="nbr"/>
+          <clip pos="2" part="nbr"/>
+        </let>
+        <let>
+          <clip pos="1" part="cas"/>
+          <clip pos="2" part="cas"/>
+        </let>
+        <out>
+          <chunk>
+            <clip pos="1" part="lemh"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+            <clip pos="1" part="lemq"/>
+          </chunk>
+          <b/>
+          <chunk>
+            <clip pos="2" part="lemh"/>
+            <clip pos="2" part="tags"/>
+            <clip pos="2" part="chcontent"/>
+            <clip pos="2" part="lemq"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="REGLA: SVNEG SN">
+      <pattern>
+        <pattern-item n="SVNEG"/>
+        <pattern-item n="SN"/>
+      </pattern>
+      <action>
+        <let>
+          <clip pos="2" part="cas"/>
+          <lit-tag v="gen"/>
+        </let>
+        <out>
+          <chunk>
+            <clip pos="1" part="lemh"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+            <clip pos="1" part="lemq"/>
+          </chunk>
+          <b pos="1"/>
+          <chunk>
+            <clip pos="2" part="lemh"/>
+            <clip pos="2" part="tags"/>
+            <clip pos="2" part="chcontent"/>
+            <clip pos="2" part="lemq"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <!--nemohl změnit svůj život -> nie mógł zmienić swojego życia -->
+    <rule comment="REGLA: SVNEG SV SN">
+      <pattern>
+        <pattern-item n="SVNEG"/>
+        <pattern-item n="SV"/>
+        <pattern-item n="SN"/>
+      </pattern>
+      <action>
+        <let>
+          <clip pos="3" part="cas"/>
+          <lit-tag v="gen"/>
+        </let>
+        <out>
+          <chunk>
+            <clip pos="1" part="lemh"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+            <clip pos="1" part="lemq"/>
+          </chunk>
+          <b pos="1"/>
+          <chunk>
+            <clip pos="2" part="lemh"/>
+            <clip pos="2" part="tags"/>
+            <clip pos="2" part="chcontent"/>
+            <clip pos="2" part="lemq"/>
+          </chunk>
+          <b pos="2"/>
+          <chunk>
+            <clip pos="3" part="lemh"/>
+            <clip pos="3" part="tags"/>
+            <clip pos="3" part="chcontent"/>
+            <clip pos="3" part="lemq"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+	
+	<!-- Nedávej mi to. -> Nie dawaj mi tego -->
+    <rule comment="REGLA: SVNEG PRN DET">
+      <pattern>
+        <pattern-item n="SVNEG"/>
+        <pattern-item n="PRN"/>
+        <pattern-item n="DET"/>
+      </pattern>
+      <action>
+        <let>
+          <clip pos="3" part="cas"/>
+          <lit-tag v="gen"/>
+        </let>
+        <out>
+          <chunk>
+            <clip pos="1" part="lemh"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+            <clip pos="1" part="lemq"/>
+          </chunk>
+          <b pos="1"/>
+          <chunk>
+            <clip pos="2" part="lemh"/>
+            <clip pos="2" part="tags"/>
+            <clip pos="2" part="chcontent"/>
+            <clip pos="2" part="lemq"/>
+          </chunk>
+          <b pos="2"/>
+          <chunk>
+            <clip pos="3" part="lemh"/>
+            <clip pos="3" part="tags"/>
+            <clip pos="3" part="chcontent"/>
+            <clip pos="3" part="lemq"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+	<!-- Nedávej mi naděje. -> Nie dawaj mi nadziei -->
+    <rule comment="REGLA: SVNEG PRN SN">
+      <pattern>
+        <pattern-item n="SVNEG"/>
+        <pattern-item n="PRN"/>
+        <pattern-item n="SN"/>
+      </pattern>
+      <action>
+        <let>
+          <clip pos="3" part="cas"/>
+          <lit-tag v="gen"/>
+        </let>
+        <out>
+          <chunk>
+            <clip pos="1" part="lemh"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+            <clip pos="1" part="lemq"/>
+          </chunk>
+          <b pos="1"/>
+          <chunk>
+            <clip pos="2" part="lemh"/>
+            <clip pos="2" part="tags"/>
+            <clip pos="2" part="chcontent"/>
+            <clip pos="2" part="lemq"/>
+          </chunk>
+          <b pos="2"/>
+          <chunk>
+            <clip pos="3" part="lemh"/>
+            <clip pos="3" part="tags"/>
+            <clip pos="3" part="chcontent"/>
+            <clip pos="3" part="lemq"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+    <rule comment="REGLA: SN SV SA">
+      <pattern>
+        <pattern-item n="SN"/>
+        <pattern-item n="SV"/>
+        <pattern-item n="SA"/>
+      </pattern>
+      <action>
+        <let>
+          <clip pos="2" part="gnr"/>
+          <clip pos="1" part="gnr"/>
+        </let>
+        <let>
+          <clip pos="3" part="gnr"/>
+          <clip pos="1" part="gnr"/>
+        </let>
+        <out>
+          <chunk>
+            <clip pos="1" part="lemh"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+            <clip pos="1" part="lemq"/>
+          </chunk>
+          <b pos="1"/>
+          <chunk>
+            <clip pos="2" part="lemh"/>
+            <clip pos="2" part="tags"/>
+            <clip pos="2" part="chcontent"/>
+            <clip pos="2" part="lemq"/>
+          </chunk>
+          <b pos="2"/>
+          <chunk>
+            <clip pos="3" part="lemh"/>
+            <clip pos="3" part="tags"/>
+            <clip pos="3" part="chcontent"/>
+            <clip pos="3" part="lemq"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="REGLA: SN ADV SV">
+      <pattern>
+        <pattern-item n="SN"/>
+        <pattern-item n="ADV"/>
+        <pattern-item n="SV"/>
+      </pattern>
+      <action>
+        <let>
+          <clip pos="3" part="gnr"/>
+          <clip pos="1" part="gnr"/>
+        </let>
+        <let>
+          <clip pos="3" part="nbr"/>
+          <clip pos="1" part="nbr"/>
+        </let>
+        <out>
+          <chunk>
+            <clip pos="1" part="lemh"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+            <clip pos="1" part="lemq"/>
+          </chunk>
+          <b pos="1"/>
+          <chunk>
+            <clip pos="2" part="lemh"/>
+            <clip pos="2" part="tags"/>
+            <clip pos="2" part="chcontent"/>
+            <clip pos="2" part="lemq"/>
+          </chunk>
+          <b pos="2"/>
+          <chunk>
+            <clip pos="3" part="lemh"/>
+            <clip pos="3" part="tags"/>
+            <clip pos="3" part="chcontent"/>
+            <clip pos="3" part="lemq"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="REGLA: PREP PRNPERS">
+      <pattern>
+        <pattern-item n="PREP"/>
+        <pattern-item n="PRNPERS"/>
+      </pattern>
+      <action>
+        <let>
+          <clip pos="2" part="tipus_prn"/>
+          <lit-tag v="obj"/>
+        </let>
+        <out>
+          <chunk>
+            <clip pos="1" part="lemh"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+            <clip pos="1" part="lemq"/>
+          </chunk>
+          <b pos="1"/>
+          <chunk>
+            <clip pos="2" part="lemh"/>
+            <clip pos="2" part="tags"/>
+            <clip pos="2" part="chcontent"/>
+            <clip pos="2" part="lemq"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="REGLA: PREP SN">
+      <pattern>
+        <pattern-item n="PREP"/>
+        <pattern-item n="SN"/>
+      </pattern>
+      <action>
+        <choose>
+          <when>
+            <test>
+              <in caseless="yes">
+                <clip pos="1" part="lem"/>
+              	<list n="gen_prep"/>
+              </in>
+            </test> 
+            <let>
+                <clip pos="2" part="cas"/>
+                <lit-tag v="gen"/>
+            </let>
+          </when>
+          <when>
+            <test>
+              <in caseless="yes">
+                <clip pos="1" part="lem"/>
+              	<list n="dat_prep"/>
+              </in>
+            </test> 
+            <let>
+                <clip pos="2" part="cas"/>
+                <lit-tag v="dat"/>
+            </let>
+          </when>
+          <when>
+            <test>
+              <in caseless="yes">
+                <clip pos="1" part="lem"/>
+              	<list n="ins_prep"/>
+              </in>
+            </test> 
+            <let>
+                <clip pos="2" part="cas"/>
+                <lit-tag v="ins"/>
+            </let>
+          </when>
+        </choose>
+        <out>
+          <chunk>
+            <clip pos="1" part="lemh"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+            <clip pos="1" part="lemq"/>
+          </chunk>
+          <b pos="1"/>
+          <chunk>
+            <clip pos="2" part="lemh"/>
+            <clip pos="2" part="tags"/>
+            <clip pos="2" part="chcontent"/>
+            <clip pos="2" part="lemq"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="REGLA: SN JE">
+      <pattern>
+        <pattern-item n="SN"/>
+        <pattern-item n="JE"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk>
+            <clip pos="1" part="lemh"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+            <clip pos="1" part="lemq"/>
+          </chunk>
+          <b pos="1"/>
+          <chunk>
+            <lit v="być"/>
+			<lit-tag v="SV.pres.p3.sg"/>
+			<lit v="{^"/>
+            <lit v="być"/>
+            <lit-tag v="vbser.2.3.4"/>
+			<lit v="$}"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="REGLA: SN JE SA">
+      <pattern>
+        <pattern-item n="SN"/>
+        <pattern-item n="JE"/>
+        <pattern-item n="SA"/>
+      </pattern>
+      <action>
+        <let>
+            <clip pos="3" part="gnr"/>
+            <clip pos="1" part="gnr"/>
+        </let>
+        <let>
+            <clip pos="3" part="nbr"/>
+            <clip pos="1" part="nbr"/>
+        </let>
+        <out>
+          <chunk>
+            <clip pos="1" part="lemh"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+            <clip pos="1" part="lemq"/>
+          </chunk>
+          <b pos="1"/>
+          <chunk>
+            <lit v="być"/>
+			<lit-tag v="SV.pres.p3.sg"/>
+			<lit v="{^"/>
+            <lit v="być"/>
+            <lit-tag v="vbser.2.3.4"/>
+			<lit v="$}"/>
+          </chunk>
+          <b pos="2"/>
+          <chunk>
+            <clip pos="3" part="lemh"/>
+            <clip pos="3" part="tags"/>
+            <clip pos="3" part="chcontent"/>
+            <clip pos="3" part="lemq"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+    <rule comment="REGLA: DET JE">
+      <pattern>
+        <pattern-item n="DET"/>
+        <pattern-item n="JE"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk>
+            <clip pos="1" part="lemh"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+            <clip pos="1" part="lemq"/>
+          </chunk>
+          <b pos="1"/>
+          <chunk>
+            <lit v="być"/>
+			<lit-tag v="SV.pres.p3.sg"/>
+			<lit v="{^"/>
+            <lit v="być"/>
+            <lit-tag v="vbser.2.3.4"/>
+			<lit v="$}"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+  </section-rules>
+</interchunk>

@@ -1,0 +1,236 @@
+2010-04-11 14:35  jimregan
+
+	* apertium-pl-csb.csb.dix, apertium-pl-csb.pl-csb.dix: foo.
+
+2010-04-11 14:19  jimregan
+
+	* apertium-pl-csb.csb.dix: +1
+
+2010-04-11 14:10  jimregan
+
+	* dev/incomplete-paradigms/pisanie: fill out template based on my
+	  best guess; need to find someone who speak Kashubian
+
+2010-04-11 12:57  jimregan
+
+	* dev/incomplete-paradigms, dev/incomplete-paradigms/pisanie: more
+	  TODO
+
+2010-02-24 17:43  jimregan
+
+	* apertium-pl-csb.csb.dix, apertium-pl-csb.pl-csb.dix,
+	  dev/unigrams: couple more
+
+2010-02-24 14:26  jimregan
+
+	* apertium-pl-csb.pl-csb.dix: add a couple of nouns to the bidix
+
+2010-02-24 12:52  jimregan
+
+	* apertium-pl-csb.csb.dix: new paradigms
+
+2010-02-24 03:50  jimregan
+
+	* apertium-pl-csb.csb.dix: fix gender on 2 paradigms, finish
+	  plurals of another
+
+2010-02-24 03:20  jimregan
+
+	* dev/extract-lemma-and-surface.pl: in progress script
+
+2010-02-24 03:18  jimregan
+
+	* apertium-pl-csb.csb.dix, dev/unigrams: csb wordlist
+
+2010-02-24 03:10  jimregan
+
+	* apertium-pl-csb.csb.dix: some more
+
+2010-02-24 02:32  jimregan
+
+	* apertium-pl-csb.csb.dix: couple of things
+
+2010-02-22 18:18  jimregan
+
+	* apertium-pl-csb.csb.dix, apertium-pl-csb.pl-csb.dix: more -cëjô
+	  nouns
+
+2010-02-22 15:27  jimregan
+
+	* apertium-pl-csb.csb.dix, apertium-pl-csb.pl-csb.dix: some -ëjô
+	  nouns
+
+2010-02-22 15:21  jimregan
+
+	* dev, dev/csb.list: aspell wordlist
+
+2009-07-25 18:39  jimregan
+
+	* apertium-pl-csb.csb.dix, apertium-pl-csb.pl-csb.dix: chto, co
+	  (who, what)
+
+2009-07-25 01:13  jimregan
+
+	* apertium-pl-csb.csb.dix: +3
+
+2009-07-25 01:02  jimregan
+
+	* apertium-pl-csb.csb.dix: czë
+
+2009-07-23 17:49  jimregan
+
+	* apertium-pl-csb.csb.dix: alt-[A-Za-z]
+
+2009-07-23 17:48  jimregan
+
+	* apertium-pl-csb.csb.dix: some symbols + adj
+
+2009-07-23 14:46  jimregan
+
+	* apertium-pl-csb.csb.dix, apertium-pl-csb.pl-csb.dix: +1 adv.sint
+
+2009-07-23 14:28  jimregan
+
+	* apertium-pl-csb.csb.dix, apertium-pl-csb.pl-csb.dix: some adverbs
+
+2009-07-21 09:58  jimregan
+
+	* apertium-pl-csb.csb.dix: a couple of things
+
+2009-07-21 00:43  jimregan
+
+	* apertium-pl-csb.csb.dix: +7 paradigms
+
+2009-07-21 00:09  jimregan
+
+	* apertium-pl-csb.csb.dix: and another, partially
+
+2009-07-21 00:07  jimregan
+
+	* apertium-pl-csb.csb.dix: fill out a paradigm & add a multiword,
+	  courtesy of de.wiktionary
+
+2009-07-20 23:51  jimregan
+
+	* apertium-pl-csb.csb.dix: fix
+
+2009-07-20 23:42  jimregan
+
+	* apertium-pl-csb.csb.dix: fix
+
+2009-07-20 23:40  jimregan
+
+	* apertium-pl-csb.csb.dix: more
+
+2009-07-20 23:26  jimregan
+
+	* apertium-pl-csb.csb.dix: more
+
+2009-07-20 22:33  jimregan
+
+	* apertium-pl-csb.csb.dix: some fixes and additions - this gives a
+	  scary amount of coverage over the (tiny) csb.wikipedia corpus
+
+2009-07-20 22:32  jimregan
+
+	* apertium-pl-csb.csb.dix: add symbols, alphabet
+
+2009-07-20 21:44  jimregan
+
+	* apertium-pl-csb.csb.dix, apertium-pl-csb.pl-csb.dix: +2
+
+2009-05-09 17:31  jimregan
+
+	* apertium-pl-csb.csb.dix, apertium-pl-csb.pl-csb.dix: fix a FIXME,
+	  +1
+
+2009-05-09 17:22  jimregan
+
+	* apertium-pl-csb.csb.dix, apertium-pl-csb.pl-csb.dix: woohoo!
+	  completed an adjective. (This base works for present active
+	  participles too!)
+
+2009-05-09 17:04  jimregan
+
+	* apertium-pl-csb.csb.dix: more adjectival forms
+
+2009-05-09 16:59  jimregan
+
+	* apertium-pl-csb.csb.dix: sg.loc
+
+2009-05-09 16:58  jimregan
+
+	* apertium-pl-csb.csb.dix: fix nt.sg.nom/acc
+
+2009-05-09 16:52  jimregan
+
+	* apertium-pl-csb.csb.dix, apertium-pl-csb.pl-csb.dix: more
+	  European countries
+
+2009-05-09 16:22  jimregan
+
+	* apertium-pl-csb.csb.dix, apertium-pl-csb.pl-csb.dix: some
+	  toponyms
+
+2009-05-09 16:06  jimregan
+
+	* apertium-pl-csb.csb.dix, apertium-pl-csb.pl-csb.dix: two more
+	  nouns/paradigms
+
+2009-05-09 15:52  jimregan
+
+	* apertium-pl-csb.csb.dix, apertium-pl-csb.pl-csb.dix: dobri,
+	  piérwi... wow, really starting to hit the most basic of basic
+	  words now
+
+2009-05-09 15:30  jimregan
+
+	* apertium-pl-csb.csb.dix, apertium-pl-csb.pl-csb.dix: add those
+	  adjectives and a noun (I assume that these are both synthetic...
+	  just need to find the comparative :/)
+
+2009-05-09 15:17  jimregan
+
+	* apertium-pl-csb.csb.dix: two /complete/ adjective base paradims
+	  (comparatives and some participles use these paradigms too)...
+	  maybe I can start filling in the blanks :)
+
+2009-05-09 14:51  jimregan
+
+	* apertium-pl-csb.csb.dix, apertium-pl-csb.pl-csb.dix: fill in
+	  another two blanks; another partial paradigm
+
+2009-05-09 12:48  jimregan
+
+	* apertium-pl-csb.csb.dix: kaszëbs/czi__adj: f.sg.acc
+
+2009-05-09 12:47  jimregan
+
+	* apertium-pl-csb.csb.dix: fix tag
+
+2009-05-09 11:53  jimregan
+
+	* apertium-pl-csb.csb.dix: found the accusative!
+
+2009-05-09 11:47  jimregan
+
+	* apertium-pl-csb.csb.dix, apertium-pl-csb.pl-csb.dix: another
+	  partial pardef (*sigh*)
+
+2009-05-09 11:18  jimregan
+
+	* apertium-pl-csb.csb.dix: kaszëbs/czi__adj: m{i,a}.sg.acc
+
+2009-05-09 11:17  jimregan
+
+	* apertium-pl-csb.csb.dix: kaszëbs/czi__adj: f.sg.nom,
+	  nt.sg.{nom,acc}
+
+2009-05-02 15:43  jimregan
+
+	* apertium-pl-csb.csb.dix, apertium-pl-csb.pl-csb.dix: necro
+
+2009-05-02 14:45  jimregan
+
+	* .: more necromancy, reordering
+
