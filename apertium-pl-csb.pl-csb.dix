@@ -217,9 +217,10 @@
     <e><p><l>przez<s n="pr"/></l><r>przez<s n="pr"/></r></p></e>
     <e><p><l>przed<s n="pr"/></l><r>przed<s n="pr"/></r></p></e>
     <e><p><l>po<s n="pr"/></l><r>pò<s n="pr"/></r></p></e>
+    <e><p><l>o<s n="pr"/></l><r>ò<s n="pr"/></r></p></e>
     <e><p><l>u<s n="pr"/></l><r>ù<s n="pr"/></r></p></e>
     <e><p><l>ku<s n="pr"/></l><r>kù<s n="pr"/></r></p></e>
-    <e><p><l>dla<s n="pr"/></l><r>dlò<s n="pr"/></r></p></e>
+    <e><p><l>dla<s n="pr"/></l><r>dlô<s n="pr"/></r></p></e>
     <e><p><l>z<s n="pr"/></l><r>z<s n="pr"/></r></p></e>
     <e><p><l>im.<s n="pr"/></l><r>m.<s n="pr"/></r></p></e>
     <e><p><l>za<s n="pr"/></l><r>za<s n="pr"/></r></p></e>
@@ -830,6 +831,7 @@
     <e><p><l>słoweński<s n="adj"/></l><r>sloweńsczi<s n="adj"/></r></p></e>
     <e><p><l>staroangielski<s n="adj"/></l><r>stôroanielsczi<s n="adj"/></r></p></e>
     <e><p><l>staro-cerkiewno-słowiański<s n="adj"/></l><r>stôrocerkwiowòsłowiańsczi<s n="adj"/></r></p></e>
+    <e><p><l>bałtosłowiański<s n="adj"/></l><r>bôłto-słowiańsczi<s n="adj"/></r></p></e>
     <e><p><l>staronordyjski<s n="adj"/></l><r>stôronordëjsczi<s n="adj"/></r></p></e>
     <e><p><l>nordyjski<s n="adj"/></l><r>nordëjsczi<s n="adj"/></r></p></e>
     <e><p><l>starolitewski<s n="adj"/></l><r>stôrolëtewsczi<s n="adj"/></r></p></e>
