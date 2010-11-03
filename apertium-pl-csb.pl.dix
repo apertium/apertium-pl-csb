@@ -41280,8 +41280,8 @@
     <e lm="r."><i>r.</i><par n="np__abbr"/></e>
     <e lm="Kč"><i>Kč</i><par n="np__abbr"/></e>
     <e lm="zł"><i>zł</i><par n="np__abbr"/></e>
-    <e lm="n.e."><i>n.e.</i><par n="np__abbr"/></e>
-    <e lm="p.n.e."><i>p.n.e.</i><par n="np__abbr"/></e>
+    <e lm="n.e"><i>n.e</i><par n="tu__adv"/></e>
+    <e lm="p.n.e"><i>p.n.e</i><par n="tu__adv"/></e>
     <e lm="gr"><i>gr</i><par n="np__abbr"/></e>
     <e lm="rep"><i>rep</i><par n="np__abbr"/></e>
     <e lm="gen"><i>gen</i><par n="np__abbr"/></e>
@@ -55143,6 +55143,48 @@
     <e lm="U.S."><i>U.S.</i><par n="UE__np"/></e>
     <e lm="Węgry"><i>Węg</i><par n="Węg/ry__np"/></e>
 
+    <e lm="I w"><i>I<b/>w</i><par n="tu__adv"/></e>
+    <e lm="II w"><i>II<b/>w</i><par n="tu__adv"/></e>
+    <e lm="III w"><i>III<b/>w</i><par n="tu__adv"/></e>
+    <e lm="IV w"><i>IV<b/>w</i><par n="tu__adv"/></e>
+    <e lm="V w"><i>V<b/>w</i><par n="tu__adv"/></e>
+    <e lm="VI w"><i>VI<b/>w</i><par n="tu__adv"/></e>
+    <e lm="VII w"><i>VII<b/>w</i><par n="tu__adv"/></e>
+    <e lm="VIII w"><i>VIII<b/>w</i><par n="tu__adv"/></e>
+    <e lm="IX w"><i>IX<b/>w</i><par n="tu__adv"/></e>
+    <e lm="X w"><i>X<b/>w</i><par n="tu__adv"/></e>
+    <e lm="XI w"><i>XI<b/>w</i><par n="tu__adv"/></e>
+    <e lm="XII w"><i>XII<b/>w</i><par n="tu__adv"/></e>
+    <e lm="XIII w"><i>XIII<b/>w</i><par n="tu__adv"/></e>
+    <e lm="XIV w"><i>XIV<b/>w</i><par n="tu__adv"/></e>
+    <e lm="XV w"><i>XV<b/>w</i><par n="tu__adv"/></e>
+    <e lm="XVI w"><i>XVI<b/>w</i><par n="tu__adv"/></e>
+    <e lm="XVII w"><i>XVII<b/>w</i><par n="tu__adv"/></e>
+    <e lm="XVIII w"><i>XVIII<b/>w</i><par n="tu__adv"/></e>
+    <e lm="XIX w"><i>XIX<b/>w</i><par n="tu__adv"/></e>
+    <e lm="XX w"><i>XX<b/>w</i><par n="tu__adv"/></e>
+    <e lm="XXI w"><i>XXI<b/>w</i><par n="tu__adv"/></e>
+    <e lm="XXII w"><i>XXII<b/>w</i><par n="tu__adv"/></e>
+    <e lm="XXIII w"><i>XXIII<b/>w</i><par n="tu__adv"/></e>
+    <e lm="XXIV w"><i>XXIV<b/>w</i><par n="tu__adv"/></e>
+    <e lm="XXV w"><i>XXV<b/>w</i><par n="tu__adv"/></e>
+    <e lm="XXVI w"><i>XXVI<b/>w</i><par n="tu__adv"/></e>
+    <e lm="XXVII w"><i>XXVII<b/>w</i><par n="tu__adv"/></e>
+    <e lm="XXVIII w"><i>XXVIII<b/>w</i><par n="tu__adv"/></e>
+    <e lm="XXIX w"><i>XXIX<b/>w</i><par n="tu__adv"/></e>
+    <e lm="XXX w"><i>XXX<b/>w</i><par n="tu__adv"/></e>
+    <e lm="XXXI w"><i>XXXI<b/>w</i><par n="tu__adv"/></e>
+    <e lm="XXXII w"><i>XXXII<b/>w</i><par n="tu__adv"/></e>
+    <e lm="XXXIII w"><i>XXXIII<b/>w</i><par n="tu__adv"/></e>
+    <e lm="XXXIV w"><i>XXXIV<b/>w</i><par n="tu__adv"/></e>
+    <e lm="XXXV w"><i>XXXV<b/>w</i><par n="tu__adv"/></e>
+    <e lm="XXXVI w"><i>XXXVI<b/>w</i><par n="tu__adv"/></e>
+    <e lm="XXXVII w"><i>XXXVII<b/>w</i><par n="tu__adv"/></e>
+    <e lm="XXXVIII w"><i>XXXVIII<b/>w</i><par n="tu__adv"/></e>
+    <e lm="XXXIX w"><i>XXXIX<b/>w</i><par n="tu__adv"/></e>
+    <e lm="M w"><i>M<b/>w</i><par n="tu__adv"/></e>
+    <e lm="C w"><i>C<b/>w</i><par n="tu__adv"/></e>
+    <e lm="L w"><i>L<b/>w</i><par n="tu__adv"/></e>
   </section>
   <section id="multiwords" type="standard">
     <e lm="Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej">

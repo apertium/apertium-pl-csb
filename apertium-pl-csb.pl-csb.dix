@@ -32,6 +32,8 @@
     <sdef n="pl"/>
     <sdef n="sp"/>
     <sdef n="ord"/>
+    <sdef n="sent"/>
+    <sdef n="cm"/>
   </sdefs>
 
   <section id="main" type="standard">
@@ -341,6 +343,7 @@
     <e><p><l>konferencja<s n="n"/><s n="f"/></l><r>kònferencëjô<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>atrakcja<s n="n"/><s n="f"/></l><r>atrakcëjô<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>autonomia<s n="n"/><s n="f"/></l><r>aùtonomijô<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>dynastia<s n="n"/><s n="f"/></l><r>dinastëjô<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>demokracja<s n="n"/><s n="f"/></l><r>demòkracëjô<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>edukacja<s n="n"/><s n="f"/></l><r>edukacëjô<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>historia<s n="n"/><s n="f"/></l><r>historëjô<s n="n"/><s n="f"/></r></p></e>
@@ -835,5 +838,13 @@
     <e><p><l>stary<s n="adj"/><s n="sint"/></l><r>stari<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>jasny<s n="adj"/><s n="sint"/></l><r>jasny<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>pierwszy<s n="det"/><s n="ord"/></l><r>piérwi<s n="det"/><s n="ord"/></r></p></e>
+  </section>
+  <section id="punct" type="standard">
+    <e><i>.<s n="sent"/></i></e>
+    <e><i>!<s n="sent"/></i></e>
+    <e><i>?<s n="sent"/></i></e>
+    <e><i>;<s n="sent"/></i></e>
+    <e><i>,<s n="cm"/></i></e>
+    <e><re>[0-9]+([.,][0-9]+)?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
   </section>
 </dictionary>
