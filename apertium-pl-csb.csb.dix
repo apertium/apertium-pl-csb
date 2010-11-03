@@ -468,41 +468,41 @@
         </p>
       </e>
     </pardef>
-    <pardef n="cos__det">
+    <pardef n="cos__prn">
       <e>
         <p>
           <l>cos</l>
-          <r>cos<s n="det"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="nom"/></r>
+          <r>cos<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>czegòs</l>
-          <r>cos<s n="det"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
+          <r>cos<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>czemùs</l>
-          <r>cos<s n="det"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="dat"/></r>
+          <r>cos<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>cos</l>
-          <r>cos<s n="det"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="acc"/></r>
+          <r>cos<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>czims</l>
-          <r>cos<s n="det"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="ins"/></r>
+          <r>cos<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>czims</l>
-          <r>cos<s n="det"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
+          <r>cos<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
         </p>
       </e>
     </pardef>
@@ -1358,73 +1358,7 @@
         </p>
       </e>
     </pardef>
-    <pardef n="młod/i__BASE">
-      <e>
-        <p>
-          <l>ich</l>
-          <r><s n="m"/><s n="pl"/><s n="gen"/></r>
-        </p>
-      </e>
-      <e r="LR">
-        <p>
-          <l>ëch</l>
-          <r><s n="m"/><s n="pl"/><s n="gen"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>im</l>
-          <r><s n="m"/><s n="pl"/><s n="dat"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ich</l>
-          <r><s n="m"/><s n="pl"/><s n="acc"/></r>
-        </p>
-      </e>
-      <e r="LR">
-        <p>
-          <l>ëch</l>
-          <r><s n="m"/><s n="pl"/><s n="acc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ich</l>
-          <r><s n="m"/><s n="pl"/><s n="loc"/></r>
-        </p>
-      </e>
-      <e r="LR">
-        <p>
-          <l>ëch</l>
-          <r><s n="m"/><s n="pl"/><s n="loc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>i</l>
-          <r><s n="m"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ima</l>
-          <r><s n="m"/><s n="pl"/><s n="ins"/></r>
-        </p>
-      </e>
-      <e r="LR">
-        <p>
-          <l>ëma</l>
-          <r><s n="m"/><s n="pl"/><s n="ins"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>i</l>
-          <r><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
+    <pardef n="PBASE__młodi_sg">
       <e>
         <p>
           <l>égò</l>
@@ -1591,6 +1525,144 @@
         <p>
           <l>é</l>
           <r><s n="nt"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="BASE__młodi">
+      <e>
+        <i/>
+        <par n="PBASE__młodi_sg"/>
+      </e>
+      <e>
+        <p>
+          <l>ich</l>
+          <r><s n="mi"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ëch</l>
+          <r><s n="mi"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>im</l>
+          <r><s n="mi"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ich</l>
+          <r><s n="mi"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ëch</l>
+          <r><s n="mi"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ich</l>
+          <r><s n="mi"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ëch</l>
+          <r><s n="mi"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r><s n="mi"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ima</l>
+          <r><s n="mi"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ëma</l>
+          <r><s n="mi"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r><s n="mi"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ich</l>
+          <r><s n="ma"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ëch</l>
+          <r><s n="ma"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>im</l>
+          <r><s n="ma"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ich</l>
+          <r><s n="ma"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ëch</l>
+          <r><s n="ma"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ich</l>
+          <r><s n="ma"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ëch</l>
+          <r><s n="ma"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r><s n="ma"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ima</l>
+          <r><s n="ma"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ëma</l>
+          <r><s n="ma"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r><s n="ma"/><s n="pl"/><s n="nom"/></r>
         </p>
       </e>
       <e>
@@ -7538,7 +7610,7 @@
           <l></l>
           <r>i<s n="adj"/><s n="sint"/></r>
         </p>
-        <par n="młod/i__BASE"/>
+        <par n="BASE__młodi"/>
       </e>
     </pardef>
     <pardef n="lepsz/i__adj">
@@ -7547,7 +7619,7 @@
           <l></l>
           <r>i<s n="adj"/><s n="sint"/><s n="comp"/></r>
         </p>
-        <par n="młod/i__BASE"/>
+        <par n="BASE__młodi"/>
       </e>
     </pardef>
     <pardef n="nôlepsz/i__adj">
@@ -7556,7 +7628,7 @@
           <l></l>
           <r>i<s n="adj"/><s n="sint"/><s n="sup"/></r>
         </p>
-        <par n="młod/i__BASE"/>
+        <par n="BASE__młodi"/>
       </e>
     </pardef>
 
@@ -7575,7 +7647,7 @@
           <l></l>
           <r>i<s n="det"/><s n="ord"/></r>
         </p>
-        <par n="młod/i__BASE"/>
+        <par n="BASE__młodi"/>
       </e>
     </pardef>
     <pardef n="zdrojow/i__adj">
@@ -7584,7 +7656,7 @@
           <l></l>
           <r>i<s n="adj"/></r>
         </p>
-        <par n="młod/i__BASE"/>
+        <par n="BASE__młodi"/>
       </e>
     </pardef>
     <pardef n="now/i__adj">
@@ -7593,7 +7665,7 @@
           <l></l>
           <r>i<s n="adj"/><s n="sint"/></r>
         </p>
-        <par n="młod/i__BASE"/>
+        <par n="BASE__młodi"/>
       </e>
     </pardef>
     <pardef n="/to__det">
@@ -8072,7 +8144,7 @@
           <l></l>
           <r>i<s n="det"/><s n="ind"/></r>
         </p>
-        <par n="młod/i__BASE"/>
+        <par n="BASE__młodi"/>
       </e>
     </pardef>
     <pardef n="kòżd/i__prn">
@@ -8123,7 +8195,7 @@
           <l></l>
           <r>i<s n="prn"/><s n="ind"/></r>
         </p>
-        <par n="młod/i__BASE"/>
+        <par n="PBASE__młodi_sg"/>
       </e>
     </pardef>
 
@@ -9012,7 +9084,7 @@
     <e lm="chto"><i></i><par n="chto__prn"/></e>
     <e lm="co"><i></i><par n="co__det"/></e>
     <e lm="chtos"><i></i><par n="chtos__prn"/></e>
-    <e lm="cos"><i></i><par n="cos__det"/></e>
+    <e lm="cos"><i></i><par n="cos__prn"/></e>
     <e lm="jaczi"><i>ja</i><par n="ja/czi__prn"/></e>
     <e lm="jaczis"><i>ja</i><par n="ja/czis__prn"/></e>
     <e lm="taczi"><i>ta</i><par n="ta/czi__det"/></e>
