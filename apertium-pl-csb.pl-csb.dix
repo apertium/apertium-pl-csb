@@ -247,6 +247,24 @@
     <e><p><l>móc<s n="vaux"/></l><r>mòc<s n="vaux"/></r></p></e>
     
     <e><p><l>ziemia<s n="n"/><s n="f"/></l><r>zemia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>filologia<s n="n"/><s n="f"/></l><r>filologijô<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>geologia<s n="n"/><s n="f"/></l><r>geòlogijô<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>techologia<s n="n"/><s n="f"/></l><r>techologijô<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Wikipedia<s n="n"/><s n="f"/></l><r>Wikipedijô<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>fotografia<s n="n"/><s n="f"/></l><r>fòtografijô<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>psychologia<s n="n"/><s n="f"/></l><r>psychòlogijô<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>politologia<s n="n"/><s n="f"/></l><r>pòlitologijô<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>filozofia<s n="n"/><s n="f"/></l><r>filozofijô<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ekonomia<s n="n"/><s n="f"/></l><r>ekònomijô<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>archeologia<s n="n"/><s n="f"/></l><r>archeòlogijô<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>antropologia<s n="n"/><s n="f"/></l><r>antropòlogijô<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>biologia<s n="n"/><s n="f"/></l><r>biologijô<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>geografia<s n="n"/><s n="f"/></l><r>geògrafijô<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>chemia<s n="n"/><s n="f"/></l><r>chemijô<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>terminologia<s n="n"/><s n="f"/></l><r>terminologijô<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>religia<s n="n"/><s n="f"/></l><r>religijô<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>frazeologia<s n="n"/><s n="f"/></l><r>frazeòlogijô<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>etymologia<s n="n"/><s n="f"/></l><r>etimòlogijô<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kultura<s n="n"/><s n="f"/></l><r>kùltura<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>subkultura<s n="n"/><s n="f"/></l><r>subkùltura<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ceramika<s n="n"/><s n="f"/></l><r>keramika<s n="n"/><s n="f"/></r></p></e>
@@ -556,7 +574,7 @@
     <e><p><l>redukcja<s n="n"/><s n="f"/></l><r>redukcëjô<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>rehabilitacja<s n="n"/><s n="f"/></l><r>rehabilitacëjô<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>reinkarnacja<s n="n"/><s n="f"/></l><r>reinkarnacëjô<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>reformacja<s n="n"/><s n="f"/></l><r>reformacëjô,<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>reformacja<s n="n"/><s n="f"/></l><r>reformacëjô<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>rejestracja<s n="n"/><s n="f"/></l><r>rejestracëjô<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>regencja<s n="n"/><s n="f"/></l><r>regencëjô<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>reklamacja<s n="n"/><s n="f"/></l><r>relamacëjô<s n="n"/><s n="f"/></r></p></e>
