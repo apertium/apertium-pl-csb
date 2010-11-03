@@ -7656,7 +7656,7 @@
       <e>
         <p>
           <l></l>
-          <r>i<s n="adj"/><s n="sint"/><s n="comp"/></r>
+          <r><s n="adj"/><s n="sint"/><s n="comp"/></r>
         </p>
         <par n="BASE__młodi"/>
       </e>
@@ -7665,7 +7665,7 @@
       <e>
         <p>
           <l></l>
-          <r>i<s n="adj"/><s n="sint"/><s n="sup"/></r>
+          <r><s n="adj"/><s n="sint"/><s n="sup"/></r>
         </p>
         <par n="BASE__młodi"/>
       </e>
@@ -9990,22 +9990,25 @@
     <e lm="wiôldżi"><i>wiôl</i><par n="wiôl/dżi__adj"/></e>
     <e lm="młodi"><i>młod</i><par n="młod/i__adj"/></e>
     <e lm="dobri"><i>dobr</i><par n="młod/i__adj"/></e>
-    <e lm="dobri"><p><l>lepsz</l><r>dobr</r></p><par n="lepsz/i__adj"/></e>
-    <e lm="dobri"><p><l>nôlepsz</l><r>dobr</r></p><par n="nôlepsz/i__adj"/></e>
+    <e lm="dobri"><p><l>lepsz</l><r>dobri</r></p><par n="lepsz/i__adj"/></e>
+    <e lm="dobri"><p><l>nôlepsz</l><r>dobri</r></p><par n="nôlepsz/i__adj"/></e>
     <e lm="stari"><i>star</i><par n="młod/i__adj"/></e>
-    <e lm="stari"><p><l>starsz</l><r>star</r></p><par n="lepsz/i__adj"/></e>
-    <e lm="stari"><p><l>nôstarsz</l><r>star</r></p><par n="nôlepsz/i__adj"/></e>
+    <e lm="stari"><p><l>starsz</l><r>stari</r></p><par n="lepsz/i__adj"/></e>
+    <e lm="stari"><p><l>nôstarsz</l><r>stari</r></p><par n="nôlepsz/i__adj"/></e>
     <e lm="stari" r="LR"><p><l>stôr</l><r>star</r></p><par n="młod/i__adj"/></e>
-    <e lm="stari" r="LR"><p><l>stôrsz</l><r>star</r></p><par n="lepsz/i__adj"/></e>
-    <e lm="stari" r="LR"><p><l>nôstôrsz</l><r>star</r></p><par n="nôlepsz/i__adj"/></e>
+    <e lm="stari" r="LR"><p><l>stôrsz</l><r>stari</r></p><par n="lepsz/i__adj"/></e>
+    <e lm="stari" r="LR"><p><l>nôstôrsz</l><r>stari</r></p><par n="nôlepsz/i__adj"/></e>
     <e lm="nowi"><i>now</i><par n="młod/i__adj"/></e>
-    <e lm="nowi"><p><l>nowsz</l><r>now</r></p><par n="lepsz/i__adj"/></e>
-    <e lm="nowi"><p><l>nônowsz</l><r>now</r></p><par n="nôlepsz/i__adj"/></e>
-    <e lm="nowi" r="LR"><p><l>nanowsz</l><r>now</r></p><par n="nôlepsz/i__adj"/></e>
+    <e lm="nowi"><p><l>nowsz</l><r>nowi</r></p><par n="lepsz/i__adj"/></e>
+    <e lm="nowi"><p><l>nônowsz</l><r>nowi</r></p><par n="nôlepsz/i__adj"/></e>
+    <e lm="nowi" r="LR"><p><l>nanowsz</l><r>nowi</r></p><par n="nôlepsz/i__adj"/></e>
     <e lm="tóni"><i>tón</i><par n="tón/i__adj"/></e>
     <e lm="pózni"><i>pózn</i><par n="tón/i__adj"/></e>
-    <e lm="pózni"><p><l>pózniész</l><r>pózn</r></p><par n="lepsz/i__adj"/></e>
-    <e lm="pózni"><p><l>nôpózniész</l><r>pózn</r></p><par n="nôlepsz/i__adj"/></e>
+    <e lm="pózni"><p><l>pózniész</l><r>pózni</r></p><par n="lepsz/i__adj"/></e>
+    <e lm="pózni"><p><l>nôpózniész</l><r>pózni</r></p><par n="nôlepsz/i__adj"/></e>
+    <e lm="ważny"><i>ważn</i><par n="jasn/y__adj"/></e>
+    <e lm="ważny"><p><l>ważniész</l><r>ważny</r></p><par n="lepsz/i__adj"/></e>
+    <e lm="ważny"><p><l>nôważniész</l><r>ważny</r></p><par n="nôlepsz/i__adj"/></e>
     <e lm="piérwi"><i>piérw</i><par n="piérw/i__det"/></e>
     <e lm="zdrojowi"><i>zdrojow</i><par n="zdrojow/i__adj"/></e>
     <e lm="wielejãzëkòwi"><i>wielejãzëkòw</i><par n="zdrojow/i__adj"/></e>
