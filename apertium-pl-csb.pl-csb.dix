@@ -273,6 +273,7 @@
     <e><p><l>ceramika<s n="n"/><s n="f"/></l><r>keramika<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>ceramika<s n="n"/><s n="f"/></l><r>ceramika<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ząb<s n="n"/><s n="mi"/></l><r>ząb<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>obraz<s n="n"/><s n="mi"/></l><r>òbrôzk<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>alfabet<s n="n"/><s n="mi"/></l><r>alfabét<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>gmina<s n="n"/><s n="f"/></l><r>gmina<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>wieś<s n="n"/><s n="f"/></l><r>wies<s n="n"/><s n="f"/></r></p></e>
@@ -717,6 +718,12 @@
     <e><p><l>Ludwika<s n="np"/><s n="ant"/><s n="f"/></l><r>Ludwika<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
     
     <e><p><l>cudzy<s n="adj"/></l><r>cëzy<s n="adj"/></r></p></e>
+    <e><p><l>wschodni<s n="adj"/></l><r>pòrénkòwi<s n="adj"/></r></p></e>
+    <e><p><l>północny<s n="adj"/></l><r>nordowi<s n="adj"/></r></p></e>
+    <e><p><l>południowy<s n="adj"/></l><r>pôłniowi<s n="adj"/></r></p></e>
+    <e><p><l>zachodni<s n="adj"/></l><r>zôpadny<s n="adj"/></r></p></e>
+    <e><p><l>zachodniopomorski<s n="adj"/></l><r>zôpadnopòmòrsczi<s n="adj"/></r></p></e>
+    <e><p><l>czarny<s n="adj"/></l><r>czôrny<s n="adj"/></r></p></e>
     <e><p><l>cały<s n="adj"/></l><r>całi<s n="adj"/></r></p></e>
     <e><p><l>mały<s n="adj"/></l><r>małi<s n="adj"/></r></p></e>
     <e><p><l>kulturny<s n="adj"/></l><r>kùlturny<s n="adj"/></r></p></e>
