@@ -8581,6 +8581,19 @@
           <r>ac<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
+      <e>
+        <p>
+          <l>ając</l>
+          <r>ac<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ając</l>
+          <r>ac<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+        </p>
+        <par n="BASE__jasny"/>
+      </e>
     </pardef>
     <pardef n="brëk/òwac__vblex">
       <e>
@@ -8617,6 +8630,19 @@
           <r>òwac<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
+      <e>
+        <p>
+          <l>ùjąc</l>
+          <r>òwac<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ùjąc</l>
+          <r>òwac<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+        </p>
+        <par n="BASE__jasny"/>
+      </e>
     </pardef>
     <pardef n="kòszt/ac__vblex">
       <e>
@@ -8645,6 +8671,19 @@
           <l>ują</l>
           <r>ac<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
+      </e>
+      <e>
+        <p>
+          <l>ując</l>
+          <r>ac<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ując</l>
+          <r>ac<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+        </p>
+        <par n="BASE__jasny"/>
       </e>
     </pardef>
     <pardef n="prziń/c__vblex">
