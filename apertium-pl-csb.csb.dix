@@ -3361,6 +3361,15 @@
         <par n="BASE__atlantëcczi"/>
       </e>
     </pardef>
+    <pardef n="chtern/y__prn">
+      <e>
+        <p>
+          <l/>
+          <r>y<s n="prn"/><s n="itg"/></r>
+        </p>
+        <par n="BASE__jasny"/>
+      </e>
+    </pardef>
     <pardef n="sã__prn">
       <e>
         <p>
@@ -9955,6 +9964,7 @@
     <e lm="co"><i></i><par n="co__det"/></e>
     <e lm="chtos"><i></i><par n="chtos__prn"/></e>
     <e lm="cos"><i></i><par n="cos__prn"/></e>
+    <e lm="chterny"><i>chtern</i><par n="chtern/y__prn"/></e>
     <e lm="jaczi"><i>ja</i><par n="ja/czi__prn"/></e>
     <e lm="jaczis"><i>ja</i><par n="ja/czis__prn"/></e>
     <e lm="taczi"><i>ta</i><par n="ta/czi__det"/></e>
