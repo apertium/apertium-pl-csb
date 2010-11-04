@@ -8238,86 +8238,6 @@
         </p>
       </e>
     </pardef>
-    <!-- vbser -->
-    <pardef n="/bëc__vbser">
-      <e>
-        <p>
-          <l>bëc</l>
-          <r>bëc<s n="vbser"/><s n="inf"/></r>
-        </p>
-      </e>
-
-      <!-- Present -->
-      <e>
-        <p>
-          <l>jem</l>
-          <r>bëc<s n="vbser"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>jes</l>
-          <r>bëc<s n="vbser"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>je</l>
-          <r>bëc<s n="vbser"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>jesmë</l>
-          <r>bëc<s n="vbser"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>jesma</l>
-          <r>bëc<s n="vbser"/><s n="pres"/><s n="p1"/><s n="du"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>jesta</l>
-          <r>bëc<s n="vbser"/><s n="pres"/><s n="p2"/><s n="du"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>jesce</l>
-          <r>bëc<s n="vbser"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>są</l>
-          <r>bëc<s n="vbser"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>bë</l>
-          <r>bëc<s n="vbser"/></r>
-        </p>
-        <par n="BASE__pòmògł"/>
-      </e>
-      <e>
-        <p>
-          <l>béł</l>
-          <r>bëc<s n="vbser"/><s n="past"/><s n="mp"/><s n="sg"/></r>
-        </p>
-      </e>
-
-      <e>
-        <p>
-          <l>bãdąc</l>
-          <r>bëc<s n="vbser"/><s n="pprs"/></r>
-        </p>
-        <par n="BASE__jasny"/>
-      </e>
-    </pardef>
     <pardef n="BASE__ùczi">
       <e>
         <p>
@@ -8550,6 +8470,114 @@
           <l>szłabë</l>
           <r><s n="cni"/><s n="mf"/><s n="du"/></r>
         </p>
+      </e>
+    </pardef>
+
+    <!-- vbser -->
+    <pardef n="/bëc__vbser">
+      <e>
+        <p>
+          <l>bëc</l>
+          <r>bëc<s n="vbser"/><s n="inf"/></r>
+        </p>
+      </e>
+
+      <!-- Present -->
+      <e>
+        <p>
+          <l>jem</l>
+          <r>bëc<s n="vbser"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>jes</l>
+          <r>bëc<s n="vbser"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>je</l>
+          <r>bëc<s n="vbser"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>jesmë</l>
+          <r>bëc<s n="vbser"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>jesma</l>
+          <r>bëc<s n="vbser"/><s n="pres"/><s n="p1"/><s n="du"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>jesta</l>
+          <r>bëc<s n="vbser"/><s n="pres"/><s n="p2"/><s n="du"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>jesce</l>
+          <r>bëc<s n="vbser"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>są</l>
+          <r>bëc<s n="vbser"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+
+      <e>
+        <p>
+          <l>mdzã</l>
+          <r>bëc<s n="vbser"/><s n="fut"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>mdze</l>
+          <r>bëc<s n="vbser"/><s n="fut"/></r>
+        </p>
+        <par n="BASE__ùczi"/>
+      </e>
+      <e>
+        <p>
+          <l>mdzą</l>
+          <r>bëc<s n="vbser"/><s n="fut"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+
+      <e>
+        <p>
+          <l>bë</l>
+          <r>bëc<s n="vbser"/></r>
+        </p>
+        <par n="BASE__pòmògł"/>
+      </e>
+      <e>
+        <p>
+          <l>béł</l>
+          <r>bëc<s n="vbser"/><s n="past"/><s n="mp"/><s n="sg"/></r>
+        </p>
+      </e>
+
+      <e>
+        <p>
+          <l>bãdąc</l>
+          <r>bëc<s n="vbser"/><s n="pprs"/><s n="adv"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>bãdąc</l>
+          <r>bëc<s n="vbser"/><s n="pprs"/></r>
+        </p>
+        <par n="BASE__jasny"/>
       </e>
     </pardef>
 
