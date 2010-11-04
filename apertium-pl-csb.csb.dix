@@ -7544,6 +7544,92 @@
       </e>
     </pardef>
 
+    <pardef n="BASE__pòmògł">
+      <e>
+        <p>
+          <l>ł</l>
+          <r><s n="past"/><s n="m"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ła</l>
+          <r><s n="past"/><s n="f"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ło</l>
+          <r><s n="past"/><s n="nt"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>lë</l>
+          <r><s n="past"/><s n="ma"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>łë</l>
+          <r><s n="past"/><s n="mf"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ła</l>
+          <r><s n="past"/><s n="ma"/><s n="du"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ła</l>
+          <r><s n="past"/><s n="mf"/><s n="du"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>łbë</l>
+          <r><s n="cni"/><s n="m"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>łabë</l>
+          <r><s n="cni"/><s n="f"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>łobë</l>
+          <r><s n="cni"/><s n="nt"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>lëbë</l>
+          <r><s n="cni"/><s n="ma"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>łëbë</l>
+          <r><s n="cni"/><s n="mf"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>łabë</l>
+          <r><s n="cni"/><s n="ma"/><s n="du"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>łabë</l>
+          <r><s n="cni"/><s n="mf"/><s n="du"/></r>
+        </p>
+      </e>
+    </pardef>
     <!-- vbser -->
     <pardef n="/bëc__vbser">
       <e>
@@ -7604,38 +7690,15 @@
       </e>
       <e>
         <p>
-          <l>bëł</l>
-          <r>bëc<s n="vbser"/><s n="past"/><s n="m"/><s n="sg"/></r>
+          <l>bë</l>
+          <r>bëc<s n="vbser"/></r>
         </p>
+        <par n="BASE__pòmògł"/>
       </e>
       <e>
         <p>
           <l>béł</l>
           <r>bëc<s n="vbser"/><s n="past"/><s n="mp"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>bëła</l>
-          <r>bëc<s n="vbser"/><s n="past"/><s n="f"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>bëło</l>
-          <r>bëc<s n="vbser"/><s n="past"/><s n="nt"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>bëlë</l>
-          <r>bëc<s n="vbser"/><s n="past"/><s n="ma"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>bëła</l>
-          <r>bëc<s n="vbser"/><s n="past"/><s n="mf"/><s n="du"/></r>
         </p>
       </e>
     </pardef>
@@ -8072,92 +8135,6 @@
       <e>
         <p>
           <l>szłabë</l>
-          <r><s n="cni"/><s n="mf"/><s n="du"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="BASE__pòmògł">
-      <e>
-        <p>
-          <l>ł</l>
-          <r><s n="past"/><s n="m"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ła</l>
-          <r><s n="past"/><s n="f"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ło</l>
-          <r><s n="past"/><s n="nt"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>lë</l>
-          <r><s n="past"/><s n="ma"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>łë</l>
-          <r><s n="past"/><s n="mf"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ła</l>
-          <r><s n="past"/><s n="ma"/><s n="du"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ła</l>
-          <r><s n="past"/><s n="mf"/><s n="du"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>łbë</l>
-          <r><s n="cni"/><s n="m"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>łabë</l>
-          <r><s n="cni"/><s n="f"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>łobë</l>
-          <r><s n="cni"/><s n="nt"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>lëbë</l>
-          <r><s n="cni"/><s n="ma"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>łëbë</l>
-          <r><s n="cni"/><s n="mf"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>łabë</l>
-          <r><s n="cni"/><s n="ma"/><s n="du"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>łabë</l>
           <r><s n="cni"/><s n="mf"/><s n="du"/></r>
         </p>
       </e>
