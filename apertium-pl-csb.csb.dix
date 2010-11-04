@@ -10656,6 +10656,7 @@
     <e lm="dobrze"><p><l>lepi</l><r>dobrze</r></p><par n="chùtczi__adv"/></e>
     <e lm="dobrze"><p><l>nôlepi</l><r>dobrze</r></p><par n="nôchùtczi__adv"/></e>
     <e lm="wiedno"><i>wiedno</i><par n="téż__adv"/></e>
+    <e lm="witro"><i>witro</i><par n="téż__adv"/></e>
     <e lm="wczora"><i>wczora</i><par n="téż__adv"/></e>
     <e lm="nazôd"><i>nazôd</i><par n="téż__adv"/></e>
     <e lm="richtich"><i>richtich</i><par n="téż__adv"/></e>
@@ -10681,6 +10682,7 @@
     <e lm="òb noc"><i>òb<b/>noc</i><par n="téż__adv"/></e>
     <e lm="dodóm"><i>dodóm</i><par n="téż__adv"/></e>
     <e lm="òb lato"><i>òb<b/>lato</i><par n="téż__adv"/></e>
+    <e lm="òb wieczórk"><i>òb<b/>wieczórk</i><par n="téż__adv"/></e>
     <e lm="dëcht"><i>dëcht</i><par n="téż__adv"/></e>
     <e lm="gwës"><i>gwës</i><par n="téż__adv"/></e>
 
@@ -10907,6 +10909,8 @@
     <e lm="ważny"><p><l>ważniész</l><r>ważny</r></p><par n="lepsz/i__adj"/></e>
     <e lm="ważny"><p><l>nôważniész</l><r>ważny</r></p><par n="nôlepsz/i__adj"/></e>
     <e lm="piérwi"><i>piérw</i><par n="piérw/i__det"/></e>
+    <e lm="terôzniészi"><i>terôzniész</i><par n="zdrojow/i__adj"/></e>
+    <e lm="szczestlëwi"><i>szczestlëw</i><par n="zdrojow/i__adj"/></e>
     <e lm="zdrojowi"><i>zdrojow</i><par n="zdrojow/i__adj"/></e>
     <e lm="pòrénkòwi"><i>pòrénkòw</i><par n="zdrojow/i__adj"/></e>
     <e lm="nordowi"><i>nordow</i><par n="zdrojow/i__adj"/></e>

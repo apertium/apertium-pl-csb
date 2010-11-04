@@ -122,10 +122,12 @@
     <e><p><l>tyś<s n="num"/></l><r>tys<s n="num"/></r></p></e>
 
     <e><p><l>naj<s n="adv"/></l><r>nô<s n="adv"/></r></p></e>
+    <e><p><l>jutro<s n="adv"/></l><r>witro<s n="adv"/></r></p></e>
     <e><p><l>dużo<s n="adv"/></l><r>dużo<s n="adv"/></r></p></e>
     <e><p><l>w<b/>nocy<s n="adv"/></l><r>òb<b/>noc<s n="adv"/></r></p></e>
     <e><p><l>do<b/>domu<s n="adv"/></l><r>dodóm<s n="adv"/></r></p></e>
     <e><p><l>latem<s n="adv"/></l><r>òb<b/>lato<s n="adv"/></r></p></e>
+    <e><p><l>wieczorem<s n="adv"/></l><r>òb<b/>wieczórk<s n="adv"/></r></p></e>
     <e><p><l>właśnie<s n="adv"/></l><r>dëcht<s n="adv"/></r></p></e>
     <e><p><l>na<b/>pewno<s n="adv"/></l><r>gwës<s n="adv"/></r></p></e>
     <e><p><l>już<s n="adv"/></l><r>ju<s n="adv"/></r></p></e>
@@ -749,6 +751,8 @@
     
     <e><p><l>cudzy<s n="adj"/></l><r>cëzy<s n="adj"/></r></p></e>
     <e><p><l>pewny<s n="adj"/></l><r>gwësny<s n="adj"/></r></p></e>
+    <e><p><l>teraźniejszy<s n="adj"/></l><r>terôzniészi<s n="adj"/></r></p></e>
+    <e><p><l>szczęśliwy<s n="adj"/></l><r>szczestlëwi<s n="adj"/></r></p></e>
     <e><p><l>wschodni<s n="adj"/></l><r>pòrénkòwi<s n="adj"/></r></p></e>
     <e><p><l>północny<s n="adj"/></l><r>nordowi<s n="adj"/></r></p></e>
     <e><p><l>południowy<s n="adj"/></l><r>pôłniowi<s n="adj"/></r></p></e>
