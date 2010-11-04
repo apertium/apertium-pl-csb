@@ -11547,6 +11547,8 @@
     <e lm="klasyfikòwac"><i>klasyfik</i><par n="brëk/òwac__vblex"/></e>
     <e lm="mòdifikòwac"><i>mòdifik</i><par n="brëk/òwac__vblex"/></e>
     <e lm="editowac"><i>edit</i><par n="edit/owac__vblex"/></e>
+    <e lm="adoptowac"><i>adopt</i><par n="edit/owac__vblex"/></e>
+    <e lm="bùdowac"><i>bùd</i><par n="edit/owac__vblex"/></e>
 
     <e lm="jak"><i>jak</i><par n="jak__adv"/></e>
     <e lm="czedë"><i>czedë</i><par n="jak__adv"/></e>
