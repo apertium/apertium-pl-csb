@@ -3853,7 +3853,19 @@
       </e>
       <e>
         <p>
+          <l>égò</l>
+          <r><s n="nt"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
           <l>égo</l>
+          <r><s n="nt"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ego</l>
           <r><s n="nt"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
@@ -3948,6 +3960,36 @@
           <r></r>
         </p>
         <par n="PBASE__pisania"/>
+      </e>
+    </pardef>
+    <pardef n="BASE__brëkòwanié">
+      <e>
+        <p>
+          <l>a</l>
+          <r></r>
+        </p>
+        <par n="BASE__pisanié"/>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ô</l>
+          <r></r>
+        </p>
+        <par n="BASE__pisanié"/>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ò</l>
+          <r></r>
+        </p>
+        <par n="BASE__pisanié"/>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ó</l>
+          <r></r>
+        </p>
+        <par n="BASE__pisanié"/>
       </e>
     </pardef>
 
