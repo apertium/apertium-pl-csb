@@ -4211,6 +4211,92 @@
         </p>
       </e>
     </pardef>
+    <pardef n="kriteri/um__n">
+      <e>
+        <p>
+          <l>um</l>
+          <r>um<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>um</l>
+          <r>um<s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>um</l>
+          <r>um<s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>um</l>
+          <r>um<s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>um</l>
+          <r>um<s n="n"/><s n="nt"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>um</l>
+          <r>um<s n="n"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>um</l>
+          <r>um<s n="n"/><s n="nt"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r>um<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ów</l>
+          <r>um<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>óm</l>
+          <r>um<s n="n"/><s n="nt"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r>um<s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ama</l>
+          <r>um<s n="n"/><s n="nt"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ach</l>
+          <r>um<s n="n"/><s n="nt"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r>um<s n="n"/><s n="nt"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="Marij/ô__np">
       <e>
         <p>
@@ -10606,6 +10692,19 @@
     <e lm="abecadło"><i>abecad</i><par n="abecad/ło__n"/></e>
     <e lm="miono"><i>mion</i><par n="mion/o__n"/></e>
     <e lm="karno"><i>karn</i><par n="mion/o__n"/></e>
+    <e lm="centrum"><i>centr</i><par n="kriteri/um__n"/></e>
+    <e lm="continuum"><i>continu</i><par n="kriteri/um__n"/></e>
+    <e lm="gimnazjum"><i>gimnazj</i><par n="kriteri/um__n"/></e>
+    <e lm="kalãdarium"><i>kalãdari</i><par n="kriteri/um__n"/></e>
+    <e lm="kriterium"><i>kriteri</i><par n="kriteri/um__n"/></e>
+    <e lm="Mònachium"><i>Mònachi</i><par n="kriteri/um__n"/></e>
+    <e lm="progimnazjum"><i>progimnazj</i><par n="kriteri/um__n"/></e>
+    <e lm="sanktuarium"><i>sanktuari</i><par n="kriteri/um__n"/></e>
+    <e lm="seminarium"><i>seminari</i><par n="kriteri/um__n"/></e>
+    <e lm="stipendium"><i>stipendi</i><par n="kriteri/um__n"/></e>
+    <e lm="sztipendium"><i>sztipendi</i><par n="kriteri/um__n"/></e>
+    <e lm="teritorium"><i>teritori</i><par n="kriteri/um__n"/></e>
+    <e lm="theatrum"><i>theatr</i><par n="kriteri/um__n"/></e>
     <e lm="wiki"><i>wiki</i><par n="wiki__n"/></e>
     <e lm="km"><i>km</i><par n="km__n"/></e>
     <e lm="kg"><i>kg</i><par n="km__n"/></e>
@@ -10613,6 +10712,7 @@
     <e lm="nr"><i>nr</i><par n="km__n"/></e>
     <e lm="sw"><i>sw</i><par n="km__n"/></e>
     <e lm="dr"><i>dr</i><par n="km__n"/></e>
+    <e lm="jpg"><i>jpg</i><par n="km__n"/></e>
 
     <e lm="Pòlskô"><i>Pòls</i><par n="Pòls/kô__np"/></e>
     <e lm="Ruskô"><i>Rus</i><par n="Pòls/kô__np"/></e>

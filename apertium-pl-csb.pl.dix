@@ -41271,6 +41271,7 @@
     <e lm="cm"><i>cm</i><par n="km__n"/></e>
     <e lm="nr"><i>nr</i><par n="km__n"/></e>
     <e lm="św"><i>św</i><par n="km__n"/></e>
+    <e lm="jpg"><i>jpg</i><par n="km__n"/></e>
     <e lm="os"><i>os</i><par n="os__n"/></e>
     <e lm="mln"><i>mln</i><par n="np__abbr"/></e>
     <e lm="mld"><i>mld</i><par n="np__abbr"/></e>
