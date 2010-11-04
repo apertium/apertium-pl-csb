@@ -1158,173 +1158,407 @@
       </e>
       <e>
         <p>
-          <l>oja</l>
+          <l>òja</l>
           <r><s n="f"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>oje</l>
+          <l>òje</l>
           <r><s n="nt"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>oji</l>
+          <l>òji</l>
           <r><s n="mp"/><s n="pl"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>oji</l>
+          <l>òji</l>
           <r><s n="ma"/><s n="pl"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>oje</l>
+          <l>òje</l>
           <r><s n="mi"/><s n="pl"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>oje</l>
+          <l>òje</l>
           <r><s n="f"/><s n="pl"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>oje</l>
+          <l>òje</l>
           <r><s n="nt"/><s n="pl"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>ojégo</l>
+          <l>òjégo</l>
           <r><s n="mp"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>ojégo</l>
+          <l>òjégo</l>
           <r><s n="ma"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>ojégo</l>
+          <l>òjégo</l>
+          <r><s n="mi"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>òjego</l>
+          <r><s n="mp"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>òjego</l>
+          <r><s n="ma"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>òjego</l>
           <r><s n="mi"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>oji</l>
+          <l>òji</l>
           <r><s n="f"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>ojégo</l>
+          <l>òjégo</l>
+          <r><s n="nt"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>òjego</l>
           <r><s n="nt"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>ojich</l>
+          <l>òjich</l>
           <r><s n="mp"/><s n="pl"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>ojich</l>
+          <l>òjich</l>
           <r><s n="ma"/><s n="pl"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>ojich</l>
+          <l>òjich</l>
           <r><s n="mi"/><s n="pl"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>ojich</l>
+          <l>òjich</l>
           <r><s n="f"/><s n="pl"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>ojich</l>
+          <l>òjich</l>
           <r><s n="nt"/><s n="pl"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>ojému</l>
+          <l>òjému</l>
           <r><s n="mp"/><s n="sg"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>ojému</l>
+          <l>òjému</l>
           <r><s n="ma"/><s n="sg"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>ojému</l>
+          <l>òjému</l>
+          <r><s n="mi"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>òjemu</l>
+          <r><s n="mp"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>òjemu</l>
+          <r><s n="ma"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>òjemu</l>
           <r><s n="mi"/><s n="sg"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>oji</l>
+          <l>òji</l>
           <r><s n="f"/><s n="sg"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>ojému</l>
+          <l>òjému</l>
+          <r><s n="nt"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>òjemu</l>
           <r><s n="nt"/><s n="sg"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>ojim</l>
+          <l>òjim</l>
           <r><s n="mp"/><s n="pl"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>ojim</l>
+          <l>òjim</l>
           <r><s n="ma"/><s n="pl"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>ojim</l>
+          <l>òjim</l>
           <r><s n="mi"/><s n="pl"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>ojim</l>
+          <l>òjim</l>
           <r><s n="f"/><s n="pl"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>ojim</l>
+          <l>òjim</l>
           <r><s n="nt"/><s n="pl"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>ojégo</l>
+          <l>òjégo</l>
           <r><s n="mp"/><s n="sg"/><s n="acc"/></r>
         </p>
       </e>
       <e>
+        <p>
+          <l>òjégo</l>
+          <r><s n="ma"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>òjego</l>
+          <r><s n="mp"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>òjego</l>
+          <r><s n="ma"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>oja</l>
+          <r><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>oje</l>
+          <r><s n="nt"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>oji</l>
+          <r><s n="mp"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>oji</l>
+          <r><s n="ma"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>oje</l>
+          <r><s n="mi"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>oje</l>
+          <r><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>oje</l>
+          <r><s n="nt"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ojégo</l>
+          <r><s n="mp"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ojégo</l>
+          <r><s n="ma"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ojégo</l>
+          <r><s n="mi"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>oji</l>
+          <r><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ojégo</l>
+          <r><s n="nt"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ojich</l>
+          <r><s n="mp"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ojich</l>
+          <r><s n="ma"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ojich</l>
+          <r><s n="mi"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ojich</l>
+          <r><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ojich</l>
+          <r><s n="nt"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ojému</l>
+          <r><s n="mp"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ojému</l>
+          <r><s n="ma"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ojému</l>
+          <r><s n="mi"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>oji</l>
+          <r><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ojému</l>
+          <r><s n="nt"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ojim</l>
+          <r><s n="mp"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ojim</l>
+          <r><s n="ma"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ojim</l>
+          <r><s n="mi"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ojim</l>
+          <r><s n="f"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ojim</l>
+          <r><s n="nt"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ojégo</l>
+          <r><s n="mp"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e r="LR">
         <p>
           <l>ojégo</l>
           <r><s n="ma"/><s n="sg"/><s n="acc"/></r>
@@ -1344,191 +1578,383 @@
       </e>
       <e>
         <p>
-          <l>oją</l>
+          <l>òją</l>
           <r><s n="f"/><s n="sg"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>oje</l>
+          <l>òje</l>
           <r><s n="nt"/><s n="sg"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>ojich</l>
+          <l>òjich</l>
           <r><s n="mp"/><s n="pl"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>oje</l>
+          <l>òje</l>
           <r><s n="ma"/><s n="pl"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>oje</l>
+          <l>òje</l>
           <r><s n="mi"/><s n="pl"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>oje</l>
+          <l>òje</l>
           <r><s n="f"/><s n="pl"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>oje</l>
+          <l>òje</l>
           <r><s n="nt"/><s n="pl"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>ojim</l>
+          <l>òjim</l>
           <r><s n="mp"/><s n="sg"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>ojim</l>
+          <l>òjim</l>
           <r><s n="ma"/><s n="sg"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>ojim</l>
+          <l>òjim</l>
           <r><s n="mi"/><s n="sg"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>oją</l>
+          <l>òją</l>
           <r><s n="f"/><s n="sg"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>ojim</l>
+          <l>òjim</l>
           <r><s n="nt"/><s n="sg"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>ojimi</l>
+          <l>òjimi</l>
           <r><s n="mp"/><s n="pl"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>ojimi</l>
+          <l>òjimi</l>
           <r><s n="ma"/><s n="pl"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>ojimi</l>
+          <l>òjimi</l>
           <r><s n="mi"/><s n="pl"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>ojimi</l>
+          <l>òjimi</l>
           <r><s n="f"/><s n="pl"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>ojimi</l>
+          <l>òjimi</l>
           <r><s n="nt"/><s n="pl"/><s n="ins"/></r>
         </p>
       </e>
       <e r="LR">
         <p>
-          <l>ojima</l>
-          <r><s n="mp"/><s n="pl"/><s n="ins"/></r>
+          <l>oją</l>
+          <r><s n="f"/><s n="sg"/><s n="acc"/></r>
         </p>
       </e>
       <e r="LR">
         <p>
-          <l>ojima</l>
-          <r><s n="ma"/><s n="pl"/><s n="ins"/></r>
+          <l>oje</l>
+          <r><s n="nt"/><s n="sg"/><s n="acc"/></r>
         </p>
       </e>
       <e r="LR">
         <p>
-          <l>ojima</l>
-          <r><s n="mi"/><s n="pl"/><s n="ins"/></r>
+          <l>ojich</l>
+          <r><s n="mp"/><s n="pl"/><s n="acc"/></r>
         </p>
       </e>
       <e r="LR">
         <p>
-          <l>ojima</l>
-          <r><s n="f"/><s n="pl"/><s n="ins"/></r>
+          <l>oje</l>
+          <r><s n="ma"/><s n="pl"/><s n="acc"/></r>
         </p>
       </e>
       <e r="LR">
         <p>
-          <l>ojima</l>
-          <r><s n="nt"/><s n="pl"/><s n="ins"/></r>
+          <l>oje</l>
+          <r><s n="mi"/><s n="pl"/><s n="acc"/></r>
         </p>
       </e>
-      <e>
+      <e r="LR">
+        <p>
+          <l>oje</l>
+          <r><s n="f"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>oje</l>
+          <r><s n="nt"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e r="LR">
         <p>
           <l>ojim</l>
+          <r><s n="mp"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ojim</l>
+          <r><s n="ma"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ojim</l>
+          <r><s n="mi"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>oją</l>
+          <r><s n="f"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ojim</l>
+          <r><s n="nt"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ojimi</l>
+          <r><s n="mp"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ojimi</l>
+          <r><s n="ma"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ojimi</l>
+          <r><s n="mi"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ojimi</l>
+          <r><s n="f"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ojimi</l>
+          <r><s n="nt"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ojima</l>
+          <r><s n="mp"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ojima</l>
+          <r><s n="ma"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ojima</l>
+          <r><s n="mi"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ojima</l>
+          <r><s n="f"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ojima</l>
+          <r><s n="nt"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>òjima</l>
+          <r><s n="mp"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>òjima</l>
+          <r><s n="ma"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>òjima</l>
+          <r><s n="mi"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>òjima</l>
+          <r><s n="f"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>òjima</l>
+          <r><s n="nt"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>òjim</l>
           <r><s n="mp"/><s n="sg"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>ojim</l>
+          <l>òjim</l>
           <r><s n="ma"/><s n="sg"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>ojim</l>
+          <l>òjim</l>
           <r><s n="mi"/><s n="sg"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>oji</l>
+          <l>òji</l>
           <r><s n="f"/><s n="sg"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>ojim</l>
+          <l>òjim</l>
           <r><s n="nt"/><s n="sg"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>ojich</l>
+          <l>òjich</l>
           <r><s n="mp"/><s n="pl"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>ojich</l>
+          <l>òjich</l>
           <r><s n="ma"/><s n="pl"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>ojich</l>
+          <l>òjich</l>
           <r><s n="mi"/><s n="pl"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>ojich</l>
+          <l>òjich</l>
           <r><s n="f"/><s n="pl"/><s n="loc"/></r>
         </p>
       </e>
       <e>
+        <p>
+          <l>òjich</l>
+          <r><s n="nt"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ojim</l>
+          <r><s n="mp"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ojim</l>
+          <r><s n="ma"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ojim</l>
+          <r><s n="mi"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>oji</l>
+          <r><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ojim</l>
+          <r><s n="nt"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ojich</l>
+          <r><s n="mp"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ojich</l>
+          <r><s n="ma"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ojich</l>
+          <r><s n="mi"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ojich</l>
+          <r><s n="f"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e r="LR">
         <p>
           <l>ojich</l>
           <r><s n="nt"/><s n="pl"/><s n="loc"/></r>
@@ -1570,39 +1996,75 @@
           <r><s n="mi"/><s n="sg"/><s n="voc"/></r>
         </p>
       </e>
-      <e>
+      <e r="LR">
         <p>
           <l>oja</l>
           <r><s n="f"/><s n="sg"/><s n="voc"/></r>
         </p>
       </e>
-      <e>
+      <e r="LR">
         <p>
           <l>oje</l>
           <r><s n="nt"/><s n="sg"/><s n="voc"/></r>
         </p>
       </e>
-      <e>
+      <e r="LR">
         <p>
           <l>oji</l>
           <r><s n="mp"/><s n="pl"/><s n="voc"/></r>
         </p>
       </e>
-      <e>
+      <e r="LR">
         <p>
           <l>oji</l>
           <r><s n="ma"/><s n="pl"/><s n="voc"/></r>
         </p>
       </e>
-      <e>
+      <e r="LR">
         <p>
           <l>oje</l>
           <r><s n="mi"/><s n="pl"/><s n="voc"/></r>
         </p>
       </e>
-      <e>
+      <e r="LR">
         <p>
           <l>oje</l>
+          <r><s n="f"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>òja</l>
+          <r><s n="f"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>òje</l>
+          <r><s n="nt"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>òji</l>
+          <r><s n="mp"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>òji</l>
+          <r><s n="ma"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>òje</l>
+          <r><s n="mi"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>òje</l>
           <r><s n="f"/><s n="pl"/><s n="voc"/></r>
         </p>
       </e>
