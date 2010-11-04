@@ -8318,180 +8318,6 @@
         <par n="BASE__jasny"/>
       </e>
     </pardef>
-    <pardef n="mieszk/ac__vblex">
-      <e>
-        <p>
-          <l>ac</l>
-          <r>ac<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
-        </p>
-      </e>
-
-      <!-- Present -->
-      <e>
-        <p>
-          <l>óm</l>
-          <r>ac<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ôsz</l>
-          <r>ac<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ô</l>
-          <r>ac<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ómë</l>
-          <r>ac<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>óma</l>
-          <r>ac<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="du"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ôta</l>
-          <r>ac<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="du"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ôce</l>
-          <r>ac<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ają</l>
-          <r>ac<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="kòszt/ac__vblex">
-      <e>
-        <p>
-          <l>ac</l>
-          <r>ac<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
-        </p>
-      </e>
-
-      <!-- Present -->
-      <e>
-        <p>
-          <l>óm</l>
-          <r>ac<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ôsz</l>
-          <r>ac<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ô</l>
-          <r>ac<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ómë</l>
-          <r>ac<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>óma</l>
-          <r>ac<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="du"/></r>
-        </p>
-      </e>
-      <e c="seems wrong">
-        <p>
-          <l>ta</l>
-          <r>ac<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="du"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ece</l>
-          <r>ac<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ują</l>
-          <r>ac<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="prziń/c__vblex">
-      <e>
-        <p>
-          <l>c</l>
-          <r>c<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
-        </p>
-      </e>
-
-      <!-- Present -->
-      <e>
-        <p>
-          <l>dã</l>
-          <r>c<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>dzesz</l>
-          <r>c<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>dze</l>
-          <r>c<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>dzemë</l>
-          <r>c<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>dzema</l>
-          <r>c<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="du"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>dzeta</l>
-          <r>c<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="du"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>dzece</l>
-          <r>c<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>dą</l>
-          <r>c<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
-        </p>
-      </e>
-    </pardef>
     <pardef n="BASE__ùczi">
       <e>
         <p>
@@ -8527,35 +8353,6 @@
         <p>
           <l>ce</l>
           <r><s n="p2"/><s n="pl"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="ùcz/ëc__vblex">
-      <e>
-        <p>
-          <l>ëc</l>
-          <r>ëc<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
-        </p>
-      </e>
-
-      <!-- Present -->
-      <e>
-        <p>
-          <l>ã</l>
-          <r>ëc<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>i</l>
-          <r>ëc<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
-        </p>
-        <par n="BASE__ùczi"/>
-      </e>
-      <e>
-        <p>
-          <l>ą</l>
-          <r>ëc<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
     </pardef>
@@ -8752,6 +8549,159 @@
         <p>
           <l>szłabë</l>
           <r><s n="cni"/><s n="mf"/><s n="du"/></r>
+        </p>
+      </e>
+    </pardef>
+
+    <pardef n="mieszk/ac__vblex">
+      <e>
+        <p>
+          <l>ac</l>
+          <r>ac<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+        </p>
+      </e>
+
+      <!-- Present -->
+      <e>
+        <p>
+          <l>óm</l>
+          <r>ac<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ô</l>
+          <r>ac<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
+        </p>
+        <par n="BASE__ùczi"/>
+      </e>
+      <e>
+        <p>
+          <l>ają</l>
+          <r>ac<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="brëk/òwac__vblex">
+      <e>
+        <p>
+          <l>òwac</l>
+          <r>òwac<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+        </p>
+      </e>
+
+      <!-- Present -->
+      <e>
+        <p>
+          <l>ùj</l>
+          <r>òwac<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ùje</l>
+          <r>òwac<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
+        </p>
+        <par n="BASE__ùczi"/>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ùjë</l>
+          <r>òwac<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
+        </p>
+        <par n="BASE__ùczi"/>
+      </e>
+      <e>
+        <p>
+          <l>ùją</l>
+          <r>òwac<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="kòszt/ac__vblex">
+      <e>
+        <p>
+          <l>ac</l>
+          <r>ac<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+        </p>
+      </e>
+
+      <!-- Present -->
+      <e>
+        <p>
+          <l>óm</l>
+          <r>ac<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ô</l>
+          <r>ac<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
+        </p>
+        <par n="BASE__ùczi"/>
+      </e>
+      <e>
+        <p>
+          <l>ują</l>
+          <r>ac<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="prziń/c__vblex">
+      <e>
+        <p>
+          <l>c</l>
+          <r>c<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+        </p>
+      </e>
+
+      <!-- Present -->
+      <e>
+        <p>
+          <l>dã</l>
+          <r>c<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dze</l>
+          <r>c<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
+        </p>
+        <par n="BASE__ùczi"/>
+      </e>
+      <e>
+        <p>
+          <l>dą</l>
+          <r>c<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="ùcz/ëc__vblex">
+      <e>
+        <p>
+          <l>ëc</l>
+          <r>ëc<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+        </p>
+      </e>
+
+      <!-- Present -->
+      <e>
+        <p>
+          <l>ã</l>
+          <r>ëc<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r>ëc<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
+        </p>
+        <par n="BASE__ùczi"/>
+      </e>
+      <e>
+        <p>
+          <l>ą</l>
+          <r>ëc<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
     </pardef>
