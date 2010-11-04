@@ -5508,6 +5508,57 @@
         <par n="PBASE__tidzénie"/>
       </e>
     </pardef>
+    <pardef n="artik/el__n">
+      <e>
+        <p>
+          <l>el</l>
+          <r>el<s n="n"/><s n="mi"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>la</l>
+          <r>el<s n="n"/><s n="mi"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>lu</l>
+          <r>el<s n="n"/><s n="mi"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>el</l>
+          <r>el<s n="n"/><s n="mi"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>lã</l>
+          <r>el<s n="n"/><s n="mi"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>lu</l>
+          <r>el<s n="n"/><s n="mi"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>lu</l>
+          <r>el<s n="n"/><s n="mi"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>l</l>
+          <r>el<s n="n"/></r>
+        </p>
+        <par n="PBASE__tidzénie"/>
+      </e>
+    </pardef>
     <pardef n="stëczni/k__n">
       <e>
         <p>
@@ -10083,6 +10134,8 @@
     <e lm="wicy jak"><i>wicy<b/>jak</i><par n="do__pr"/></e>
 
     <e lm="tidzéń"><i>tidzé</i><par n="tidzé/ń__n"/></e> <!-- week -->
+    <e lm="artikel"><i>artik</i><par n="artik/el__n"/></e>
+    <e lm="artikel" r="LR"><p><l>articz</l><r>artik</r></p><par n="artik/el__n"/></e>
     <e lm="inżinér"><i>inżinér</i><par n="inżinér__n"/></e>
     <e lm="jãzëk"><i>jãzë</i><par n="jãzë/k__n"/></e>
     <e lm="Gduńsk"><i>Gduńs</i><par n="Gduńs/k__np"/></e>
@@ -10951,6 +11004,7 @@
     <e lm="kòmercëjny"><i>kòmercëjn</i><par n="aborcëjn/y__adj"/></e>
     <e lm="kònkùrencëjny"><i>kònkùrencëjn</i><par n="aborcëjn/y__adj"/></e>
     <e lm="maksymalizacëjny"><i>maksymalizacëjn</i><par n="aborcëjn/y__adj"/></e>
+    <e lm="zwóny"><i>zwón</i><par n="aborcëjn/y__adj"/></e>
     <e lm="òbserwacëjny"><i>òbserwacëjn</i><par n="aborcëjn/y__adj"/></e>
     <e lm="proaborcëjny"><i>proaborcëjn</i><par n="aborcëjn/y__adj"/></e>
     <e lm="aborcëjny"><i>aborcëjn</i><par n="aborcëjn/y__adj"/></e>

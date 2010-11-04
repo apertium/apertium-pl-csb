@@ -326,6 +326,7 @@
     <e><p><l>starostwo<s n="n"/><s n="nt"/></l><r>starostwò<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>współautorstwo<s n="n"/><s n="nt"/></l><r>wespółaùtorstwò<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>rok<s n="n"/><s n="mi"/></l><r>rok<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>artykuł<s n="n"/><s n="mi"/></l><r>artikel<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>powiat<s n="n"/><s n="mi"/></l><r>kréz<s n="n"/><s n="mi"/></r></p></e>
     <e r="RL"><p><l>powiat<s n="n"/><s n="mi"/></l><r>pòwiat<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>stulecie<s n="n"/><s n="nt"/></l><r>stolaté<s n="n"/><s n="nt"/></r></p></e>
@@ -754,6 +755,7 @@
     <e><p><l>Ludwika<s n="np"/><s n="ant"/><s n="f"/></l><r>Ludwika<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
     
     <e><p><l>cudzy<s n="adj"/></l><r>cëzy<s n="adj"/></r></p></e>
+    <e><p><l>zwany<s n="adj"/></l><r>zwóny<s n="adj"/></r></p></e>
     <e><p><l>pewny<s n="adj"/></l><r>gwësny<s n="adj"/></r></p></e>
     <e><p><l>teraźniejszy<s n="adj"/></l><r>terôzniészi<s n="adj"/></r></p></e>
     <e><p><l>szczęśliwy<s n="adj"/></l><r>szczestlëwi<s n="adj"/></r></p></e>
