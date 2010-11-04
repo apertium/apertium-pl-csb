@@ -1119,20 +1119,38 @@
       </e>
     </pardef>
     <!-- BASE paradigms -->
-    <pardef n="BASE__mój">
+    <pardef n="BASE__mòj">
       <e>
         <p>
-          <l>ój</l>
+          <l>òj</l>
           <r><s n="mp"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>ój</l>
+          <l>òj</l>
           <r><s n="ma"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
       <e>
+        <p>
+          <l>òj</l>
+          <r><s n="mi"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ój</l>
+          <r><s n="mp"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ój</l>
+          <r><s n="ma"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e r="LR">
         <p>
           <l>ój</l>
           <r><s n="mi"/><s n="sg"/><s n="nom"/></r>
@@ -1314,6 +1332,12 @@
       </e>
       <e>
         <p>
+          <l>òj</l>
+          <r><s n="mi"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
           <l>ój</l>
           <r><s n="mi"/><s n="sg"/><s n="acc"/></r>
         </p>
@@ -1326,7 +1350,7 @@
       </e>
       <e>
         <p>
-          <l>ój</l>
+          <l>oje</l>
           <r><s n="nt"/><s n="sg"/><s n="acc"/></r>
         </p>
       </e>
@@ -1512,17 +1536,35 @@
       </e>
       <e>
         <p>
-          <l>ój</l>
+          <l>òj</l>
           <r><s n="mp"/><s n="sg"/><s n="voc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>ój</l>
+          <l>òj</l>
           <r><s n="ma"/><s n="sg"/><s n="voc"/></r>
         </p>
       </e>
       <e>
+        <p>
+          <l>òj</l>
+          <r><s n="mi"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ój</l>
+          <r><s n="mp"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ój</l>
+          <r><s n="ma"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e r="LR">
         <p>
           <l>ój</l>
           <r><s n="mi"/><s n="sg"/><s n="voc"/></r>
@@ -3265,6 +3307,24 @@
       </e>
     </pardef>
 
+    <pardef n="m/òj__det">
+      <e>
+        <p>
+          <l></l>
+          <r>òj<s n="det"/><s n="pos"/></r>
+        </p>
+        <par n="BASE__mòj"/>
+      </e>
+    </pardef>
+    <pardef n="m/òj__prn">
+      <e>
+        <p>
+          <l></l>
+          <r>òj<s n="prn"/><s n="pos"/></r>
+        </p>
+        <par n="BASE__mòj"/>
+      </e>
+    </pardef>
     <pardef n="naj__prn">
       <e>
         <p>
@@ -9914,6 +9974,12 @@
     <e lm="naj"><i>naj</i><par n="naj__prn"/></e>
     <e lm="waj"><i>waj</i><par n="naj__det"/></e>
     <e lm="waj"><i>waj</i><par n="naj__prn"/></e>
+    <e lm="mòj"><i>m</i><par n="m/òj__det"/></e>
+    <e lm="mòj"><i>m</i><par n="m/òj__det"/></e>
+    <e lm="twòj"><i>tw</i><par n="m/òj__det"/></e>
+    <e lm="twòj"><i>tw</i><par n="m/òj__det"/></e>
+    <e lm="swòj"><i>sw</i><par n="m/òj__det"/></e>
+    <e lm="swòj"><i>sw</i><par n="m/òj__det"/></e>
     <e lm="wiele"><i>wiel</i><par n="wiel/e__det"/></e>
     <e lm="wiele"><i>wiel</i><par n="wiel/e__prn"/></e>
     <e lm="kòżdi"><i>kòżd</i><par n="kòżd/i__det"/></e>
