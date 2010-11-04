@@ -8895,6 +8895,14 @@
         </p>
         <par n="BASE__jasny"/>
       </e>
+
+      <e>
+        <p>
+          <l>òw</l>
+          <r>òwac<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+        </p>
+        <par n="BASE__brëkòwanié"/>
+      </e>
     </pardef>
     <pardef n="kòszt/ac__vblex">
       <e>
