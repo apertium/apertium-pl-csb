@@ -3768,6 +3768,188 @@
         </p>
       </e>
     </pardef>
+    <pardef n="PBASE__pisania">
+      <e>
+        <p>
+          <l>a</l>
+          <r><s n="nt"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ów</l>
+          <r><s n="nt"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>óm</l>
+          <r><s n="nt"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r><s n="nt"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ami</l>
+          <r><s n="nt"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ama</l>
+          <r><s n="nt"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ach</l>
+          <r><s n="nt"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r><s n="nt"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="PBASE__pisanim">
+      <e>
+        <p>
+          <l>im</l>
+          <r><s n="nt"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ém</l>
+          <r><s n="nt"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>im</l>
+          <r><s n="nt"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>u</l>
+          <r><s n="nt"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="PBASE__pisanié">
+      <e>
+        <p>
+          <l>é</l>
+          <r><s n="nt"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>égo</l>
+          <r><s n="nt"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>a</l>
+          <r><s n="nt"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ô</l>
+          <r><s n="nt"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>u</l>
+          <r><s n="nt"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ému</l>
+          <r><s n="nt"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>owi</l>
+          <r><s n="nt"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>u</l>
+          <r><s n="nt"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>é</l>
+          <r><s n="nt"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>é</l>
+          <r><s n="nt"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="BASE__pisanié">
+      <e r="LR">
+        <p>
+          <l>ń</l>
+          <r></r>
+        </p>
+        <par n="PBASE__pisanim"/>
+      </e>
+      <e>
+        <p>
+          <l>n</l>
+          <r></r>
+        </p>
+        <par n="PBASE__pisanim"/>
+      </e>
+      <e r="LR">
+        <p>
+          <l>n</l>
+          <r></r>
+        </p>
+        <par n="PBASE__pisanié"/>
+      </e>
+      <e>
+        <p>
+          <l>ni</l>
+          <r></r>
+        </p>
+        <par n="PBASE__pisanié"/>
+      </e>
+      <e r="LR">
+        <p>
+          <l>n</l>
+          <r></r>
+        </p>
+        <par n="PBASE__pisania"/>
+      </e>
+      <e>
+        <p>
+          <l>ni</l>
+          <r></r>
+        </p>
+        <par n="PBASE__pisania"/>
+      </e>
+    </pardef>
 
     <pardef n="m/òj__det">
       <e>
@@ -11253,6 +11435,7 @@
     <e lm="òstac"><i>òst</i><par n="òst/ac__vblex"/></e>
     <e lm="spiéwac"><i>spiéw</i><par n="spiéw/ac__vblex"/></e>
     <e lm="czëtac"><i>czët</i><par n="spiéw/ac__vblex"/></e>
+    <e lm="brëkòwac"><i>brëk</i><par n="brëk/òwac__vblex"/></e>
 
     <e lm="jak"><i>jak</i><par n="jak__adv"/></e>
     <e lm="czedë"><i>czedë</i><par n="jak__adv"/></e>
