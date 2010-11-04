@@ -7710,6 +7710,14 @@
           <r>bëc<s n="vbser"/><s n="past"/><s n="mp"/><s n="sg"/></r>
         </p>
       </e>
+
+      <e>
+        <p>
+          <l>bãdąc</l>
+          <r>bëc<s n="vbser"/><s n="pprs"/></r>
+        </p>
+        <par n="BASE__jasny"/>
+      </e>
     </pardef>
     <pardef n="mieszk/ac__vblex">
       <e>
@@ -10078,6 +10086,7 @@
     <e lm="inżinér"><i>inżinér</i><par n="inżinér__n"/></e>
     <e lm="jãzëk"><i>jãzë</i><par n="jãzë/k__n"/></e>
     <e lm="Gduńsk"><i>Gduńs</i><par n="Gduńs/k__np"/></e>
+    <e lm="albùm"><i>albùm</i><par n="rujan__n"/></e>
 
     <!-- months -->
     <e lm="stëcznik"><i>stëczni</i><par n="stëczni/k__n"/></e> <!-- January -->
@@ -10133,6 +10142,8 @@
     <e lm="wespółaùtorstwò"><i>wespółaùtorstw</i><par n="wòjewództw/ò__n"/></e>
     <e lm="kùltura"><i>kùltur</i><par n="strzod/a__n"/></e>
     <e lm="subkùltura"><i>subkùltur</i><par n="strzod/a__n"/></e>
+    <e lm="architektura"><i>architektur</i><par n="strzod/a__n"/></e>
+    <e lm="atmòsfera"><i>atmòsfer</i><par n="strzod/a__n"/></e>
     <e lm="òbrôzk"><i>òbrôz</i><par n="piąt/k__n"/></e>
 
     <!-- days -->
@@ -10731,6 +10742,7 @@
 
     <!-- Adjectives -->
     <e lm="kaszëbsczi"><i>kaszëbs</i><par n="kaszëbs/czi__adj"/></e>
+    <e lm="ałtajsczi"><i>ałtajs</i><par n="kaszëbs/czi__adj"/></e>
     <e lm="rzimsczi"><i>rzims</i><par n="kaszëbs/czi__adj"/></e>
     <e lm="abchasczi"><i>abchas</i><par n="kaszëbs/czi__adj"/></e>
     <e lm="adigejsczi"><i>adigejs</i><par n="kaszëbs/czi__adj"/></e>
@@ -10909,6 +10921,7 @@
     <e lm="ważny"><p><l>ważniész</l><r>ważny</r></p><par n="lepsz/i__adj"/></e>
     <e lm="ważny"><p><l>nôważniész</l><r>ważny</r></p><par n="nôlepsz/i__adj"/></e>
     <e lm="piérwi"><i>piérw</i><par n="piérw/i__det"/></e>
+    <e lm="anonimòwi"><i>anonimòw</i><par n="zdrojow/i__adj"/></e>
     <e lm="terôzniészi"><i>terôzniész</i><par n="zdrojow/i__adj"/></e>
     <e lm="szczestlëwi"><i>szczestlëw</i><par n="zdrojow/i__adj"/></e>
     <e lm="zdrojowi"><i>zdrojow</i><par n="zdrojow/i__adj"/></e>

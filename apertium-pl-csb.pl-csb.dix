@@ -269,6 +269,8 @@
     <e><p><l>móc<s n="vaux"/></l><r>mòc<s n="vaux"/></r></p></e>
     
     <e><p><l>ziemia<s n="n"/><s n="f"/></l><r>zemia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>architektura<s n="n"/><s n="f"/></l><r>architektura<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>atmosfera<s n="n"/><s n="f"/></l><r>atmòsfera<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>filologia<s n="n"/><s n="f"/></l><r>filologijô<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>geologia<s n="n"/><s n="f"/></l><r>geòlogijô<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>techologia<s n="n"/><s n="f"/></l><r>techologijô<s n="n"/><s n="f"/></r></p></e>
@@ -303,6 +305,7 @@
     <e><p><l>ceramika<s n="n"/><s n="f"/></l><r>keramika<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>ceramika<s n="n"/><s n="f"/></l><r>ceramika<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ząb<s n="n"/><s n="mi"/></l><r>ząb<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>album<s n="n"/><s n="mi"/></l><r>albùm<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>obraz<s n="n"/><s n="mi"/></l><r>òbrôzk<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>alfabet<s n="n"/><s n="mi"/></l><r>alfabét<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>gmina<s n="n"/><s n="f"/></l><r>gmina<s n="n"/><s n="f"/></r></p></e>
@@ -773,6 +776,8 @@
     <e><p><l>podkarpacki<s n="adj"/></l><r>pòdkarpacczi<s n="adj"/></r></p></e>
     <e><p><l>świętokrzyski<s n="adj"/></l><r>swiãtokrzësczi<s n="adj"/></r></p></e>
     <e><p><l>warmińsko-mazurski<s n="adj"/></l><r>warminskô-mazursczi<s n="adj"/></r></p></e>
+    <e><p><l>ałtajski<s n="adj"/></l><r>ałtajsczi<s n="adj"/></r></p></e>
+    <e><p><l>anonimowy<s n="adj"/></l><r>anonimòwi<s n="adj"/></r></p></e>
     <e><p><l>czarny<s n="adj"/></l><r>czôrny<s n="adj"/></r></p></e>
     <e><p><l>cały<s n="adj"/></l><r>całi<s n="adj"/></r></p></e>
     <e><p><l>mały<s n="adj"/></l><r>małi<s n="adj"/></r></p></e>
