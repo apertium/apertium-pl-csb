@@ -9523,7 +9523,19 @@
       </e>
       <e>
         <p>
+          <l>égò</l>
+          <r>o<s n="det"/><s n="dem"/><s n="mp"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
           <l>égô</l>
+          <r>o<s n="det"/><s n="dem"/><s n="mp"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ego</l>
           <r>o<s n="det"/><s n="dem"/><s n="mp"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
@@ -9541,7 +9553,19 @@
       </e>
       <e>
         <p>
+          <l>égò</l>
+          <r>o<s n="det"/><s n="dem"/><s n="ma"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
           <l>égô</l>
+          <r>o<s n="det"/><s n="dem"/><s n="ma"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ego</l>
           <r>o<s n="det"/><s n="dem"/><s n="ma"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
@@ -9559,7 +9583,19 @@
       </e>
       <e>
         <p>
+          <l>égò</l>
+          <r>o<s n="det"/><s n="dem"/><s n="mi"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
           <l>égô</l>
+          <r>o<s n="det"/><s n="dem"/><s n="mi"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ego</l>
           <r>o<s n="det"/><s n="dem"/><s n="mi"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
@@ -9581,9 +9617,33 @@
           <r>o<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
+      <e r="LR">
+        <p>
+          <l>éj</l>
+          <r>o<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ej</l>
+          <r>o<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
       <e>
         <p>
+          <l>égò</l>
+          <r>o<s n="det"/><s n="dem"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
           <l>égô</l>
+          <r>o<s n="det"/><s n="dem"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ego</l>
           <r>o<s n="det"/><s n="dem"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
@@ -9641,6 +9701,18 @@
           <r>o<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/><s n="dat"/></r>
         </p>
       </e>
+      <e r="LR">
+        <p>
+          <l>éj</l>
+          <r>o<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ej</l>
+          <r>o<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
       <e>
         <p>
           <l>emu</l>
@@ -9679,7 +9751,19 @@
       </e>
       <e>
         <p>
+          <l>égò</l>
+          <r>o<s n="det"/><s n="dem"/><s n="mp"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
           <l>égô</l>
+          <r>o<s n="det"/><s n="dem"/><s n="mp"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ego</l>
           <r>o<s n="det"/><s n="dem"/><s n="mp"/><s n="sg"/><s n="acc"/></r>
         </p>
       </e>
@@ -9697,7 +9781,19 @@
       </e>
       <e>
         <p>
+          <l>égò</l>
+          <r>o<s n="det"/><s n="dem"/><s n="ma"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
           <l>égô</l>
+          <r>o<s n="det"/><s n="dem"/><s n="ma"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ego</l>
           <r>o<s n="det"/><s n="dem"/><s n="ma"/><s n="sg"/><s n="acc"/></r>
         </p>
       </e>
@@ -9848,6 +9944,18 @@
       <e>
         <p>
           <l>i</l>
+          <r>o<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>éj</l>
+          <r>o<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ej</l>
           <r>o<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/><s n="loc"/></r>
         </p>
       </e>
@@ -11091,6 +11199,7 @@
     <e lm="latawiszcze"><i>latawiszcz</i><par n="latawiszcz/e__n"/></e> <!-- airport -->
     <e lm="serce"><i>serc</i><par n="serc/e__n"/></e> <!-- heart -->
     <e lm="wersëjô"><i>wers</i><par n="wers/ëjô__n"/></e> <!-- version -->
+    <e lm="teòrëjô"><i>teòr</i><par n="wers/ëjô__n"/></e>
     <e lm="dinastëjô"><i>dinast</i><par n="wers/ëjô__n"/></e>
     <e lm="historëjô"><i>histor</i><par n="wers/ëjô__n"/></e> <!-- history -->
     <e lm="encyklopedijô"><i>encyklopedij</i><par n="wersëj/ô__n"/></e>
@@ -11858,8 +11967,12 @@
     <e lm="pòrénkòwi"><i>pòrénkòw</i><par n="zdrojow/i__adj"/></e>
     <e lm="nordowi"><i>nordow</i><par n="zdrojow/i__adj"/></e>
     <e lm="pôłniowi"><i>pôłniow</i><par n="zdrojow/i__adj"/></e>
-    <e lm="zôpadny"><i>zôpadn</i><par n="aborcëjn/y__adj"/></e>
+    <e lm="telewizëjny"><i>telewizëjn</i><par n="aborcëjn/y__adj"/></e>
+    <e lm="teòreticzny"><i>teòreticzn</i><par n="aborcëjn/y__adj"/></e>
+    <e lm="teritorialny"><i>teritorialn</i><par n="aborcëjn/y__adj"/></e>
+    <e lm="tektonowi"><i>tektonow</i><par n="zdrojow/i__adj"/></e>
     <e lm="gwësny"><i>gwësn</i><par n="aborcëjn/y__adj"/></e>
+    <e lm="zôpadny"><i>zôpadn</i><par n="aborcëjn/y__adj"/></e>
     <e lm="wielejãzëkòwi"><i>wielejãzëkòw</i><par n="zdrojow/i__adj"/></e>
     <e lm="archeòlogòwi"><i>archeòlogòw</i><par n="zdrojow/i__adj"/></e>
     <e lm="paleontologòwi"><i>paleontologòw</i><par n="zdrojow/i__adj"/></e>

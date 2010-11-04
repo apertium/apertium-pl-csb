@@ -422,6 +422,7 @@
     <e><p><l>strona<s n="n"/><s n="f"/></l><r>starna<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>historia<s n="n"/><s n="f"/></l><r>historëjô<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>wersja<s n="n"/><s n="f"/></l><r>wersëjô<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>teoria<s n="n"/><s n="f"/></l><r>teòrëjô<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>perkusja<s n="n"/><s n="f"/></l><r>perkùsëjô<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lotnisko<s n="n"/><s n="nt"/></l><r>latawiskò<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>imię<s n="n"/><s n="nt"/></l><r>miono<s n="n"/><s n="nt"/></r></p></e>
@@ -778,6 +779,10 @@
     <e><p><l>Ludwika<s n="np"/><s n="ant"/><s n="f"/></l><r>Ludwika<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
     
     <e><p><l>cudzy<s n="adj"/></l><r>cëzy<s n="adj"/></r></p></e>
+    <e><p><l>telewizyjny<s n="adj"/></l><r>telewizëjny<s n="adj"/></r></p></e>
+    <e><p><l>teoretyczny<s n="adj"/></l><r>teòreticzny<s n="adj"/></r></p></e>
+    <e><p><l>terytorialny<s n="adj"/></l><r>teritorialny<s n="adj"/></r></p></e>
+    <e><p><l>tektoniczny<s n="adj"/></l><r>tektonowi<s n="adj"/></r></p></e>
     <e><p><l>zwany<s n="adj"/></l><r>zwóny<s n="adj"/></r></p></e>
     <e><p><l>pewny<s n="adj"/></l><r>gwësny<s n="adj"/></r></p></e>
     <e><p><l>teraźniejszy<s n="adj"/></l><r>terôzniészi<s n="adj"/></r></p></e>
