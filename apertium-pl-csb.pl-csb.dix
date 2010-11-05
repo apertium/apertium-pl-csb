@@ -319,6 +319,9 @@
     <e><p><l>jpg<s n="n"/><s n="mi"/></l><r>jpg<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>dpi<s n="n"/><s n="mi"/></l><r>dpi<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>org<s n="n"/><s n="mi"/></l><r>org<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>MB<s n="n"/><s n="mi"/></l><r>MB<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>GB<s n="n"/><s n="mi"/></l><r>GB<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>TB<s n="n"/><s n="mi"/></l><r>TB<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>os<s n="n"/><s n="f"/></l><r>ôs<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ceramika<s n="n"/><s n="f"/></l><r>keramika<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>ceramika<s n="n"/><s n="f"/></l><r>ceramika<s n="n"/><s n="f"/></r></p></e>

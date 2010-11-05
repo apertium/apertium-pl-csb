@@ -41269,6 +41269,9 @@
     <e lm="km"><i>km</i><par n="km__n"/></e>
     <e lm="dpi"><i>dpi</i><par n="km__n"/></e>
     <e lm="org"><i>org</i><par n="km__n"/></e>
+    <e lm="MB"><i>MB</i><par n="km__n"/></e>
+    <e lm="GB"><i>GB</i><par n="km__n"/></e>
+    <e lm="TB"><i>TB</i><par n="km__n"/></e>
     <e lm="kg"><i>kg</i><par n="km__n"/></e>
     <e lm="cm"><i>cm</i><par n="km__n"/></e>
     <e lm="nr"><i>nr</i><par n="km__n"/></e>

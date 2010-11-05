@@ -8586,6 +8586,38 @@
         </p>
       </e>
     </pardef>
+    <pardef n="BASE__piszë">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>më</l>
+          <r><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ma</l>
+          <r><s n="p1"/><s n="du"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ta</l>
+          <r><s n="p2"/><s n="du"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ce</l>
+          <r><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="BASE__miôł">
       <e>
         <p>
@@ -8955,12 +8987,12 @@
         </p>
         <par n="BASE__ùczi"/>
       </e>
-      <e r="LR">
+      <e>
         <p>
           <l>ùjë</l>
-          <r>òwac<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
+          <r>òwac<s n="vblex"/><s n="imperf"/><s n="imp"/></r>
         </p>
-        <par n="BASE__ùczi"/>
+        <par n="BASE__piszë"/>
       </e>
       <e>
         <p>
@@ -9012,12 +9044,12 @@
         </p>
         <par n="BASE__ùczi"/>
       </e>
-      <e r="LR">
+      <e>
         <p>
           <l>ëjë</l>
-          <r>owac<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
+          <r>owac<s n="vblex"/><s n="imperf"/><s n="imp"/></r>
         </p>
-        <par n="BASE__ùczi"/>
+        <par n="BASE__piszë"/>
       </e>
       <e>
         <p>
@@ -9241,12 +9273,12 @@
         </p>
         <par n="BASE__ùczi"/>
       </e>
-      <e r="LR">
+      <e>
         <p>
           <l>zë</l>
-          <r>ac<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
+          <r>ac<s n="vblex"/><s n="imperf"/><s n="imp"/></r>
         </p>
-        <par n="BASE__ùczi"/>
+        <par n="BASE__piszë"/>
       </e>
       <e>
         <p>
@@ -9312,12 +9344,12 @@
         </p>
         <par n="BASE__ùczi"/>
       </e>
-      <e r="LR">
+      <e>
         <p>
           <l>zë</l>
-          <r>ac<s n="vblex"/><s n="perf"/><s n="fut"/></r>
+          <r>ac<s n="vblex"/><s n="perf"/><s n="imp"/></r>
         </p>
-        <par n="BASE__ùczi"/>
+        <par n="BASE__piszë"/>
       </e>
       <e>
         <p>
@@ -11702,6 +11734,9 @@
     <e lm="sw"><i>sw</i><par n="km__n"/></e>
     <e lm="dr"><i>dr</i><par n="km__n"/></e>
     <e lm="jpg"><i>jpg</i><par n="km__n"/></e>
+    <e lm="MB"><i>MB</i><par n="km__n"/></e>
+    <e lm="GB"><i>GB</i><par n="km__n"/></e>
+    <e lm="TB"><i>TB</i><par n="km__n"/></e>
     <e lm="priwatnosc"><i>priwatnosc</i><par n="priwatnosc__n"/></e>
     <e lm="wikszosc"><i>wikszosc</i><par n="priwatnosc__n"/></e>
     <e lm="młodosc"><i>młodosc</i><par n="priwatnosc__n"/></e>
