@@ -4406,6 +4406,92 @@
         <par n="wersëj/ô__n"/>
       </e>
     </pardef>
+    <pardef n="priwatnosc__n">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ë</l>
+          <r><s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ë</l>
+          <r><s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ą</l>
+          <r><s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r><s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ów</l>
+          <r><s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>óm</l>
+          <r><s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r><s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ama</l>
+          <r><s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ach</l>
+          <r><s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="ò/kò__n">
       <e>
         <p>
@@ -11592,6 +11678,10 @@
     <e lm="sw"><i>sw</i><par n="km__n"/></e>
     <e lm="dr"><i>dr</i><par n="km__n"/></e>
     <e lm="jpg"><i>jpg</i><par n="km__n"/></e>
+    <e lm="priwatnosc"><i>priwatnosc</i><par n="priwatnosc__n"/></e>
+    <e lm="wikszosc"><i>wikszosc</i><par n="priwatnosc__n"/></e>
+    <e lm="młodosc"><i>młodosc</i><par n="priwatnosc__n"/></e>
+    <e lm="wôrtosc"><i>wôrtosc</i><par n="priwatnosc__n"/></e>
 
     <e lm="Pòlskô"><i>Pòls</i><par n="Pòls/kô__np"/></e>
     <e lm="Ruskô"><i>Rus</i><par n="Pòls/kô__np"/></e>
