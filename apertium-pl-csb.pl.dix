@@ -41267,6 +41267,8 @@
     <e lm="m.in." r="LR"><p><l>m.in</l><r>m.in.</r></p><par n="np__abbr"/></e>
     <e lm="tj"><i>tj</i><par n="np__abbr"/></e>
     <e lm="km"><i>km</i><par n="km__n"/></e>
+    <e lm="dpi"><i>dpi</i><par n="km__n"/></e>
+    <e lm="org"><i>org</i><par n="km__n"/></e>
     <e lm="kg"><i>kg</i><par n="km__n"/></e>
     <e lm="cm"><i>cm</i><par n="km__n"/></e>
     <e lm="nr"><i>nr</i><par n="km__n"/></e>

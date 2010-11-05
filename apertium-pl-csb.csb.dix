@@ -9241,6 +9241,13 @@
         </p>
         <par n="BASE__ùczi"/>
       </e>
+      <e r="LR">
+        <p>
+          <l>zë</l>
+          <r>ac<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
+        </p>
+        <par n="BASE__ùczi"/>
+      </e>
       <e>
         <p>
           <l>zą</l>
@@ -9258,16 +9265,22 @@
       <e>
         <p>
           <l>ząc</l>
+          <r>ac<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ząc</l>
           <r>ac<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
         </p>
         <par n="BASE__jasny"/>
       </e>
-      <e i="yes">
+      <e>
         <p>
-          <l>a</l>
+          <l></l>
           <r>ac<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
         </p>
-        <par n="BASE__zdanie"/>
+        <par n="BASE__brëkòwanié"/>
       </e>
       <e>
         <p>
@@ -9299,6 +9312,13 @@
         </p>
         <par n="BASE__ùczi"/>
       </e>
+      <e r="LR">
+        <p>
+          <l>zë</l>
+          <r>ac<s n="vblex"/><s n="perf"/><s n="fut"/></r>
+        </p>
+        <par n="BASE__ùczi"/>
+      </e>
       <e>
         <p>
           <l>zą</l>
@@ -9313,12 +9333,12 @@
         </p>
       </e>
 
-      <e i="yes">
+      <e>
         <p>
-          <l>a</l>
+          <l></l>
           <r>ac<s n="vblex"/><s n="perf"/><s n="ger"/></r>
         </p>
-        <par n="BASE__zdanie"/>
+        <par n="BASE__brëkòwanié"/>
       </e>
       <e>
         <p>
@@ -11285,6 +11305,8 @@
     <e lm="latawiszcze"><i>latawiszcz</i><par n="latawiszcz/e__n"/></e> <!-- airport -->
     <e lm="serce"><i>serc</i><par n="serc/e__n"/></e> <!-- heart -->
     <e lm="wersëjô"><i>wers</i><par n="wers/ëjô__n"/></e> <!-- version -->
+    <e lm="sesëjô"><i>ses</i><par n="wers/ëjô__n"/></e>
+    <e lm="kònfigùracëjô"><i>kònfigùrac</i><par n="wers/ëjô__n"/></e>
     <e lm="teòrëjô"><i>teòr</i><par n="wers/ëjô__n"/></e>
     <e lm="dinastëjô"><i>dinast</i><par n="wers/ëjô__n"/></e>
     <e lm="historëjô"><i>histor</i><par n="wers/ëjô__n"/></e> <!-- history -->
@@ -11671,6 +11693,8 @@
     <e lm="teritorium"><i>teritori</i><par n="kriteri/um__n"/></e>
     <e lm="theatrum"><i>theatr</i><par n="kriteri/um__n"/></e>
     <e lm="wiki"><i>wiki</i><par n="wiki__n"/></e>
+    <e lm="dpi"><i>dpi</i><par n="km__n"/></e>
+    <e lm="org"><i>org</i><par n="km__n"/></e>
     <e lm="km"><i>km</i><par n="km__n"/></e>
     <e lm="kg"><i>kg</i><par n="km__n"/></e>
     <e lm="cm"><i>cm</i><par n="km__n"/></e>
@@ -11738,6 +11762,7 @@
     <e lm="pòjic"><i>pò</i><par n="pò/jic__vblex"/></e>
     <e lm="pisac"><i>pis</i><par n="pis/ac__vblex"/></e>
     <e lm="napisac"><i>napis</i><par n="napis/ac__vblex"/></e>
+    <e lm="zapisac"><i>zapis</i><par n="napis/ac__vblex"/></e>
     <e lm="òstac"><i>òst</i><par n="òst/ac__vblex"/></e>
     <e lm="spiéwac"><i>spiéw</i><par n="spiéw/ac__vblex"/></e>
     <e lm="czëtac"><i>czët</i><par n="spiéw/ac__vblex"/></e>
