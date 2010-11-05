@@ -322,6 +322,7 @@
     <e><p><l>MB<s n="n"/><s n="mi"/></l><r>MB<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>GB<s n="n"/><s n="mi"/></l><r>GB<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>TB<s n="n"/><s n="mi"/></l><r>TB<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>Hz<s n="n"/><s n="mi"/></l><r>Hz<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>os<s n="n"/><s n="f"/></l><r>ôs<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ceramika<s n="n"/><s n="f"/></l><r>keramika<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>ceramika<s n="n"/><s n="f"/></l><r>ceramika<s n="n"/><s n="f"/></r></p></e>
@@ -790,6 +791,8 @@
     <e><p><l>Ludwika<s n="np"/><s n="ant"/><s n="f"/></l><r>Ludwika<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
     
     <e><p><l>cudzy<s n="adj"/></l><r>cëzy<s n="adj"/></r></p></e>
+    <e><p><l>nieznany<s n="adj"/></l><r>nieznóny<s n="adj"/></r></p></e>
+    <e><p><l>techniczny<s n="adj"/></l><r>techniczny<s n="adj"/></r></p></e>
     <e><p><l>telewizyjny<s n="adj"/></l><r>telewizëjny<s n="adj"/></r></p></e>
     <e><p><l>teoretyczny<s n="adj"/></l><r>teòreticzny<s n="adj"/></r></p></e>
     <e><p><l>terytorialny<s n="adj"/></l><r>teritorialny<s n="adj"/></r></p></e>

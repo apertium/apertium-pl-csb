@@ -41272,6 +41272,7 @@
     <e lm="MB"><i>MB</i><par n="km__n"/></e>
     <e lm="GB"><i>GB</i><par n="km__n"/></e>
     <e lm="TB"><i>TB</i><par n="km__n"/></e>
+    <e lm="Hz"><i>Hz</i><par n="km__n"/></e>
     <e lm="kg"><i>kg</i><par n="km__n"/></e>
     <e lm="cm"><i>cm</i><par n="km__n"/></e>
     <e lm="nr"><i>nr</i><par n="km__n"/></e>
@@ -43155,6 +43156,7 @@
     <e lm="nieskazitelny"><i>nieskaziteln</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="niezłomny"><i>niezłomn</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="niskopodłogowy"><i>niskopodłogow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="nieznany"><i>nieznan</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="nocny"><i>nocn</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="nominalny"><i>nominaln</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="notoryczny"><i>notoryczn</i><par n="egzotermiczn/y__adj"/></e>

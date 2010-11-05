@@ -11242,6 +11242,7 @@
     <e lm="jãzëk"><i>jãzë</i><par n="jãzë/k__n"/></e>
     <e lm="Gduńsk"><i>Gduńs</i><par n="Gduńs/k__np"/></e>
     <e lm="albùm"><i>albùm</i><par n="rujan__n"/></e>
+    <e lm="program"><i>program</i><par n="rujan__n"/></e>
 
     <!-- months -->
     <e lm="stëcznik"><i>stëczni</i><par n="stëczni/k__n"/></e> <!-- January -->
@@ -11737,6 +11738,7 @@
     <e lm="MB"><i>MB</i><par n="km__n"/></e>
     <e lm="GB"><i>GB</i><par n="km__n"/></e>
     <e lm="TB"><i>TB</i><par n="km__n"/></e>
+    <e lm="Hz"><i>Hz</i><par n="km__n"/></e>
     <e lm="priwatnosc"><i>priwatnosc</i><par n="priwatnosc__n"/></e>
     <e lm="wikszosc"><i>wikszosc</i><par n="priwatnosc__n"/></e>
     <e lm="młodosc"><i>młodosc</i><par n="priwatnosc__n"/></e>
@@ -12132,6 +12134,8 @@
     <e lm="cëzy"><i>cëz</i><par n="aborcëjn/y__adj"/></e>
     <e lm="czôrny"><i>czôrn</i><par n="aborcëjn/y__adj"/></e>
     <e lm="kùlturny"><i>kùlturn</i><par n="aborcëjn/y__adj"/></e>
+    <e lm="techniczny"><i>techniczn</i><par n="aborcëjn/y__adj"/></e>
+    <e lm="nieznóny"><i>nieznón</i><par n="aborcëjn/y__adj"/></e>
     <e lm="pòpùlarny"><i>pòpùlarn</i><par n="jasn/y__adj"/></e>
     <e lm="aktualny"><i>aktualn</i><par n="jasn/y__adj"/></e>
     <e lm="akùrôtny"><i>akùrôtn</i><par n="jasn/y__adj"/></e>
