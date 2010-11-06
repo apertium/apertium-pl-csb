@@ -76,7 +76,7 @@
     <e><p><l>prpers<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
     <e><p><l>który<s n="prn"/></l><r>chtërny<s n="prn"/></r></p></e>
     <e><p><l>to<s n="det"/></l><r>to<s n="det"/></r></p></e>
-    <e r="LR"><p><l>to<s n="det"/></l><r>no<s n="det"/></r></p></e>
+    <e r="RL"><p><l>to<s n="det"/></l><r>no<s n="det"/></r></p></e>
 
     <e><p><l>I<s n="num"/></l><r>I<s n="num"/></r></p></e>
     <e><p><l>II<s n="num"/></l><r>II<s n="num"/></r></p></e>
@@ -335,6 +335,12 @@
     <e><p><l>alfabet<s n="n"/><s n="mi"/></l><r>alfabét<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>gmina<s n="n"/><s n="f"/></l><r>gmina<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>wieś<s n="n"/><s n="f"/></l><r>wies<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>człowieczeństwo<s n="n"/><s n="nt"/></l><r>człowieczestwò<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>księstwo<s n="n"/><s n="nt"/></l><r>ksyżestwò<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>ludność<s n="n"/><s n="f"/></l><r>lëdztwò<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>dyskusja<s n="n"/><s n="f"/></l><r>diskùsëjô<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>kategoria<s n="n"/><s n="nt"/></l><r>kategòrëjô<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>koordynacja<s n="n"/><s n="nt"/></l><r>kòòrdinacëjô<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>centrum<s n="n"/><s n="nt"/></l><r>centrum<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>continuum<s n="n"/><s n="nt"/></l><r>continuum<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>gimnazjum<s n="n"/><s n="nt"/></l><r>gimnazjum<s n="n"/><s n="nt"/></r></p></e>
@@ -598,6 +604,7 @@
     <e><p><l>kwintesencja<s n="n"/><s n="f"/></l><r>kwintesencëjô<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>legitymacja<s n="n"/><s n="f"/></l><r>legitimacëjô<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>licencja<s n="n"/><s n="f"/></l><r>licencëjô<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>licencja<g><b/>GNU<b/>FDL</g><s n="n"/><s n="f"/></l><r>licencëjô<g><b/>GNU<b/>FDL</g><s n="n"/><s n="f"/></r></p></e>
     <e><p><l>likwidacja<s n="n"/><s n="f"/></l><r>likwidacëjô<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>manifestacja<s n="n"/><s n="f"/></l><r>manifestacëjô<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>mechanizacja<s n="n"/><s n="f"/></l><r>mechanizacëjô<s n="n"/><s n="f"/></r></p></e>
