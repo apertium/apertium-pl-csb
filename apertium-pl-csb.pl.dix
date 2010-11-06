@@ -50677,6 +50677,7 @@
     <e lm="kremacja"><i>kremac</i><par n="dysertac/ja__n"/></e>
     <e lm="lekcja"><i>lekc</i><par n="dysertac/ja__n"/></e>
     <e lm="licencja"><i>licenc</i><par n="dysertac/ja__n"/></e>
+    <e lm="licencja GNU FDL"><i>licenc</i><par n="dysertac/ja__n"/><p><l><b/>GNU<b/>FDL</l><r><g><b/>GNU<b/>FDL</g></r></p></e>
     <e lm="likwidacja"><i>likwidac</i><par n="dysertac/ja__n"/></e>
     <e lm="manipulacja"><i>manipulac</i><par n="dysertac/ja__n"/></e>
     <e lm="medytacja"><i>medytac</i><par n="dysertac/ja__n"/></e>

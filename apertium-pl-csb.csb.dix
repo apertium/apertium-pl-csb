@@ -11438,6 +11438,7 @@
     <e lm="direkcëjô"><i>direkc</i><par n="wers/ëjô__n"/></e>
     <e lm="disertacëjô"><i>disertac</i><par n="wers/ëjô__n"/></e>
     <e lm="disproporcëjô"><i>disproporc</i><par n="wers/ëjô__n"/></e>
+    <e lm="kwalifikacëjô"><i>kwalifikac</i><par n="wers/ëjô__n"/></e>
     <e lm="diskwalifikacëjô"><i>diskwalifikac</i><par n="wers/ëjô__n"/></e>
     <e lm="ekzekucëjô"><i>ekzekuc</i><par n="wers/ëjô__n"/></e>
     <e lm="eksploatacëjô"><i>eksploatac</i><par n="wers/ëjô__n"/></e>
@@ -11523,7 +11524,6 @@
     <e lm="kristalizacëjô"><i>kristalizac</i><par n="wers/ëjô__n"/></e>
     <e lm="kulminacëjô"><i>kulminac</i><par n="wers/ëjô__n"/></e>
     <e lm="kultiwacëjô"><i>kultiwac</i><par n="wers/ëjô__n"/></e>
-    <e lm="kwaliŕikacëjô"><i>kwaliŕikac</i><par n="wers/ëjô__n"/></e>
     <e lm="kwintesencëjô"><i>kwintesenc</i><par n="wers/ëjô__n"/></e>
     <e lm="legitimacëjô"><i>legitimac</i><par n="wers/ëjô__n"/></e>
     <e lm="licencëjô"><i>licenc</i><par n="wers/ëjô__n"/></e>
@@ -11688,7 +11688,7 @@
     <e lm="turistika" c="guess"><i>turisti</i><par n="apté/ka__n"/></e>
     <e lm="gramatika" c="guess"><i>gramati</i><par n="apté/ka__n"/></e>
     <e lm="kritika" c="guess"><i>kriti</i><par n="apté/ka__n"/></e>
-    <e lm="pòlemika" c="guess"><i>pòlemik</i><par n="apté/ka__n"/></e>
+    <e lm="pòlemika" c="guess"><i>pòlemi</i><par n="apté/ka__n"/></e>
     <e lm="Amerika" c="guess"><i>Ameri</i><par n="Ameri/ka__np"/></e>
     <e lm="Afrika" c="guess"><i>Afri</i><par n="Ameri/ka__np"/></e>
     <e lm="Kaszëbë"><i>Kaszëb</i><par n="Kaszëb/ë__np"/></e>
