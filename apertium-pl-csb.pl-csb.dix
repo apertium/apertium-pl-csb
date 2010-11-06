@@ -256,6 +256,7 @@
     <e><p><l>w<b/>czasie<s n="pr"/></l><r>òb<b/>czas<s n="pr"/></r></p></e>
     <e r="RL"><p><l>w<s n="pr"/></l><r>òb<s n="pr"/></r></p></e>
     <e><p><l>więcej<b/>niż<s n="pr"/></l><r>wicy<b/>jak<s n="pr"/></r></p></e>
+    <e><p><l>dzięki<s n="pr"/></l><r>dzãka<s n="pr"/></r></p></e>
     
     <e><p><l>być<s n="vbser"/></l><r>bëc<s n="vbser"/></r></p></e>
     <e><p><l>iść<s n="vblex"/></l><r>jic<s n="vblex"/></r></p></e>
@@ -268,7 +269,8 @@
     <e><p><l>czytać<s n="vblex"/></l><r>czëtac<s n="vblex"/></r></p></e>
     <e><p><l>mieć<s n="vbhaver"/></l><r>miec<s n="vbhaver"/></r></p></e>
     <e><p><l>móc<s n="vaux"/></l><r>mòc<s n="vaux"/></r></p></e>
-    <e><p><l>potrzebować<s n="vblex"/></l><r>brëkòwac<s n="vblex"/></r></p></e>
+    <e i="yes"><p><l>potrzebować<s n="vblex"/></l><r>brëkòwac<s n="vblex"/></r></p></e>
+    <e><p><l>używać<s n="vblex"/></l><r>brëkòwac<s n="vblex"/></r></p></e>
     <e><p><l>klasyfikować<s n="vblex"/></l><r>klasyfikòwac<s n="vblex"/></r></p></e>
     <e><p><l>farbować<s n="vblex"/></l><r>farbòwac<s n="vblex"/></r></p></e>
     <e><p><l>modifikować<s n="vblex"/></l><r>mòdifikòwac<s n="vblex"/></r></p></e>
@@ -324,6 +326,7 @@
     <e><p><l>TB<s n="n"/><s n="mi"/></l><r>TB<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>Hz<s n="n"/><s n="mi"/></l><r>Hz<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>os<s n="n"/><s n="f"/></l><r>ôs<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>godz<s n="n"/><s n="f"/></l><r>gòdz<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ceramika<s n="n"/><s n="f"/></l><r>keramika<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>ceramika<s n="n"/><s n="f"/></l><r>ceramika<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ząb<s n="n"/><s n="mi"/></l><r>ząb<s n="n"/><s n="mi"/></r></p></e>

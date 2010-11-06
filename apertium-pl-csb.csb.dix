@@ -200,7 +200,7 @@
 	</p>
       </e>
     </pardef>
-    <pardef n="ôs__n">
+    <pardef n="gòdz__n">
       <e>
         <p>
 	  <l></l>
@@ -11234,6 +11234,7 @@
     <e lm="òb czas"><i>òb<b/>czas</i><par n="do__pr"/></e>
     <e lm="òb"><i>òb</i><par n="do__pr"/></e>
     <e lm="wicy jak"><i>wicy<b/>jak</i><par n="do__pr"/></e>
+    <e lm="dzãka"><i>dzãka</i><par n="do__pr"/></e>
 
     <e lm="tidzéń"><i>tidzé</i><par n="tidzé/ń__n"/></e> <!-- week -->
     <e lm="artikel"><i>artik</i><par n="artik/el__n"/></e>
@@ -11739,6 +11740,7 @@
     <e lm="GB"><i>GB</i><par n="km__n"/></e>
     <e lm="TB"><i>TB</i><par n="km__n"/></e>
     <e lm="Hz"><i>Hz</i><par n="km__n"/></e>
+    <e lm="gòdz"><i>gòdz</i><par n="gòdz__n"/></e>
     <e lm="priwatnosc"><i>priwatnosc</i><par n="priwatnosc__n"/></e>
     <e lm="wikszosc"><i>wikszosc</i><par n="priwatnosc__n"/></e>
     <e lm="młodosc"><i>młodosc</i><par n="priwatnosc__n"/></e>
