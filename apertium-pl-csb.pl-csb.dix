@@ -286,6 +286,7 @@
     <e><p><l>wartość<s n="n"/><s n="f"/></l><r>wôrtosc<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>sesja<s n="n"/><s n="f"/></l><r>sesëjô<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>konfiguracja<s n="n"/><s n="f"/></l><r>kònfigùracëjô<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ewolucja<s n="n"/><s n="f"/></l><r>ewolucëjô<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>architektura<s n="n"/><s n="f"/></l><r>architektura<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>atmosfera<s n="n"/><s n="f"/></l><r>atmòsfera<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>filologia<s n="n"/><s n="f"/></l><r>filologijô<s n="n"/><s n="f"/></r></p></e>
@@ -749,6 +750,8 @@
     <e><p><l>wikizacja<s n="n"/><s n="f"/></l><r>wikizacëjô<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ojczyzna<s n="n"/><s n="f"/></l><r>tetczëzna<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>wojna<s n="n"/><s n="f"/></l><r>wòjna<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>liczba<s n="n"/><s n="f"/></l><r>lëczba<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>nauka<s n="n"/><s n="f"/></l><r>ùczba<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kaszub<s n="n"/><s n="mp"/></l><r>kaszëba<s n="n"/><s n="mp"/></r></p></e>
     <e><p><l>mąż<s n="n"/><s n="mp"/></l><r>slëbnik<s n="n"/><s n="mp"/></r></p></e>
     <e><p><l>ludzie<s n="n"/><s n="mp"/></l><r>lëdze<s n="n"/><s n="mp"/></r></p></e>
@@ -803,6 +806,7 @@
     <e><p><l>cudzy<s n="adj"/></l><r>cëzy<s n="adj"/></r></p></e>
     <e><p><l>południowokoreański<s n="adj"/></l><r>pôłniowòkòrejańsczi<s n="adj"/></r></p></e>
     <e><p><l>europejski<s n="adj"/></l><r>eùropejsczi<s n="adj"/></r></p></e>
+    <e><p><l>ludzki<s n="adj"/></l><r>lëdzczi<s n="adj"/></r></p></e>
     <e><p><l>walijski<s n="adj"/></l><r>walëjsczi<s n="adj"/></r></p></e>
     <e><p><l>szwedzki<s n="adj"/></l><r>szwedzczi<s n="adj"/></r></p></e>
     <e><p><l>australijski<s n="adj"/></l><r>aùstralëjsczi<s n="adj"/></r></p></e>
