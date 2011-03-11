@@ -751,6 +751,7 @@
     <e><p><l>ojczyzna<s n="n"/><s n="f"/></l><r>tetczëzna<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>wojna<s n="n"/><s n="f"/></l><r>wòjna<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>liczba<s n="n"/><s n="f"/></l><r>lëczba<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>rodzina<s n="n"/><s n="f"/></l><r>rodzëzna<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>nauka<s n="n"/><s n="f"/></l><r>ùczba<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kaszub<s n="n"/><s n="mp"/></l><r>kaszëba<s n="n"/><s n="mp"/></r></p></e>
     <e><p><l>mąż<s n="n"/><s n="mp"/></l><r>slëbnik<s n="n"/><s n="mp"/></r></p></e>
@@ -768,6 +769,7 @@
     <e><p><l>Estonia<s n="np"/><s n="top"/><s n="f"/></l><r>Estóńskô<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Niemcy<s n="np"/><s n="top"/><s n="f"/><s n="pl"/></l><r>Miemieckô<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>Francja<s n="np"/><s n="top"/><s n="f"/></l><r>Francëjô<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Czechosłowacja<s n="np"/><s n="top"/><s n="f"/></l><r>Czechosłowacëjô<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Słowacja<s n="np"/><s n="top"/><s n="f"/></l><r>Słowackô<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>Słowacja<s n="np"/><s n="top"/><s n="f"/></l><r>Słowacëjô<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Szwecja<s n="np"/><s n="top"/><s n="f"/></l><r>Szwedzkô<s n="np"/><s n="top"/><s n="f"/></r></p></e>
@@ -804,6 +806,7 @@
     <e><p><l>Ludwika<s n="np"/><s n="ant"/><s n="f"/></l><r>Ludwika<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
     
     <e><p><l>cudzy<s n="adj"/></l><r>cëzy<s n="adj"/></r></p></e>
+    <e><p><l>bliski<s n="adj"/></l><r>blësczi<s n="adj"/></r></p></e>
     <e><p><l>południowokoreański<s n="adj"/></l><r>pôłniowòkòrejańsczi<s n="adj"/></r></p></e>
     <e><p><l>europejski<s n="adj"/></l><r>eùropejsczi<s n="adj"/></r></p></e>
     <e><p><l>ludzki<s n="adj"/></l><r>lëdzczi<s n="adj"/></r></p></e>
@@ -980,6 +983,7 @@
     <e><p><l>sumeryjski<s n="adj"/></l><r>sumerëjsczi<s n="adj"/></r></p></e>
     <e><p><l>asturyjski<s n="adj"/></l><r>asturëjsczi<s n="adj"/></r></p></e>
     <e><p><l>węgierski<s n="adj"/></l><r>madżarsczi<s n="adj"/></r></p></e>
+    <e><p><l>austro-węgierski<s n="adj"/></l><r>aùstro-madżarsczi<s n="adj"/></r></p></e>
     <e><p><l>sundajski<s n="adj"/></l><r>sundajsczi<s n="adj"/></r></p></e>
     <e><p><l>sycylijski<s n="adj"/></l><r>sycylijsczi<s n="adj"/></r></p></e>
     <e><p><l>hiszpański<s n="adj"/></l><r>szpańsczi<s n="adj"/></r></p></e>

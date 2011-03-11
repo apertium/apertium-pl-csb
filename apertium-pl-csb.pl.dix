@@ -43920,6 +43920,7 @@
     <e lm="słowiański"><i>słowiańs</i><par n="pols/ki__adj"/></e>
     <e lm="walijski"><i>walijs</i><par n="pols/ki__adj"/></e>
     <e lm="węgierski"><i>węgiers</i><par n="pols/ki__adj"/></e>
+    <e lm="austro-węgierski"><i>austro-węgiers</i><par n="pols/ki__adj"/></e>
     <e lm="włoski"><i>włos</i><par n="pols/ki__adj"/></e>
     <e lm="łotewski"><i>łotews</i><par n="pols/ki__adj"/></e>
     <e lm="żydowski"><i>żydows</i><par n="pols/ki__adj"/></e>
@@ -55149,6 +55150,7 @@
     <e lm="Rosja"><i>Ros</i><par n="Słowac/ja__np"/></e>
     <e lm="Hesja"><i>Hes</i><par n="Słowac/ja__np"/></e>
     <e lm="Słowacja"><i>Słowac</i><par n="Słowac/ja__np"/></e>
+    <e lm="Czechosłowacja"><i>Czechołowac</i><par n="Słowac/ja__np"/></e>
     <e lm="Tunezja"><i>Tunez</i><par n="Słowac/ja__np"/></e>
     <e lm="Turcja"><i>Turc</i><par n="Słowac/ja__np"/></e>
     <e lm="Francja"><i>Franc</i><par n="Słowac/ja__np"/></e>
