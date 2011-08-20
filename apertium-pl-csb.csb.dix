@@ -1597,7 +1597,7 @@
   <e c="check"><p><l>m</l><r>é<s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p></e>
   <e><p><l>é</l><r>é<s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
   <e c="check"><p><l>ã</l><r>é<s n="n"/><s n="nt"/><s n="sg"/><s n="ins"/></r></p></e>
-  <e c="prob wrong"><p><l>u</l><r>é<s n="n"/><s n="nt"/><s n="sg"/><s n="loc"/></r></p></e>
+  <e c="wikipedia"><p><l>m</l><r>é<s n="n"/><s n="nt"/><s n="sg"/><s n="loc"/></r></p></e>
   <e><p><l>é</l><r>é<s n="n"/><s n="nt"/><s n="sg"/><s n="voc"/></r></p></e>
   <e c="check"><p><l>a</l><r>é<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/></r></p></e>
   <e c="check"><p><l></l><r>é<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r></p></e>
