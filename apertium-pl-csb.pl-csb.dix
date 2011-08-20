@@ -313,6 +313,7 @@
     <e><p><l>krytyka<s n="n"/><s n="f"/></l><r>kritika<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>polemika<s n="n"/><s n="f"/></l><r>pòlemika<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>wiki<s n="n"/><s n="nt"/></l><r>wiki<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>zdrowie<s n="n"/><s n="nt"/></l><r>zdrowié<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kg<s n="n"/><s n="mi"/></l><r>kg<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>cm<s n="n"/><s n="mi"/></l><r>cm<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>km<s n="n"/><s n="mi"/></l><r>km<s n="n"/><s n="mi"/></r></p></e>
@@ -335,6 +336,7 @@
     <e><p><l>obraz<s n="n"/><s n="mi"/></l><r>òbrôzk<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>alfabet<s n="n"/><s n="mi"/></l><r>alfabét<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>gmina<s n="n"/><s n="f"/></l><r>gmina<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ojczyzna<s n="n"/><s n="f"/></l><r>tatczëzna<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>wieś<s n="n"/><s n="f"/></l><r>wies<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>człowieczeństwo<s n="n"/><s n="nt"/></l><r>człowieczestwò<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>księstwo<s n="n"/><s n="nt"/></l><r>ksyżestwò<s n="n"/><s n="nt"/></r></p></e>
@@ -388,6 +390,9 @@
     <e><p><l>wrzesień<s n="n"/><s n="mi"/></l><r>séwnik<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>październik<s n="n"/><s n="mi"/></l><r>rujan<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>listopad<s n="n"/><s n="mi"/></l><r>lëstopadnik<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>adres<s n="n"/><s n="mi"/></l><r>adresa<s n="n"/><s n="f"/></r></p></e>
+    <e c="srl='list D'"><p><l>list<s n="n"/><s n="mi"/></l><r>lëst<s n="n"/><s n="mi"/></r></p></e>
+    <e c="srl='liść'"><p><l>liść<s n="n"/><s n="mi"/></l><r>lëst<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>grudzień<s n="n"/><s n="mi"/></l><r>gòdnik<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>poniedziałek<s n="n"/><s n="mi"/></l><r>pòniedzôłk<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>wtorek<s n="n"/><s n="mi"/></l><r>wtórk<s n="n"/><s n="mi"/></r></p></e>
@@ -760,6 +765,7 @@
     <e><p><l>użytkownik<s n="n"/><s n="mp"/></l><r>brëkòwnik<s n="n"/><s n="mp"/></r></p></e>
     
     <e><p><l>Gdańsk<s n="np"/><s n="top"/><s n="mi"/></l><r>Gduńsk<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+    <e><p><l>Litwa<s n="np"/><s n="top"/><s n="f"/></l><r>Lëtwa<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Kaszuby<s n="np"/><s n="top"/><s n="f"/></l><r>Kaszëbë<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
     <e><p><l>Polska<s n="np"/><s n="top"/><s n="f"/></l><r>Pòlskô<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Rosja<s n="np"/><s n="top"/><s n="f"/></l><r>Ruskô<s n="np"/><s n="top"/><s n="f"/></r></p></e>
@@ -1023,6 +1029,8 @@
     <e><p><l>stary<s n="adj"/><s n="sint"/></l><r>stari<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>jasny<s n="adj"/><s n="sint"/></l><r>jasny<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>pierwszy<s n="det"/><s n="ord"/></l><r>piérwi<s n="det"/><s n="ord"/></r></p></e>
+
+    <e><p><l>wysłać<s n="vblex"/><s n="perf"/></l><r>wësłac<s n="vblex"/><s n="perf"/></r></p></e>
   </section>
   <section id="punct" type="standard">
     <e><i>.<s n="sent"/></i></e>

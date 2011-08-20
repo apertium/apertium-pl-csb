@@ -29987,6 +29987,15 @@
         <par n="BASE__bitwa"/>
       </e>
     </pardef>
+    <pardef n="Lit/wa__np">
+      <e>
+        <p>
+          <l></l>
+          <r>wa<s n="np"/><s n="top"/></r>
+        </p>
+        <par n="BASE__bitwa"/>
+      </e>
+    </pardef>
     <pardef n="BASE__doba">
       <e>
         <p>
@@ -55137,6 +55146,7 @@
     <e lm="Luksemburg"><i>Luksemburg</i><par n="Śląsk__np"/></e>
     <e lm="Budapeszt"><i>Budapesz</i><par n="Budapesz/t__np"/></e>
     <e lm="Polska"><i>Pols</i><par n="Pols/ka__np"/></e>
+    <e lm="Litwa"><i>Lit</i><par n="Lit/wa__np"/></e>
     <e lm="Izerka"><i>Izer</i><par n="Pols/ka__np"/></e>
     <e lm="Afryka"><i>Afry</i><par n="Pols/ka__np"/></e>
     <e lm="Czechy"><i>Czech</i><par n="Czech/y__np"/></e>
