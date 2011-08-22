@@ -1564,7 +1564,8 @@
   <e><p><l>ã</l><r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
   <e><p><l>ã</l><r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="ins"/></r></p></e>
   <e><p><l>ie</l><r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="loc"/></r></p></e>
-  <e><p><l>o</l><r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+  <e r="LR"><p><l>o</l><r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+  <e><p><l>ò</l><r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
   <e><p><l>ë</l><r>a<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
   <e><p><l>ów</l><r>a<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
   <e r="LR"><p><l></l><r>a<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
@@ -2440,6 +2441,7 @@
 <e lm="wòjewództwò"><i>wòjewództw</i><par n="wòjewództw/ò__n"/></e>
 <e lm="towarzëstwò"><i>towarzëstw</i><par n="wòjewództw/ò__n"/></e>
 <e lm="autorstwò"><i>autorstw</i><par n="wòjewództw/ò__n"/></e>
+<e lm="niebò"><i>nieb</i><par n="wòjewództw/ò__n"/></e>
 <e lm="czérownictwò"><i>czérownictw</i><par n="wòjewództw/ò__n"/></e>
 <e lm="czezerstwò"><i>czezerstw</i><par n="wòjewództw/ò__n"/></e>
 <e lm="człowieczestwò"><i>człowieczestw</i><par n="wòjewództw/ò__n"/></e>
@@ -2979,6 +2981,7 @@
 <e lm="czë"><i>czë</i><par n="jak__adv"/></e>
 <e lm="czej"><i>czej</i><par n="jak__adv"/></e>
 <e lm="téż"><i>téż</i><par n="téż__adv"/></e>
+<e lm="niech"><i>niech</i><par n="téż__adv"/></e>
 <e lm="ju"><i>ju</i><par n="téż__adv"/></e>
 <e lm="dzysô"><i>dzysô</i><par n="téż__adv"/></e>
 <e lm="dzys"><i>dzys</i><par n="téż__adv"/></e>
