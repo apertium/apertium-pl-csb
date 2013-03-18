@@ -41266,15 +41266,15 @@
     <e lm="bezeń"><p><l>bezeń</l><r>bez<s n="pr"/><j/>prpers<s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
 
     <!-- Abbreviations -->
-    <e lm="np"><i>np</i><par n="np__abbr"/></e>
-    <e lm="tzw"><i>tzw</i><par n="np__abbr"/></e>
-    <e lm="itd"><i>itd</i><par n="np__abbr"/></e>
-    <e lm="etc"><i>etc</i><par n="np__abbr"/></e>
-    <e lm="ca"><i>ca</i><par n="np__abbr"/></e>
-    <e lm="ok"><i>ok</i><par n="np__abbr"/></e>
-    <e lm="m.in."><i>m.in.</i><par n="np__abbr"/></e>
-    <e lm="m.in." r="LR"><p><l>m.in</l><r>m.in.</r></p><par n="np__abbr"/></e>
-    <e lm="tj"><i>tj</i><par n="np__abbr"/></e>
+    <e lm="np"><i>np</i><par n="tu__adv"/></e>
+    <e lm="tzw"><i>tzw</i><par n="tu__adv"/></e>
+    <e lm="itd"><i>itd</i><par n="tu__adv"/></e>
+    <e lm="etc"><i>etc</i><par n="tu__adv"/></e>
+    <e lm="ca"><i>ca</i><par n="tu__adv"/></e>
+    <e lm="ok"><i>ok</i><par n="tu__adv"/></e>
+    <e lm="m.in."><i>m.in.</i><par n="tu__adv"/></e>
+    <e lm="m.in." r="LR"><p><l>m.in</l><r>m.in.</r></p><par n="tu__adv"/></e>
+    <e lm="tj"><i>tj</i><par n="tu__adv"/></e>
     <e lm="km"><i>km</i><par n="km__n"/></e>
     <e lm="dpi"><i>dpi</i><par n="km__n"/></e>
     <e lm="org"><i>org</i><par n="km__n"/></e>

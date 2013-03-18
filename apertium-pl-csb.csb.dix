@@ -1824,6 +1824,8 @@
 
       <!-- Present -->
   <e><p><l>óm</l><r>ac<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
+  <e r="LR"><p><l>am</l><r>ac<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
+  <e><p><l>ómë</l><r>ac<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r></p></e>
   <e><p><l>ô</l><r>ac<s n="vblex"/><s n="imperf"/><s n="pres"/></r></p><par n="BASE__ùczi"/></e>
   <e><p><l>ają</l><r>ac<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
   <e><p><l>ając</l><r>ac<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r></p></e>
@@ -2028,13 +2030,26 @@
   <e><p><l>ich</l><r>o<s n="det"/><s n="dem"/><s n="mi"/><s n="pl"/><s n="gen"/></r></p></e>
   <e><p><l>ich</l><r>o<s n="det"/><s n="dem"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
   <e><p><l>ich</l><r>o<s n="det"/><s n="dem"/><s n="nt"/><s n="pl"/><s n="gen"/></r></p></e>
-  <e><p><l>emu</l><r>o<s n="det"/><s n="dem"/><s n="mp"/><s n="sg"/><s n="dat"/></r></p></e>
-  <e><p><l>emu</l><r>o<s n="det"/><s n="dem"/><s n="ma"/><s n="sg"/><s n="dat"/></r></p></e>
-  <e><p><l>emu</l><r>o<s n="det"/><s n="dem"/><s n="mi"/><s n="sg"/><s n="dat"/></r></p></e>
+  <e><p><l>émù</l><r>o<s n="det"/><s n="dem"/><s n="mp"/><s n="sg"/><s n="dat"/></r></p></e>
+  <e r="LR"><p><l>emù</l><r>o<s n="det"/><s n="dem"/><s n="mp"/><s n="sg"/><s n="dat"/></r></p></e>
+  <e r="LR"><p><l>ëmù</l><r>o<s n="det"/><s n="dem"/><s n="mp"/><s n="sg"/><s n="dat"/></r></p></e>
+  <e r="LR"><p><l>emu</l><r>o<s n="det"/><s n="dem"/><s n="mp"/><s n="sg"/><s n="dat"/></r></p></e>
+  <e><p><l>emù</l><r>o<s n="det"/><s n="dem"/><s n="ma"/><s n="sg"/><s n="dat"/></r></p></e>
+  <e><p><l>émù</l><r>o<s n="det"/><s n="dem"/><s n="ma"/><s n="sg"/><s n="dat"/></r></p></e>
+  <e r="LR"><p><l>emù</l><r>o<s n="det"/><s n="dem"/><s n="ma"/><s n="sg"/><s n="dat"/></r></p></e>
+  <e r="LR"><p><l>ëmù</l><r>o<s n="det"/><s n="dem"/><s n="ma"/><s n="sg"/><s n="dat"/></r></p></e>
+  <e r="LR"><p><l>emu</l><r>o<s n="det"/><s n="dem"/><s n="ma"/><s n="sg"/><s n="dat"/></r></p></e>
+  <e><p><l>émù</l><r>o<s n="det"/><s n="dem"/><s n="mi"/><s n="sg"/><s n="dat"/></r></p></e>
+  <e r="LR"><p><l>emù</l><r>o<s n="det"/><s n="dem"/><s n="mi"/><s n="sg"/><s n="dat"/></r></p></e>
+  <e r="LR"><p><l>ëmù</l><r>o<s n="det"/><s n="dem"/><s n="mi"/><s n="sg"/><s n="dat"/></r></p></e>
+  <e r="LR"><p><l>emu</l><r>o<s n="det"/><s n="dem"/><s n="mi"/><s n="sg"/><s n="dat"/></r></p></e>
   <e><p><l>i</l><r>o<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
   <e r="LR"><p><l>éj</l><r>o<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
   <e r="LR"><p><l>ej</l><r>o<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
-  <e><p><l>emu</l><r>o<s n="det"/><s n="dem"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p></e>
+  <e><p><l>émù</l><r>o<s n="det"/><s n="dem"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p></e>
+  <e r="LR"><p><l>emù</l><r>o<s n="det"/><s n="dem"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p></e>
+  <e r="LR"><p><l>ëmù</l><r>o<s n="det"/><s n="dem"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p></e>
+  <e r="LR"><p><l>emu</l><r>o<s n="det"/><s n="dem"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p></e>
   <e><p><l>im</l><r>o<s n="det"/><s n="dem"/><s n="mp"/><s n="pl"/><s n="dat"/></r></p></e>
   <e><p><l>im</l><r>o<s n="det"/><s n="dem"/><s n="ma"/><s n="pl"/><s n="dat"/></r></p></e>
   <e><p><l>im</l><r>o<s n="det"/><s n="dem"/><s n="mi"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -2955,6 +2970,7 @@
 <e lm="miec"><i>m</i><par n="m/iec__vbhaver"/></e>
 <e lm="mòc"><i>m</i><par n="m/òc__vaux"/></e>
 <e lm="mieszkac"><i>mieszk</i><par n="mieszk/ac__vblex"/></e><!-- live (inhabit) -->
+<e lm="witac"><i>wit</i><par n="mieszk/ac__vblex"/></e>
 <e lm="kòsztac"><i>kòszt</i><par n="kòszt/ac__vblex"/></e>
 <e lm="przińc"><i>prziń</i><par n="prziń/c__vblex"/></e>
 <e lm="ùczëc"><i>ùcz</i><par n="ùcz/ëc__vblex"/></e>
@@ -2980,10 +2996,12 @@
 <e lm="dze"><i>dze</i><par n="jak__adv"/></e>
 <e lm="czë"><i>czë</i><par n="jak__adv"/></e>
 <e lm="czej"><i>czej</i><par n="jak__adv"/></e>
+<e lm="kjej"><i>kjej</i><par n="jak__adv"/></e>
 <e lm="téż"><i>téż</i><par n="téż__adv"/></e>
 <e lm="niech"><i>niech</i><par n="téż__adv"/></e>
 <e lm="ju"><i>ju</i><par n="téż__adv"/></e>
 <e lm="dzysô"><i>dzysô</i><par n="téż__adv"/></e>
+<e lm="ëtd"><i>ëtd</i><par n="téż__adv"/></e>
 <e lm="dzys"><i>dzys</i><par n="téż__adv"/></e>
 <e lm="przede wszëtczim"><i>przede<b/>wszëtczim</i><par n="téż__adv"/></e>
 <e lm="nie"><i>nie</i><par n="téż__adv"/></e>
@@ -3278,6 +3296,9 @@
 <e lm="ważny"><i>ważn</i><par n="jasn/y__adj"/></e>
 <e lm="ważny"><p><l>ważniész</l><r>ważny</r></p><par n="lepsz/i__adj"/></e>
 <e lm="ważny"><p><l>nôważniész</l><r>ważny</r></p><par n="nôlepsz/i__adj"/></e>
+<e lm="wòlny"><i>wòln</i><par n="jasn/y__adj"/></e>
+<e lm="wòlny"><p><l>wòlniész</l><r>wòlny</r></p><par n="lepsz/i__adj"/></e>
+<e lm="wòlny"><p><l>nôwòlniész</l><r>wòlny</r></p><par n="nôlepsz/i__adj"/></e>
 <e lm="piérwi"><i>piérw</i><par n="piérw/i__det"/></e>
 <e lm="anonimòwi"><i>anonimòw</i><par n="zdrojow/i__adj"/></e>
 <e lm="terôzniészi"><i>terôzniész</i><par n="zdrojow/i__adj"/></e>
