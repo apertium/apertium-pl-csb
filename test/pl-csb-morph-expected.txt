@@ -1,0 +1,26 @@
+[8YqCy7e0NzwI#0] ^Zjednoczoe/*Zjednoczoe$^-/-<guio>$^e/*e$
+[/8YqCy7e0NzwI]
+[BNBQythQnqi9#0] ^najjyhoryynp/*najjyhoryynp$
+[/BNBQythQnqi9]
+[EhuYi4s-fq6y#0] ^Wielka/Wielki<adj><f><sg><nom>/Wielki<adj><f><sg><voc>$ ^BrkcZ/*BrkcZ$
+[/EhuYi4s-fq6y]
+[Fs7fgK3gHGK9#0] ^js/*js$
+[/Fs7fgK3gHGK9]
+[Jl_aF6NGEbFT#0] ^'/'<apos>$
+[/Jl_aF6NGEbFT]
+[KKC08QG6JH3C#0] ^Szwedzka/Szwedzki<adj><f><sg><nom>/Szwedzki<adj><f><sg><voc>$ ^uman/*uman$
+[/KKC08QG6JH3C]
+[LGJCMs3SIXcS#0] ^8/8<num><qnt>$
+[/LGJCMs3SIXcS]
+[MBhfsrCR-YgY#0] ^Lipnica/*Lipnica$ ^MudrpCduie/*MudrpCduie$
+[/MBhfsrCR-YgY]
+[QbgF6nrAFOI1#0] ^;/;<sent>$
+[/QbgF6nrAFOI1]
+[R4DpjeMCaQ1g#0] ^mld/mld<abbr>$
+[/R4DpjeMCaQ1g]
+[SyJ3d9TdH8Yc#0] ^4/4<num><pl>$
+[/SyJ3d9TdH8Yc]
+[wLcoGTZQOS4K#0] ^Kubuś/*Kubuś$ ^Pucha/*Pucha$
+[/wLcoGTZQOS4K]
+[zbTuKuppzGqD#0] ^./.<sent>$
+[/zbTuKuppzGqD]

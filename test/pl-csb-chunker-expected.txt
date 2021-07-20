@@ -1,0 +1,26 @@
+[8YqCy7e0NzwI#0] ^unknown<unknown>{^*Zjednoczoe$}$^default<default>{^-<guio>$}$^unknown<unknown>{^*e$}$
+[/8YqCy7e0NzwI]
+[BNBQythQnqi9#0] ^unknown<unknown>{^*najjyhoryynp$}$
+[/BNBQythQnqi9]
+[EhuYi4s-fq6y#0] ^Adj<SA><f><sg><nom>{^Wiôldżi<adj><2><3><4>$}$ ^unknown<unknown>{^*BrkcZ$}$
+[/EhuYi4s-fq6y]
+[Fs7fgK3gHGK9#0] ^unknown<unknown>{^*js$}$
+[/Fs7fgK3gHGK9]
+[Jl_aF6NGEbFT#0] ^default<default>{^@'<apos>$}$
+[/Jl_aF6NGEbFT]
+[KKC08QG6JH3C#0] ^Adj<SA><f><sg><nom>{^Szwedzczi<adj><2><3><4>$}$ ^unknown<unknown>{^*uman$}$
+[/KKC08QG6JH3C]
+[LGJCMs3SIXcS#0] ^Num<NUM>{^8<num><qnt>$}$
+[/LGJCMs3SIXcS]
+[MBhfsrCR-YgY#0] ^unknown<unknown>{^*Lipnica$}$ ^unknown<unknown>{^*MudrpCduie$}$
+[/MBhfsrCR-YgY]
+[QbgF6nrAFOI1#0] ^punt<sent>{^;<sent>$}$
+[/QbgF6nrAFOI1]
+[R4DpjeMCaQ1g#0] ^default<default>{^@mld<abbr>$}$
+[/R4DpjeMCaQ1g]
+[SyJ3d9TdH8Yc#0] ^Num<NUM><pl>{^4<num><pl>$}$
+[/SyJ3d9TdH8Yc]
+[wLcoGTZQOS4K#0] ^unknown<unknown>{^*Kubuś$}$ ^unknown<unknown>{^*Pucha$}$
+[/wLcoGTZQOS4K]
+[zbTuKuppzGqD#0] ^punt<sent>{^.<sent>$}$
+[/zbTuKuppzGqD]

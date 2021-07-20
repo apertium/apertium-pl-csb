@@ -28,3 +28,12 @@
 /pl-csb.t2x.bin
 /pl-csb.t3x.bin
 /stamp-h1
+/*.hfst
+/*.gz
+/*.pc
+/*.zhfst
+/.DS_Store
+/ap_include.am
+/*-*.prob
+/.deps
+/test/*-output.txt

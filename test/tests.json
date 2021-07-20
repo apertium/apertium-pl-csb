@@ -1,0 +1,10 @@
+{
+    "csb-pl": {
+        "input": "csb-pl-input.txt",
+        "mode": "csb-pl"
+    },
+    "pl-csb": {
+        "input": "pl-csb-input.txt",
+        "mode": "pl-csb"
+    }
+}
